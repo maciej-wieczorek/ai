@@ -1,0 +1,3 @@
+ocena: (lab+home+proj/12) + 2
+lab jest zazwyczaj na 3 punkty, ale można więcej
+wysyłać ipynb na mail po każdych zajęciach
