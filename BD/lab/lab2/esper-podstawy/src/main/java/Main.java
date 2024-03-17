@@ -28,9 +28,10 @@ public class Main {
         EPRuntime epRuntime = EPRuntimeProvider.getDefaultRuntime(configuration);
 
         EPDeployment deployment = compileAndDeploy(epRuntime,"""
-                select istream data, max(kursOtwarcia), spolka
-                from KursAkcji(spolka='Oracle')#length(2)
-                having max(kursOtwarcia) = kursOtwarcia
+                @name('answer')
+                select spolka, max(kursZamkniecia)
+                from KursAkcji(spolka in ('PepsiCo', 'CocaCola'))#ext_timed_batch(data.getTime(), 7 days)
+                group by spolka
                 """);
 
         ProstyListener prostyListener = new ProstyListener();

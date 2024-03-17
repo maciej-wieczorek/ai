@@ -1,0 +1,5 @@
+G - łatwy do nauczenia, łatwo dodac nową klasę (statystyki pozostają), łatwo obsłużyć brakujące dane, łatow wykorzystać dane bez etykiet, dobrze wykalibrowane prawdopodobieństwa (drzew i nn zazwyczaj nie są skalibrowne)
+D- łatwo wykorzytać przetworzone cechy (w G trzeba uważać na zależności)
+
+ridge - w^2, L2 norm
+lasso - |w|, L1 norm, pozwala wyzerować wagi
