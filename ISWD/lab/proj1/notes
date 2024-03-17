@@ -1,0 +1,13 @@
+Wydajność produkcji energii elektrycznej wzrośnie w przyszłości.
+grupa pierwsza może preferować scenariusze z pierwszej metody finansowania (F1) nad scenariusze z innych metod finansowania
+
+2, 26
+
+lp,C1,C2,C3,C4
+2,0.66,0.55,0.45,0.49
+26,0.71,0.25,0.88,0.67
+
+p.o.
+
+ui(ai) = 0 dla najgorszego
+ui(ai) = 1 dla najlepszego
