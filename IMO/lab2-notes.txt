@@ -1,0 +1,8 @@
+błądzenia jako benchmark, dać mu tyle samo czasu co najwolniejsze local search, startuje z losowego rozwiązania albo heurystycznego
+
+implementować wymianę wewnątrz i między trasowe jednocześnie
+w heurystycznym losować: wewnątrz lub zewnątrz, poącztek pętli, kierunek
+
+podać czasy obliczeń w implementacjach
+
+różnice w metodach (heurystyczna, steap) powinny być duże
