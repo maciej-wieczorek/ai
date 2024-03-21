@@ -1,0 +1,43 @@
+zadanie 2: jest spójna
+
+1. warunek - patrz przekątna
+2. warunek - a1 jest 2*a2 więc wiersz a2 ma być 2 razy mniejsza niż wiersz a1
+Zadanie 3 na egazminie
+
+jak przybliżyć główny wektor własny:
+1.sumy po kolumnach potem po wierszach
+
+zadanie 4 na egzamin: 0.1, 0.24, 0.61, 0.05
+
+2. metoda potęgowa
+potęgowanie macierzy razy wektor 1, można zdekomponować kwadratową macierz żeby łatwiej potęgowac,
+na przekątnej będzie suma jedynek
+
+zadanie 5: 0.1, 0.23, 0.61, 0.05
+
+weryfikacjia spójności przez wektory własne:
+mażna by pomnożyć wartości macierzy razy wagi i pokazać najbardziej niespójne
+ndeks względnej spójności : dzielenie przez niespójność losowych macierze, jeśli niespojność jest ponad 0.1 to jest niespójna
+
+zadanie 6:
+4.05 - wektor własny (agent vector)
+4.05-4/3 = 0.02 czyli jest spójna
+
+Zero absolutne:
+wagi są na skali ilorazowaj, więc na pewno jest jakieś zero bezwzlgędne które można policzyć
+
+Zadanie 7
+B1 i B2:
+(20-x)/(18-x) = 16 dla tej pary (czyli jest inne dla każdej?)
+B1 i B3: 12.8
+B2 i B3 = 12
+różne wartości!
+Metoda przenosi się w skalę ilorazową które nie koniecznie jest poprawna
+
+całka Choquet: bardziej zaawansowana suma ważona
+slajd 37/43
+suma ważona z interakcją między kryteriami, jaki był wkład kryterium, większy wkład daje większą wagę
+dla wariantu srtujemy oceny na kryteriach, tylko kolejność, rozważamy od najmniejszej do największej, dodajemy jeszcze sztuczne zero
+
+zadanie 8:
+S: {g1, g2}, {g2, g3}
