@@ -29,9 +29,9 @@ public class Main {
 
         EPDeployment deployment = compileAndDeploy(epRuntime,"""
                 @name('answer')
-                select spolka, max(kursZamkniecia)
-                from KursAkcji(spolka in ('PepsiCo', 'CocaCola'))#ext_timed_batch(data.getTime(), 7 days)
-                group by spolka
+                select data, spolka, obrot
+                from KursAkcji(market = "NYSE")#ext_timed_batch(data.getTime(), 7 days)
+                order by obrot desc limit 1 offset 2
                 """);
 
         ProstyListener prostyListener = new ProstyListener();
