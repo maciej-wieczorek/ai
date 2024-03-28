@@ -1,0 +1,30 @@
+2.
+c1(ITA,FRA) = 1/2
+c2(ITA,FRA) = 0
+c3(ITA,FRA) = 1
+D1(ITA,FRA) = 0
+D2(ITA,FRA) = 0
+D3(ITA,FRA) = 0
+C(ITA,FRA) = (1/2 * 3 + 0 * 3 + 1 * 4) / 10 = 0.55
+
+c1(FRA,ITA) = 1
+c2(FRA,ITA) = 1
+c3(FRA,ITA) = 0
+D1(FRA,ITA) = 0
+D2(FRA,ITA) = 0
+D3(FRA,ITA) = 0
+C(FRA,ITA) = 6/10
+σ(FRA,ITA) = 6/10
+
+3.
+Procedura dystylacji (chyba nie będzie na egzaminie):
+k = 0
+lambda_0 = 1
+lambda_1 = s(lambda_0) = -0.15 * 1 + 0.3 = 0.15
+k = 1
+wybieramy lepsze od 0.85
+porównania parami czy lepsze od s
+siła p1 = 2, reszta 0
+słabość p3 = 1,
+do D trafiają z maksymalną wiatygodnościa
+jak D ma więcej niż jeden do destylacja wewnęczna, 
