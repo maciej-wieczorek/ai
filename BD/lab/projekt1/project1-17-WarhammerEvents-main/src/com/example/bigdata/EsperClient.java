@@ -110,21 +110,28 @@ public class EsperClient {
                     FROM WarhammerEvent(winner = 1)#ext_timed_batch(java.sql.Timestamp.valueOf(its).getTime(), 10 sec)
                     HAVING attack_number_of_units + 10 <= AVG(attack_number_of_units);
 
-        Zad 4
+        Zad 4*
+                    @name('answer') SELECT a.attack_faction, a.defend_faction
+                    FROM WarhammerEvent(attack_faction LIKE 'The Empire' or defend_faction LIKE 'The Empire')#length(10) a
+                    JOIN
+                    WarhammerEvent(attack_faction LIKE 'Beasts of Chaos' or defend_faction LIKE 'Beasts of Chaos')#length(10) b
+
+        Zad 5
          */
 
 
         try {
             epCompiled = compiler.compile("""
-                    @public @buseventtype create json schema WarhammerEvent(location string,
-                    attack_faction string, defend_faction string, attack_number_of_units int,
-                    defend_number_of_units int, winner int, ets string, its string);
-                    
-                    @name('answer') SELECT a.attack_faction, a.defend_faction
-                    FROM WarhammerEvent(attack_faction LIKE 'The Empire' or defend_faction LIKE 'The Empire')#length(10) a
-                    JOIN
-                    WarhammerEvent(attack_faction LIKE 'Beasts of Chaos' or defend_faction LIKE 'Beasts of Chaos')#length(10) b
-                    """,
+                            @public @buseventtype create json schema WarhammerEvent(location string,
+                            attack_faction string, defend_faction string, attack_number_of_units int,
+                            defend_number_of_units int, winner int, ets string, its string);
+                                                                            
+                            create window WarhammerTicker#length(10) as WarhammerEvent;
+                            insert into WarhammerTicker select * from WarhammerEvent
+                            where attack_faction in ('The Empire', 'Beasts of Chaos') or defend_faction in ('The Empire', 'Beasts of Chaos');
+                            @name('answer')
+                            select a.* from pattern[ every a=WarhammerTicker ]
+                            """,
                     compilerArgs);
         }
         catch (EPCompileException ex) {

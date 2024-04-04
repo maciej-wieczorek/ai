@@ -1,0 +1,7 @@
+gracze
+akcje
+wypłaty
+macierz wypłat
+strategia - podzbiór akcji (mieszana (prawdopodobieństo), czysta (jeden na 100%), prawdziwie mieszana (zawsze bez 0%))
+strategia zdominiowana 
+gra z współpracą
