@@ -55,15 +55,7 @@ public class EsperClient {
                     create window AcmeTicker#length(10) as Ticker;
                     insert into AcmeTicker select * from Ticker where symbol = 'ACME';
                     @name('answer')
-                    select startPrice, lowPrice, highPrice
-                    from AcmeTicker
-                    match_recognize (
-                        measures st.price as startPrice, low.price as lowPrice, high.price as highPrice
-                        pattern (st low high)
-                        define
-                            low as low.price < st.price,
-                            high as high.price > low.price
-                    )
+                    select a.tstamp, b.tstamp, b.price, a.price from pattern[ every a=AcmeTicker(price>23) -> (b=AcmeTicker(price>23) and not c=AcmeTicker(price<14)) ]
                     """, compilerArgs);
         }
         catch (EPCompileException ex) {

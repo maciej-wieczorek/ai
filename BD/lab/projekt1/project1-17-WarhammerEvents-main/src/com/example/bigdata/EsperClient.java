@@ -111,12 +111,69 @@ public class EsperClient {
                     HAVING attack_number_of_units + 10 <= AVG(attack_number_of_units);
 
         Zad 4*
-                    @name('answer') SELECT a.attack_faction, a.defend_faction
-                    FROM WarhammerEvent(attack_faction LIKE 'The Empire' or defend_faction LIKE 'The Empire')#length(10) a
-                    JOIN
-                    WarhammerEvent(attack_faction LIKE 'Beasts of Chaos' or defend_faction LIKE 'Beasts of Chaos')#length(10) b
+                    @name('answer')
+                    select
+                    (
+                    SELECT sum(attack_number_of_units) as suma1
+                    FROM WarhammerEvent#length(10)
+                    where attack_faction = 'The Empire'
+                    ) +
+                    (
+                    SELECT sum(defend_number_of_units) as suma2
+                    FROM WarhammerEvent#length(10)
+                    where defend_faction = 'The Empire'
+                    ) as units_of_empire,
+                    (
+                    SELECT sum(attack_number_of_units) as suma3
+                    FROM WarhammerEvent#length(10)
+                    where attack_faction = 'Beasts of Chaos'
+                    ) +
+                    (
+                    SELECT sum(defend_number_of_units) as suma4
+                    FROM WarhammerEvent#length(10)
+                    where defend_faction = 'Beasts of Chaos'
+                    ) as units_of_beasts
+                    from WarhammerEvent
 
         Zad 5
+
+                    create window WarhammerTicker#length(10) as WarhammerEvent;
+                    insert into WarhammerTicker select * from WarhammerEvent;
+                    @name('answer')
+                    select p[0].ets as ets1, p[1].ets as ets2, p[2].ets as ets3
+                    from pattern[every ([3:]
+                    p=    WarhammerTicker((attack_faction="The Empire" and winner=1) or (defend_faction="The Empire" and winner=0))
+                    until WarhammerTicker((attack_faction="Beasts of Chaos" and winner=1) or (defend_faction="Beasts of Chaos" and winner=0))
+                    )]
+
+        Zad 6
+
+                    create window WarhammerTicker#length(10) as WarhammerEvent;
+                    insert into WarhammerTicker select * from WarhammerEvent;
+                    @name('answer')
+                    select e1.ets as ets1, e4.ets as ets4, e1.attack_faction as faction_name
+                    from pattern[
+                    every e1 = WarhammerTicker() ->
+                    e2 = WarhammerTicker(attack_faction=e1.attack_faction) and not WarhammerTicker(defend_faction=e1.attack_faction) ->
+                    e3 = WarhammerTicker(defend_faction=e1.attack_faction) and not WarhammerTicker(attack_faction=e1.attack_faction) ->
+                    e4 = WarhammerTicker(defend_faction=e1.attack_faction) and not WarhammerTicker(attack_faction=e1.attack_faction)
+                    ]
+
+        Zad 7
+                    create window WarhammerTicker#length(10) as WarhammerEvent;
+                    insert into WarhammerTicker select * from WarhammerEvent;
+                    @name('answer')
+                    select ets1, ets2, ets3, defend_faction
+                    from WarhammerTicker
+                    match_recognize (
+                        partition by defend_faction
+                        measures win.ets as ets1, secondwin.ets as ets2, last(keepwinning.ets) as ets3, win.defend_faction as defend_faction
+                        pattern (win secondwin keepwinning+)
+                        define
+                            win as win.winner = 2,
+                            secondwin as secondwin.winner = 2 and secondwin.defend_number_of_units < win.defend_number_of_units,
+                            keepwinning as keepwinning.winner = 2 and keepwinning.defend_number_of_units < prev(keepwinning.defend_number_of_units)
+                    )
          */
 
 
@@ -126,11 +183,29 @@ public class EsperClient {
                             attack_faction string, defend_faction string, attack_number_of_units int,
                             defend_number_of_units int, winner int, ets string, its string);
                                                                             
-                            create window WarhammerTicker#length(10) as WarhammerEvent;
-                            insert into WarhammerTicker select * from WarhammerEvent
-                            where attack_faction in ('The Empire', 'Beasts of Chaos') or defend_faction in ('The Empire', 'Beasts of Chaos');
-                            @name('answer')
-                            select a.* from pattern[ every a=WarhammerTicker ]
+                    @name('answer')
+                    select
+                    (
+                    SELECT sum(attack_number_of_units) as suma1
+                    FROM WarhammerEvent#length(10)
+                    where attack_faction = 'The Empire'
+                    ) +
+                    (
+                    SELECT sum(defend_number_of_units) as suma2
+                    FROM WarhammerEvent#length(10)
+                    where defend_faction = 'The Empire'
+                    ) as units_of_empire,
+                    (
+                    SELECT sum(attack_number_of_units) as suma3
+                    FROM WarhammerEvent#length(10)
+                    where attack_faction = 'Beasts of Chaos'
+                    ) +
+                    (
+                    SELECT sum(defend_number_of_units) as suma4
+                    FROM WarhammerEvent#length(10)
+                    where defend_faction = 'Beasts of Chaos'
+                    ) as units_of_beasts
+                    from WarhammerEvent
                             """,
                     compilerArgs);
         }

@@ -1,0 +1,6 @@
+A1 B1 C1 B2 A2 D1 A3 B3 E1 A4 F1 B4
+
+every (A -> B)      A1B1, A2B3, A4B4
+every A -> B 	    A1B1, A2B3, A3B3, A4B4
+A -> every B 	    A1B1, A1B2, A1B3, A1B4
+every A -> every B  A1B1, A1B2, A1B3, A2B3, A3B3, A1B4, A2B4, A3B4, A4B4
