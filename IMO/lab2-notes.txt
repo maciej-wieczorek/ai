@@ -6,3 +6,5 @@ w heurystycznym losować: wewnątrz lub zewnątrz, poącztek pętli, kierunek
 podać czasy obliczeń w implementacjach
 
 różnice w metodach (heurystyczna, steap) powinny być duże
+
+punkty swobody w kombinacjach: steep/heuristic, losowy starty/gotowy start, wymiana wierzchołków / wymiana krawędzi
