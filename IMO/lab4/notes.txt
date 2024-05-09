@@ -1,0 +1,6 @@
+multi start - dodadkowa randomozacja jak heurystyka, lepiej losowe
+perturbacje wymyślić samemu lub te gotowe
+
+usuwać 3-5 losowych fragmentów rozwiązania zamiast np. jednego dłuższego
+
+repair - wstawdienie wiezchołków np za pomoca zalu

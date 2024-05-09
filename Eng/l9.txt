@@ -1,0 +1,39 @@
+1.
+1 Characger assassination
+2 unsubstantiated
+3 publicity stunts
+4 impartial
+5 bend the truth
+6 credible
+7 question of interpretatin
+8 disclose
+9 footage
+
+5a.
+4
+
+6.
+1b
+2a
+3c
+4c
+
+1
+1 quite
+2 pretty
+3 completely
+4 absolutely
+5 entirely
+6 somewhat
+7 totally
+8 faitly
+9 seriously
+10 quite
+11 absolutely
+12 pretty
+13 barely
+14 virtually
+15 rather
+
+test:
+3,4,5,6
