@@ -1,0 +1,15 @@
+metody klasyczne
+argminx w * f(x)
+nie odnajduje wklęsłych
+
+metoda epsilon
+min f1 = epsilon2=11, odcinamy f2 i minimalizujemy f1
+
+metody ewolucyjne
+nsga-2
+fronty niezdominowane co każdą iterację
+odległość zatłoczenia w ramach jednego frontu
+cd na każdym kryterium znajdujemy najbliższy lepszy i najlbiższy gorszy i liczyby odległość
+jak jest graniczny do odległość jest nieskończoność
+liczymy po wszystkich i jest to połowa obwodu hiperkostki
+xi>xj jak jest we wcześnijszym froncie albo ma wyższą odległość zatłoczenia (są bardziej unikalne, wokół nich nic nie ma)

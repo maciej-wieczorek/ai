@@ -1,5 +1,6 @@
 from pulp import *
 import matplotlib.pyplot as plt
+import numpy as np
 
 ### macierz odleglosci
 D = [
@@ -63,32 +64,53 @@ L = [4, 14, 16, 22]
 
 ### OBLICZENIA
 
+RESULTS = {}
+
 # Utworzenie instancji problemu
-model = LpProblem(name="Pfitzer", sense=LpMaximize)
+for e in np.linspace(0.0, 1.0, num=10):
+    model = LpProblem(name="Pfitzer", sense=LpMinimize)
 
-# Utworzenie dwoch zmiennych decyzyjnych
-x1 = LpVariable(name="x1", lowBound=0, cat='Continuous')
-x2 = LpVariable(name="x2", lowBound=0, cat='Continuous')
+    X = []
+    for i in range(len(D)):
+        X_i = []
+        for j in range(len(D[0])):
+            X_i.append(LpVariable(cat='Binary', name="x_"+str(i)+"_"+str(j)))
+        X.append(X_i)
+        model += (lpSum(X_i) == 1, "przydzial_zawsze_jednej_lokalizacji_"+str(i))
 
-X = []
-for i in range(len(D)):
-    X_i = []
-    for j in range(len(D[0])):
-        X_i.append(LpVariable(cat='Binary', name="x_"+str(i)+"_"+str(j)))
-    X.append(X_i)
-    model += (sum(X_i) == 1, "przydzial_zawsze_jednej_lokalizacji_"+str(i))
+    for col in range(len(D[0])):
+        model += lpSum([ X[row][col] * P[row] for row in range(len(D)) ]) <= 1.1
+        model += lpSum([ X[row][col] * P[row] for row in range(len(D)) ]) >= 0.9
 
-# Ograniczenia problemu
-model += (2 * x1 + 1*x2 <= 6, "#2 constraint")
-model += (-1 * x1 + 1*x2 == 1, "#3 constraint")
+    # Funkcja celu
+    f2_func = lpSum(lpSum(X[i][j]*A[i][j] for j in range(len(D[i]))) for i in range(len(D))) / len(D)
+    model += f2_func >= e
 
-# Funkcja celu
-obj_func = 4*x1 + 2 * x2
-model += obj_func
+    f1_func = lpSum(lpSum(X[i][j]*D[i][j] for j in range(len(D[i]))) for i in range(len(D)))
+    obj_func = f1_func
+    model += obj_func
 
-# Uruchomienie solvera
-status = model.solve()
+    # Uruchomienie solvera
+    # print(model)
+    status = model.solve()
 
-# Wypisanie statusu
-print(f"status: {model.status}, {LpStatus[model.status]}")
-print(f"objective: {model.objective.value()}")
+    # Wypisanie statusu
+    # print(f"status: {model.status}, {LpStatus[model.status]}")
+    # print(f"objective: {model.objective.value()}")
+
+    OUTPUT = np.zeros([len(D), len(D[0])])
+    for variable in model.variables():
+        i,j = [int(x) for x in variable.name.split('_')[1:]]
+        OUTPUT[i][j] = variable.value()
+
+    # print(OUTPUT)
+    RESULTS[e] = model.objective.value()
+
+print(RESULTS)
+
+plt.plot(list(RESULTS.keys()), list(RESULTS.values()), marker='o')
+plt.xlabel('Epsilon (1.0 = rozwiązanie identyczne z aktualnym)')
+plt.ylabel('F1')
+plt.title('Jak wymuszenie odchyłku od aktualnego przydziału wpływa na funkcję celu')
+plt.grid(True)
+plt.show()
