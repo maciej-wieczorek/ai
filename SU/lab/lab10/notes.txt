@@ -1,0 +1,3 @@
+surrogate loss:
+exp: pozwala się nadal uczyć jak mamy juz 100% klasyfikacji
+model addytywny - przyrostowy = greedy

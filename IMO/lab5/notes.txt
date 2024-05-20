@@ -1,0 +1,1 @@
+lab6 - tylko testy globalne wypukłości (nie porównywać do siebie) 8 wykressów w pierwszym wyniku korelacji
