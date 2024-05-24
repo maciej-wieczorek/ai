@@ -1,3 +1,5 @@
 surrogate loss:
 exp: pozwala się nadal uczyć jak mamy juz 100% klasyfikacji
 model addytywny - przyrostowy = greedy
+gradient boosting - max głębokość drzewa = max liczba interakcji pomiędzy cechami
+uwaga na głębokość drzewa (max 10), eta powinna byc niska
