@@ -1,0 +1,1683 @@
+id,company,company size,location,technology,seniority,salary employment min,salary employment max,salary b2b min,salary b2b max
+6b6fe6d3b2e0091122903db0689862d1,Avenga,1000.0,Remote,JavaScript,mid,,,20160.0,21840.0
+f1ce504b279535f59eb0ca86467a6a52,Avenga,1000.0,Warszawa,JavaScript,mid,,,20160.0,21840.0
+05e8d244bf35f52a4961530fce23c3e3,Avenga,1000.0,Warszawa,Java,senior,,,26880.0,31920.0
+36840bdf865fbd69d1cedd060ac089df,Avenga,1000.0,Remote,Java,senior,,,26880.0,31080.0
+ed1018afa0b1d12a38e64575eab5cee1,Avenga,1000.0,Warszawa,Java,senior,,,26880.0,31080.0
+4efacafb567a370847c138a7e558feb9,Avenga,1000.0,Kraków,Java,mid,,,18480.0,21840.0
+cacc463844beca41bcbf0013b1e5a86e,Avenga,1000.0,Warszawa,Java,senior,,,26880.0,33600.0
+151feaf29fd141476ad7881241dca0b2,Avenga,1000.0,Kraków,Java,senior,,,26880.0,33600.0
+0e9cf05cb8b4c6b5c35048d01c683567,Avenga,1000.0,Warszawa,Python,mid,,,18480.0,23520.0
+eb5a50d248b0ec27b78d8234e7bb0f09,Avenga,1000.0,Warszawa,Java,senior,,,26880.0,30240.0
+9ccc10e9c27124a3b0b680bde0d322bb,Avenga,1000.0,Remote,JavaScript,senior,,,20160.0,23520.0
+1edc8348ea2612292eb5788281ef9e53,Avenga,1000.0,Warszawa,JavaScript,senior,,,20160.0,23520.0
+8fd81bed230cfaaf3f5df6960fa70993,Avenga,1000.0,Gdańsk,JavaScript,senior,,,20160.0,23520.0
+1bb1c5a52c34c210d6d7bb35635a3bd0,Avenga,1000.0,Wrocław,JavaScript,senior,,,20160.0,23520.0
+27bb7625b37f928735b8b014e461cd5f,Avenga,1000.0,Kraków,JavaScript,senior,,,20160.0,23520.0
+2632503e8f45f3f3fc3da20d85238f4b,Avenga,1000.0,Katowice,JavaScript,senior,,,20160.0,23520.0
+99f4e6e914391c5106f7862202d94e59,Avenga,1000.0,Remote,Java,expert,,,30240.0,36960.0
+c5800e383955da3af1954ecee11e037c,Avenga,1000.0,Warszawa,Java,expert,,,30240.0,36960.0
+1628d17581d5c842eac76902c37a1670,Link Group,100.0,Warszawa,C/C++,mid,15000.0,25000.0,,
+9c97da8c0a8702b60ebf1c91cc2bc76f,Link Group,100.0,Remote,Python,senior,,,34880.0,43600.0
+f165a6226defa8611b52becf16081807,Link Group,100.0,Gdańsk,Python,senior,,,34880.0,43600.0
+181a86ed03e602abab0e3d03df514e4e,Link Group,100.0,Kraków,Python,senior,,,34880.0,43600.0
+b6c437804623c1848ac37aad8cc85b64,Link Group,100.0,Wrocław,Python,senior,,,34880.0,43600.0
+450dac2a7403708f40b478b9c106e7dd,Link Group,100.0,Remote,Python,senior,,,38640.0,43680.0
+0444ac7178768725d37f30c5ff459268,Link Group,100.0,Warszawa,Python,senior,,,38640.0,43680.0
+cbcae7520ab310ffd0df68fd118296e9,Link Group,100.0,Wrocław,Python,senior,,,38640.0,43680.0
+a890dfceccd44f6a3dfd06bf3d0ce9fe,Link Group,100.0,Gdańsk,Python,senior,,,38640.0,43680.0
+3a279b6909f79644b69be596c80d4a43,Link Group,100.0,Kraków,Python,senior,,,38640.0,43680.0
+1b3ca69218afe9dda3c5235410f99120,Link Group,100.0,Warszawa,Java,mid,,,22680.0,25200.0
+b986b2cce3e8ae033e9670c946e49731,Link Group,100.0,Warszawa,Python,senior,27000.0,32000.0,27000.0,32000.0
+85d443c2e52080e8eb9d0fffbfb233e0,Link Group,100.0,Warszawa,Mobile,senior,18000.0,30000.0,18000.0,30000.0
+db41e844991546abaebdad157305d3f1,Link Group,100.0,Gdańsk,Mobile,senior,18000.0,30000.0,18000.0,30000.0
+c9b468cb2668057c4a3a5c968078ed54,Link Group,100.0,Kraków,Mobile,senior,18000.0,30000.0,18000.0,30000.0
+f19007a85a29221ee06a04fcee4e58fd,Link Group,100.0,Wrocław,Mobile,senior,18000.0,30000.0,18000.0,30000.0
+702139d5054c168ca6f240f0c67890cb,Hitachi Energy,1000.0,Kraków,C/C++,senior,16000.0,23000.0,,
+d8ef552f93e844742999ae9485f1f000,Hitachi Energy,1000.0,Kraków,C#,senior,16000.0,23000.0,,
+1303a6eb39192943092ae5e1a6ae309d,Hitachi Energy,1000.0,Kraków,Kotlin,senior,12000.0,18000.0,,
+56b73212d9bc684a8fa7a48ecb2d3655,Hitachi Energy,1000.0,Kraków,C#,senior,14000.0,19000.0,,
+ec66d2211d50def18fdc480cac436ea5,Hitachi Energy,1000.0,Kraków,C#,senior,21000.0,27000.0,,
+de5e51d6df69a08c852e325278b28419,Ework Group,10.0,Remote,Python,senior,,,29113.0,32024.0
+1454fa200267104e6543a8bff4523ebb,Ework Group,10.0,Warszawa,Python,senior,,,29113.0,32024.0
+e797c3dd1a2116cdf4aa4560e4f7fb05,Ework Group,10.0,Remote,C#,senior,,,25200.0,30240.0
+17f2f82f788b74b960bf2a3289d8c2bb,Ework Group,10.0,Wrocław,C#,senior,,,25200.0,30240.0
+ccdaf20c254026b04c61e43402072c76,Ework Group,10.0,Remote,JavaScript,expert,,,25600.0,28800.0
+b7a017e53649f1ac3689abfd26b4a16f,Ework Group,10.0,Wrocław,JavaScript,expert,,,25600.0,28800.0
+b611cc45af8e8ecf6c76aa72083451b0,Ework Group,10.0,Gdańsk,JavaScript,mid,,,20800.0,24500.0
+6470b5d26fc632050025fd19185e63ea,Ework Group,10.0,Remote,C#,mid,,,18480.0,21840.0
+1d51ed4fcc736d2983e3202f3db7d4f6,Ework Group,10.0,Warszawa,C#,mid,,,18480.0,21840.0
+811de00744e6d08926fb163e82480a97,Box,1000.0,Warszawa,JavaScript,senior,30000.0,35000.0,,
+177fc416f27bcad0990487eafcf4927e,Box,1000.0,Warszawa,C/C++,senior,30000.0,35000.0,,
+fe6b8b32830d7469b71eb71eae81765f,Box,1000.0,Warszawa,Java,senior,30000.0,35000.0,,
+aeb1c3e09cfe967e5c0267c3218793eb,Box,1000.0,Warszawa,Java,senior,37000.0,44000.0,,
+ae6f15e795140526b219254fd7b38a96,N-iX,1000.0,Remote,JavaScript,mid,,,13080.0,15260.0
+ae1e75f165c3a29d9a22681e9abceed5,N-iX,1000.0,Kraków,JavaScript,mid,,,13080.0,15260.0
+b70445dc038513c7b94b52373a08e68e,N-iX,1000.0,Wrocław,JavaScript,mid,,,13080.0,15260.0
+d4a0cf37b88d8df138ba40f677d061f4,N-iX,1000.0,Warszawa,JavaScript,mid,,,13080.0,15260.0
+eb4f695118df558c2b2f24317d6f0810,N-iX,1000.0,Remote,Python,senior,,,16568.0,25288.0
+e536c6d1d092dac272aefe1e2b89927e,N-iX,1000.0,Kraków,Python,senior,,,16568.0,25288.0
+b2eb612a4f30c7d81e8e1e2ef4e8ee05,N-iX,1000.0,Wrocław,Python,senior,,,16568.0,25288.0
+593fe07ab75dde571bc4174df467e379,N-iX,1000.0,Warszawa,Python,senior,,,16568.0,25288.0
+84a9ac6519a94a043325e92cf1713d56,N-iX,1000.0,Remote,Golang,senior,,,19184.0,28776.0
+f62acb14591f0d87225a171b158bad70,N-iX,1000.0,Kraków,Golang,senior,,,19184.0,28776.0
+e9ff77db19ba1f9b65427abff5e1c796,N-iX,1000.0,Wrocław,Golang,senior,,,19184.0,28776.0
+fac61eb6e74abd63241a3e2264d0179a,N-iX,1000.0,Warszawa,Golang,senior,,,19184.0,28776.0
+af0d10d69fd2b8bcfc1927fd4a14fbed,N-iX,1000.0,Remote,JavaScript,senior,,,19620.0,23980.0
+a74ab00ad3c63443fe60821546a5e91a,N-iX,1000.0,Kraków,JavaScript,senior,,,19620.0,23980.0
+549150844425b1445eb4f1ef8e0aea2a,N-iX,1000.0,Wrocław,JavaScript,senior,,,19620.0,23980.0
+efee6d32d2e83424b092c909bb40a5cf,N-iX,1000.0,Warszawa,JavaScript,senior,,,19620.0,23980.0
+ed7deefb2fd60fe1d51c125561f7ddb5,N-iX,1000.0,Remote,Java,senior,21800.0,23980.0,23980.0,27032.0
+a548ac36b4dbbb72d413646dac198d1a,N-iX,1000.0,Kraków,Java,senior,21800.0,23980.0,23980.0,27032.0
+0ade64bc569f45df655ed303eb08a2a0,N-iX,1000.0,Wrocław,Java,senior,21800.0,23980.0,23980.0,27032.0
+fb2934bc55112443201e5adb23ac2f18,N-iX,1000.0,Warszawa,Java,senior,21800.0,23980.0,23980.0,27032.0
+10b4cb2dd7a85de8142a24a055909ea4,N-iX,1000.0,Remote,JavaScript,senior,,,17440.0,24852.0
+59c77f90a9851f8722fe9e14359a936f,N-iX,1000.0,Kraków,JavaScript,senior,,,17440.0,24852.0
+4d6146bbf88865691f309924221de814,N-iX,1000.0,Wrocław,JavaScript,senior,,,17440.0,24852.0
+d3ad9847153b18386e63485306502dd7,N-iX,1000.0,Remote,Mobile,senior,,,19620.0,20492.0
+0e627c31de93226ca138cfabfc1e324f,N-iX,1000.0,Kraków,Mobile,senior,,,19620.0,20492.0
+d79959bef1d9edd1ae3a5f1c2a739035,N-iX,1000.0,Remote,JavaScript,senior,,,21800.0,26596.0
+b3401de2b8d0a4eab1c78433365c6177,N-iX,1000.0,Kraków,JavaScript,senior,,,21800.0,26596.0
+d777c57ea340bf68b91458ea719daa25,N-iX,1000.0,Wrocław,JavaScript,senior,,,21800.0,26596.0
+54cd209d75620fba6d688c2d786e6819,N-iX,1000.0,Warszawa,JavaScript,senior,,,21800.0,26596.0
+4ae3c97e87e432dcf71e477014290e43,N-iX,1000.0,Remote,C#,senior,,,19620.0,24852.0
+9593e71247d47015aae13744f90a67a5,N-iX,1000.0,Warszawa,C#,senior,,,19620.0,24852.0
+49f7fe2312ed6865f9dbd97b7431e599,N-iX,1000.0,Remote,Python,senior,,,21800.0,28776.0
+53292d2fc7e914f188435c48eba16781,N-iX,1000.0,Kraków,Python,senior,,,21800.0,28776.0
+1897f50a7070ea964f09dbc3b658cabb,N-iX,1000.0,Wrocław,Python,senior,,,21800.0,28776.0
+a2905d11f1e596364da51a6f1bdc3489,N-iX,1000.0,Warszawa,Python,senior,,,21800.0,28776.0
+05dbc1ddba6a1b7e4aa72e74b2d1d911,N-iX,1000.0,Remote,C#,senior,,,21364.0,21800.0
+2b5cecf46ff26d57cb2e4fa4b2a2c02b,N-iX,1000.0,Kraków,C#,senior,,,21364.0,21800.0
+aeb88329b3f8b0d67901ad471e451a0a,N-iX,1000.0,Remote,JavaScript,senior,,,17440.0,23980.0
+4fbb9dd0cc372535031a4aa461746f42,N-iX,1000.0,Kraków,JavaScript,senior,,,17440.0,23980.0
+543dec901c12bf9dcf2cc8b5078d3be4,N-iX,1000.0,Wrocław,JavaScript,senior,,,17440.0,23980.0
+29387d05bb24f4efbb5352c7c56d83fb,N-iX,1000.0,Warszawa,JavaScript,senior,,,17440.0,23980.0
+ca5932a48c55d17f68bdc8848275a2ee,ITDS Poland,100.0,Warszawa,C#,senior,,,14700.0,23100.0
+127bd82a8f3be072c02d10a41bed4c3c,ITDS Poland,100.0,Warszawa,Java,senior,,,20000.0,30500.0
+115cda732ded47823812daf19d5c8d82,ITDS Poland,100.0,Warszawa,Python,senior,,,16800.0,25200.0
+eb61c334887d949dc6cc1805ff669361,ITDS Poland,100.0,Warszawa,Python,senior,,,14700.0,21840.0
+7ab42d159e9ab809dc73afbd7c45c7f4,ITDS Poland,100.0,Warszawa,Java,senior,,,16800.0,21840.0
+5f2401e7476b4b56f5b0d7a95bf594e5,ITDS Poland,100.0,Kraków,Python,senior,,,21840.0,25200.0
+315137ff8def317b8905747734930ab4,ITDS Poland,100.0,Warszawa,C#,mid,,,16800.0,21840.0
+c01bf705139dca7f204f579d74661503,ITDS Poland,100.0,Warszawa,C#,senior,,,18900.0,21000.0
+87d5c274b95bd12baaf572bbafa46e48,VML Commerce & Technology,100.0,Remote,JavaScript,mid,,,10000.0,15000.0
+d640e809cabc24c39afd759563e554d1,VML Commerce & Technology,100.0,Katowice,JavaScript,mid,,,10000.0,15000.0
+ebf7578c6206b30d73836bf20d7782e8,VML Commerce & Technology,100.0,Poznań,JavaScript,mid,,,10000.0,15000.0
+cfecce783f7b6efb621b4a7bbb337f42,Bayer Sp. z o.o.,100.0,Warszawa,Python,expert,25000.0,35000.0,,
+55993b01d889b66cb8cdd38bfe4521ce,Bayer Sp. z o.o.,100.0,Warszawa,JavaScript,senior,18000.0,28000.0,,
+3f81bbd18b164304bfae07b4d7a73b47,Bayer Sp. z o.o.,100.0,Warszawa,Python,mid,14000.0,23000.0,,
+ef956bb763877926609ae6895046355f,Bayer Sp. z o.o.,100.0,Warszawa,JavaScript,mid,15000.0,22000.0,,
+aadaefd176f9d2e011e2b4ecde03d86a,Bayer Sp. z o.o.,100.0,Warszawa,Python,senior,18000.0,28000.0,,
+2046da5e311155d3fa1c7b0f0b8d870a,Bayer Sp. z o.o.,100.0,Warszawa,Python,senior,20000.0,30000.0,,
+398f5b5b3861606613125fb7dd7a1360,7N,1000.0,Remote,Java,senior,,,26040.0,29400.0
+96c4cda2a046080bbffb15ef04f46c80,7N,1000.0,Warszawa,Java,senior,,,26040.0,29400.0
+15dc0600fc8a7351c08b069e5f720051,7N,1000.0,Warszawa,Java,senior,,,25200.0,30240.0
+fe350e68c5f33a2f6165717e48a2e3ba,Tesco Technology,100.0,Kraków,Java,mid,18000.0,24000.0,20000.0,27000.0
+1da33e690e9543e343c3e2268b6da0b2,Tesco Technology,100.0,Kraków,Python,senior,25000.0,34000.0,26000.0,40000.0
+5e859c28e293663fefac7b47f0318f47,Tesco Technology,100.0,Kraków,Scala,senior,25000.0,34000.0,26000.0,40000.0
+e94175eb89715584b34c20d6d3ca6fd6,Tesco Technology,100.0,Kraków,Python,senior,24000.0,32000.0,26000.0,36000.0
+f7c25fd6a42b0833bab218c2335d17fb,Centralny Ośrodek Informatyki,1000.0,Remote,JavaScript,junior,8000.0,10000.0,,
+6443f63374bb33647d7880c584cb3d99,Centralny Ośrodek Informatyki,1000.0,Warszawa,JavaScript,junior,8000.0,10000.0,,
+360480d37eda71b6a5110c8b644071e6,Centralny Ośrodek Informatyki,1000.0,Remote,Mobile,senior,19000.0,21000.0,,
+e394b86213a9ed152251238253af9264,Centralny Ośrodek Informatyki,1000.0,Warszawa,Mobile,senior,19000.0,21000.0,,
+9e8dd67a76dc0e20190e3010a4ee5f0c,Centralny Ośrodek Informatyki,1000.0,Remote,JavaScript,senior,17000.0,23000.0,,
+d6e8e4076b67d7b52178c32dd373c3c8,Centralny Ośrodek Informatyki,1000.0,Warszawa,JavaScript,senior,17000.0,23000.0,,
+f3e97da12b02d537a593521e4fd0886b,Centralny Ośrodek Informatyki,1000.0,Remote,Java,junior,8000.0,10000.0,,
+6a2f91bc5140e5caa274b6da8fcc2a7e,Centralny Ośrodek Informatyki,1000.0,Warszawa,Java,junior,8000.0,10000.0,,
+dc670db4496e54bdfe82764e8306a96e,Centralny Ośrodek Informatyki,1000.0,Remote,Java,senior,17000.0,23000.0,,
+ef7ebf328f3a73ddf816817dc0916b21,Centralny Ośrodek Informatyki,1000.0,Warszawa,Java,senior,17000.0,23000.0,,
+4cf6dd835f7cab553d93e3fe2a8aa6a7,Sii Poland,10000.0,Remote,Java,senior,18000.0,18000.0,27300.0,27300.0
+9083f0a6b030d66e799259b123813070,Sii Poland,10000.0,Gdańsk,Java,senior,18000.0,18000.0,27300.0,27300.0
+e41dd2bb157eb6506b249a47a89f20aa,Sii Poland,10000.0,Wrocław,Java,senior,18000.0,18000.0,27300.0,27300.0
+96c56181606b594f7770cc10f7ef613c,Sii Poland,10000.0,Katowice,Java,senior,18000.0,18000.0,27300.0,27300.0
+3e4bd1323e6e33343ae7ae9a28ccf2ac,Sii Poland,10000.0,Kraków,Java,senior,18000.0,18000.0,27300.0,27300.0
+6036e863e18e7afb689a0279e6340325,Sii Poland,10000.0,Poznań,Java,senior,18000.0,18000.0,27300.0,27300.0
+e145412ad7e4888c7530081de916f555,Sii Poland,10000.0,Warszawa,Java,senior,18000.0,18000.0,27300.0,27300.0
+def907144979140c16c9588edee73a8c,Sii Poland,10000.0,Remote,C#,mid,9000.0,13100.0,15750.0,18900.0
+b4e909d1e57a7ed8b6ced43f69d9899b,Sii Poland,10000.0,Katowice,C#,mid,9000.0,13100.0,15750.0,18900.0
+5444174e663213ea41d8b65ab200824c,Sii Poland,10000.0,Kraków,C#,mid,9000.0,13100.0,15750.0,18900.0
+1f0c8e29585df3b9188ea88d7aac00ea,Sii Poland,10000.0,Wrocław,C/C++,senior,13000.0,19000.0,16800.0,25200.0
+540ae9c147f4fbf933348a287ac3dc59,Sii Poland,10000.0,Gdańsk,C/C++,senior,13000.0,19000.0,16800.0,25200.0
+6399cf6ed81a104b933be6f4ae103195,Sii Poland,10000.0,Katowice,C/C++,senior,13000.0,19000.0,16800.0,25200.0
+319aee28ce252ff587b31cce4e152b6c,Sii Poland,10000.0,Kraków,C/C++,senior,13000.0,19000.0,16800.0,25200.0
+b757d6811606b0314c7a0d778c7fc461,Sii Poland,10000.0,Łódź,C/C++,senior,13000.0,19000.0,16800.0,25200.0
+339698a4676ad560f1b7489049cfc64f,Sii Poland,10000.0,Poznań,C/C++,senior,13000.0,19000.0,16800.0,25200.0
+9ee83860515e2eace309fa226e064ba7,Sii Poland,10000.0,Warszawa,C/C++,senior,13000.0,19000.0,16800.0,25200.0
+d98a5ec02a903f22ebdd108052ffeb68,Sii Poland,10000.0,Warszawa,Java,senior,14000.0,18000.0,20000.0,28000.0
+01bec93c40f4dbd4036ded737f6bf7bd,Sii Poland,10000.0,Wrocław,Java,senior,14000.0,18000.0,21000.0,29400.0
+b203042a19abc950bac202b2a75f7bd0,Sii Poland,10000.0,Gdańsk,Java,senior,14000.0,18000.0,21000.0,29400.0
+b7c0b1380c18619ba71a5c6f1d7788ec,Sii Poland,10000.0,Katowice,Java,senior,14000.0,18000.0,21000.0,29400.0
+46d0e3afe2c6a6d15fc977d3bed2f74f,Sii Poland,10000.0,Kraków,Java,senior,14000.0,18000.0,21000.0,29400.0
+79c1c58992deca0b308f4c03df5bb74c,Sii Poland,10000.0,Łódź,Java,senior,14000.0,18000.0,21000.0,29400.0
+59f094501c54adedd4f52beaf5dad90e,Sii Poland,10000.0,Warszawa,Java,senior,14000.0,18000.0,21000.0,29400.0
+06dde862fc03908f0afa82ce70873e0a,Sii Poland,10000.0,Warszawa,JavaScript,senior,14000.0,18000.0,20000.0,28000.0
+1c9325219e623d03b795ac8004aefa32,Appfire,1000.0,Remote,JavaScript,junior,7000.0,12000.0,,
+dacbb4b8046f1bd7e690fa5960e8076f,Appfire,1000.0,Warszawa,JavaScript,junior,7000.0,12000.0,,
+d91941e95e6232df9634b491d229042b,Appfire,1000.0,Gdańsk,JavaScript,junior,7000.0,12000.0,,
+65ba8e62cbb8e8863a43dfd9f82412fa,Appfire,1000.0,Remote,JavaScript,senior,18300.0,25100.0,,
+175cbce8aefbcfc3755db46586ac2c4f,Appfire,1000.0,Warszawa,JavaScript,senior,18300.0,25100.0,,
+5d417d7a5916a1387456f6f67a61339b,Appfire,1000.0,Gdańsk,JavaScript,senior,18300.0,25100.0,,
+f267a2348abf60eaa1059262a4700e02,Appfire,1000.0,Kraków,JavaScript,senior,18300.0,25100.0,,
+e3a041550a47064a57a8baf40bd4f54d,Appfire,1000.0,Wrocław,JavaScript,senior,18300.0,25100.0,,
+ceadace598cdb011f4ebb84523da6319,Appfire,1000.0,Poznań,JavaScript,senior,18300.0,25100.0,,
+8f112a796e6d95ea6e64fc3389a01adc,Appfire,1000.0,Katowice,JavaScript,senior,18300.0,25100.0,,
+5b39285d1d7e544a6676e0efca0821d2,Appfire,1000.0,Łódź,JavaScript,senior,18300.0,25100.0,,
+8e9c2cf43e4c6cd79de4c5c62f230b6f,Appfire,1000.0,Remote,JavaScript,mid,13500.0,18000.0,,
+f91a2d56f187719494456a9fa56b9e9c,Appfire,1000.0,Gdańsk,JavaScript,mid,13500.0,18000.0,,
+2812d25216f4f104124fa6fa84a4c9d2,Appfire,1000.0,Katowice,JavaScript,mid,13500.0,18000.0,,
+e1fa699b487f9b27b32ce85fb1a3636a,Appfire,1000.0,Łódź,JavaScript,mid,13500.0,18000.0,,
+06a02c53059d1cb7d45aeea36063a52b,Appfire,1000.0,Warszawa,JavaScript,mid,13500.0,18000.0,,
+ef60e9f11a5508e0f6a3c67d5cca662e,Appfire,1000.0,Kraków,JavaScript,mid,13500.0,18000.0,,
+d30dcac7947fb62e53535c7f9c8899d1,Appfire,1000.0,Poznań,JavaScript,mid,13500.0,18000.0,,
+efa5304ea3342c47651d813447e13a70,Appfire,1000.0,Remote,Java,mid,13500.0,18000.0,,
+a44b8787d7026b4fa0d92b21cd1f0b1b,Appfire,1000.0,Warszawa,Java,mid,13500.0,18000.0,,
+15aa382898ee4bbda4f371755a1c1422,Appfire,1000.0,Łódź,Java,mid,13500.0,18000.0,,
+6a9ec278dc48c7495c6eb2685de10598,Appfire,1000.0,Katowice,Java,mid,13500.0,18000.0,,
+cd04530c36a656402a511185b3cc7cf0,Appfire,1000.0,Gdańsk,Java,mid,13500.0,18000.0,,
+84b306c8787453efc28660644d8266c1,Appfire,1000.0,Kraków,Java,mid,13500.0,18000.0,,
+50086780e53fa1f6aebb48c3667bc9fc,Appfire,1000.0,Poznań,Java,mid,13500.0,18000.0,,
+8b3162d967c847fc3c0211f8f450b1ca,Appfire,1000.0,Remote,Java,senior,18300.0,25100.0,,
+48a0248f2c94756d854f11069d23e6af,Appfire,1000.0,Warszawa,Java,senior,18300.0,25100.0,,
+2eca0e664dbff8573e04f034eafaaada,Appfire,1000.0,Gdańsk,Java,senior,18300.0,25100.0,,
+24ed7e8e75e4ee6590d31f7cd802c5ba,Appfire,1000.0,Kraków,Java,senior,18300.0,25100.0,,
+8b076df543813e8f1abe5aee49be46f4,Appfire,1000.0,Poznań,Java,senior,18300.0,25100.0,,
+420481094807d253603210385b86a94b,Appfire,1000.0,Wrocław,Java,senior,18300.0,25100.0,,
+d2d25fbe43f35675bcba21e880dac38d,Appfire,1000.0,Katowice,Java,senior,18300.0,25100.0,,
+163246ad5bebcf0cee14c1f7eb8a713c,Appfire,1000.0,Remote,Java,senior,18000.0,25000.0,,
+3b534562cc560fa57ee420e8d842d41b,Appfire,1000.0,Gdańsk,Java,senior,18000.0,25000.0,,
+1f51600758685a1212e94730567e738e,Avanade Poland,100.0,Remote,Python,expert,,,30240.0,40320.0
+42e328cbd2f5533ea7f4d47d1cc7467b,Avanade Poland,100.0,Warszawa,Python,expert,,,30240.0,40320.0
+f1b2d3aacb12626eb1425c95f719c7ac,Avanade Poland,100.0,Remote,Java,senior,,,20160.0,30240.0
+cccd659d8ca041edd98911dd665eca0b,Avanade Poland,100.0,Wrocław,Java,senior,,,20160.0,30240.0
+e3da76918573e2da5a7db0cbb34b760f,Avanade Poland,100.0,Kraków,Java,senior,,,20160.0,30240.0
+c704b38b3387d35e215e05ecbfaa7753,Avanade Poland,100.0,Warszawa,C#,mid,13000.0,26000.0,15120.0,26880.0
+fb1d6fe93f0b7b40f8782f155f8ff09b,Avanade Poland,100.0,Warszawa,C#,expert,20000.0,27000.0,25200.0,36960.0
+2812330972d7cf736ab126440ef5d5b8,Motorola Solutions Systems Polska Sp. z o.o.,1000.0,Kraków,Java,senior,18000.0,21000.0,,
+df34c3a1dc94d0da9a772f9d6e556d70,Motorola Solutions Systems Polska Sp. z o.o.,1000.0,Kraków,Java,expert,20000.0,25000.0,,
+68c24c6fbf868f3a854a6c0760cf4288,Motorola Solutions Systems Polska Sp. z o.o.,1000.0,Kraków,C#,mid,12000.0,15000.0,,
+f6462ded153f7446b6f8f1647a451726,Motorola Solutions Systems Polska Sp. z o.o.,1000.0,Remote,C#,mid,12000.0,17000.0,,
+88be0d52a535ac06ba29bb2d2ef09280,Motorola Solutions Systems Polska Sp. z o.o.,1000.0,Kraków,C#,mid,12000.0,17000.0,,
+f9929d06ba5177c2be3f57ea957b76e1,Motorola Solutions Systems Polska Sp. z o.o.,1000.0,Kraków,Java,expert,23000.0,26000.0,,
+18d50c3532093027dee39b6984ca81ef,RTB House,1000.0,Remote,JavaScript,mid,,,8000.0,13000.0
+9b90e52fb3d4d364e1036618c87085ba,RTB House,1000.0,Warszawa,JavaScript,mid,,,8000.0,13000.0
+e13f2ab1318a608b1b1292da1d1fec8d,SoftServe Poland,100.0,Remote,Python,senior,21000.0,27000.0,25000.0,34000.0
+d69adcdd511f96c83bc7ccf0d859dcf9,SoftServe Poland,100.0,Wrocław,Python,senior,21000.0,27000.0,25000.0,34000.0
+5c17514f1a559f99dfaad9914bd2bb92,SoftServe Poland,100.0,Warszawa,Python,expert,,,25000.0,30000.0
+7621ff307c9cc65453385988b272a2cd,SoftServe Poland,100.0,Remote,C/C++,senior,18000.0,27000.0,20000.0,30000.0
+33a1f33085d7268ee09ff36dc87c99ae,SoftServe Poland,100.0,Wrocław,C/C++,senior,18000.0,27000.0,20000.0,30000.0
+dc088583c19553fad55328e0f297e83f,Square One Resources,10.0,Warszawa,Python,mid,,,19000.0,21000.0
+a092aa1c8e1b47099e771dc4e2f0ad0e,Sollers Consulting,1000.0,Wrocław,Java,junior,8200.0,15000.0,10200.0,17200.0
+cc05ffebd0d7f0e93f1179ff979099e4,Sollers Consulting,1000.0,Poznań,Java,junior,8200.0,15000.0,10200.0,17200.0
+1fb0f92aee927e18f4683e135967cf76,Sollers Consulting,1000.0,Warszawa,Java,junior,8200.0,15000.0,10200.0,17200.0
+97b50f9e5cf2fefde09e331c50c94988,Sollers Consulting,1000.0,Kraków,Java,junior,8200.0,15000.0,10200.0,17200.0
+09b45674a59c5e616397f98c96db5a73,Sollers Consulting,1000.0,Gdańsk,Java,junior,8200.0,15000.0,10200.0,17200.0
+2c2685f60c360a15386ff1868c62ada9,Sollers Consulting,1000.0,Łódź,Java,junior,8200.0,15000.0,10200.0,17200.0
+a0e0ebed6b0e5571b17320fcc5e2bdc3,Sollers Consulting,1000.0,Warszawa,Java,senior,13100.0,21000.0,15400.0,23000.0
+37868bcb7cc0dfd27a8b864cc5070ca2,Sollers Consulting,1000.0,Wrocław,Java,senior,13100.0,21000.0,15400.0,23000.0
+461072e7c791a52637480c9768715860,Sollers Consulting,1000.0,Poznań,Java,senior,13100.0,21000.0,15400.0,23000.0
+82b667761a5faae008ee37235bcd484c,Sollers Consulting,1000.0,Gdańsk,Java,senior,13100.0,21000.0,15400.0,23000.0
+9cc411a9aa07c9471529064edb215feb,Sollers Consulting,1000.0,Kraków,Java,senior,13100.0,21000.0,15400.0,23000.0
+faa5337fe4236fd05c9ef7e1169271e0,Sollers Consulting,1000.0,Łódź,Java,senior,13100.0,21000.0,15400.0,23000.0
+e1bf081b76428ed2b12b8b5928d732d5,HARMAN Connected Services,100.0,Remote,Python,expert,18000.0,25000.0,28560.0,31920.0
+3a118056210d4b331b01bb3dd92e2842,HARMAN Connected Services,100.0,Łódź,Python,expert,18000.0,25000.0,28560.0,31920.0
+34867c6613b54d92d72059a5ae99ed40,HARMAN Connected Services,100.0,Remote,Python,senior,14000.0,18500.0,21840.0,25200.0
+de49ec47fd0acacbb3bf80d2afa52f30,HARMAN Connected Services,100.0,Łódź,Python,senior,14000.0,18500.0,21840.0,25200.0
+4a4d38cd3752ce252a20712646c5d318,Infogain,1000.0,Remote,Golang,mid,,,16800.0,22680.0
+a23944ba003c1f27bdaa80d78bbde57e,Infogain,1000.0,Kraków,Golang,mid,,,16800.0,22680.0
+943e92de98de2d6f60248974db19532e,Infogain,1000.0,Remote,Java,senior,,,18000.0,26000.0
+a1251ae8bf17d57a26a1c558e2430230,Infogain,1000.0,Kraków,Java,senior,,,18000.0,26000.0
+bfdd8960784db36e5fd8c74c6bc11fd4,Infogain,1000.0,Remote,C#,senior,,,21840.0,26880.0
+e7297fe07747cdfc457a131ecb9061f2,Infogain,1000.0,Kraków,C#,senior,,,21840.0,26880.0
+3436a8eeacce067359b59f5636695d85,Infogain,1000.0,Remote,C/C++,senior,,,21840.0,30240.0
+46d2669294ae17464daec75e8addc7f7,Infogain,1000.0,Kraków,C/C++,senior,,,21840.0,30240.0
+4cee4a7f449fb6e7f89095a85e0df357,OpenX,10.0,Remote,Java,expert,26350.0,31000.0,34944.0,40320.0
+1be7875872444a00dd21edc98f695a03,OpenX,10.0,Kraków,Java,expert,26350.0,31000.0,34944.0,40320.0
+3433916ab384b281b4eb6403ef1b1141,OpenX,10.0,Remote,JavaScript,mid,17000.0,20000.0,23352.0,27552.0
+c42aa73e19f30f917b95ee2db5c7d10a,OpenX,10.0,Kraków,JavaScript,mid,17000.0,20000.0,23352.0,27552.0
+c1fdfcaf58e828f5d705c55aaa492ecc,OpenX,10.0,Remote,Scala,senior,22100.0,26000.0,30240.0,34944.0
+4d6a7e04f8df60d01e4ad43bcd65527c,OpenX,10.0,Kraków,Scala,senior,22100.0,26000.0,30240.0,34944.0
+d4ed760c11b7dca61e8f757b92b4a887,Grape Up,10.0,Remote,Python,mid,13500.0,18900.0,16000.0,22100.0
+7deb86dba0e89d7ec59a53a60b572149,Grape Up,10.0,Kraków,Python,mid,13500.0,18900.0,16000.0,22100.0
+b09852cc75e0005383fd1df0e46506f0,Grape Up,10.0,Wrocław,Python,mid,13500.0,18900.0,16000.0,22100.0
+a9d70dd13f4f4c9cd0ad0ecac6e3e6c7,Grape Up,10.0,Remote,Python,senior,16800.0,23480.0,19800.0,27700.0
+bf5ef51b914745365c575473e83dab3a,Grape Up,10.0,Kraków,Python,senior,16800.0,23480.0,19800.0,27700.0
+2210e314241bef9638d8c91e55694fd9,Grape Up,10.0,Wrocław,Python,senior,16800.0,23480.0,19800.0,27700.0
+1b5469ddc31a64e3bbb4a6267abdc87a,Grape Up,10.0,Kraków,Java,mid,17000.0,22000.0,20000.0,26000.0
+f5c1c4def8585f1a18f5fbdc0af24e04,Grape Up,10.0,Wrocław,Java,mid,17000.0,22000.0,20000.0,26000.0
+543bd2cb257f2a2f0a46e45658e2e7d0,gamefound,10.0,Wrocław,C#,mid,6600.0,10800.0,8000.0,13000.0
+2e68dfdedd01502e3fd69fae946c932d,gamefound,10.0,Wrocław,C#,senior,14950.0,19100.0,18000.0,23000.0
+b20fccaeb65bd71980de19d9adb87f21,gamefound,10.0,Wrocław,C#,mid,10800.0,14950.0,13000.0,18000.0
+77f8495a70ff01874308a30031ed4741,XTB,100.0,Remote,Mobile,mid,13000.0,20000.0,15000.0,22000.0
+3b1b10a2aae83a33a9b4896f201a9e5d,XTB,100.0,Warszawa,Mobile,mid,13000.0,20000.0,15000.0,22000.0
+18fb5f18a36cb7df2f5b97c2ba9e817d,XTB,100.0,Remote,Mobile,mid,14000.0,22000.0,15000.0,23500.0
+6a4a50560aa324f7064b4e8cb498a669,XTB,100.0,Warszawa,Mobile,mid,14000.0,22000.0,15000.0,23500.0
+7b9c4b016fa3ff9dc37b3376cdd2f974,XTB,100.0,Remote,Java,mid,17000.0,25000.0,19000.0,28000.0
+0b7380930b0be57192727ab522c42775,XTB,100.0,Warszawa,Java,mid,17000.0,25000.0,19000.0,28000.0
+8af4fa1cec7f93c45ce7a9acf37e5a45,DCG,100.0,Remote,Python,senior,,,25200.0,33600.0
+15b9ae80ad5978bae1f317e1e37df1ae,DCG,100.0,Gdańsk,Python,senior,,,25200.0,33600.0
+8dab9f34338614a8ba2532a50adab2aa,Fujitsu,100.0,Łódź,PHP,senior,12000.0,17000.0,16296.0,22680.0
+3a80fef91fdbf2b5b265bb229d0f2833,Fujitsu,100.0,Katowice,PHP,senior,12000.0,17000.0,16296.0,22680.0
+dc2f9a2ceb1bfa8abcd93fb8f6499820,Raiffeisen Tech,10.0,Remote,Java,senior,22000.0,30000.0,22000.0,30000.0
+00fc4efec109e56e4b0b4a072df1d29d,Raiffeisen Tech,10.0,Warszawa,Java,senior,22000.0,30000.0,22000.0,30000.0
+7edce1b75513a678a13855ef4c0c8de0,Remitly Poland sp. z o.o.,1000.0,Kraków,Java,mid,20000.0,23000.0,,
+0d79d5b95479077f6012e2bfc7e7e4a7,Beekeeper,100.0,Kraków,Java,junior,11300.0,14250.0,,
+9db4e09f801086227dde8f5eb9f9716b,capital.com,100.0,Warszawa,Python,junior,8000.0,12000.0,,
+0d6abe26145426ccc9d768febc2e3642,DATEV,10000.0,Warszawa,JavaScript,senior,18147.0,32261.0,,
+085d434bfcdbb2e0c95bdb3ffcc20176,Emerge Soft,100.0,Remote,Java,mid,,,21500.0,23500.0
+40c17db3e3199221776f40c634ddb5ea,Emerge Soft,100.0,Warszawa,Java,mid,,,21500.0,23500.0
+a63c0615952876947bd1bd80de3de367,Emerge Soft,100.0,Remote,C/C++,senior,,,25000.0,27000.0
+85b93ab346c3f3c2b9f349ff3e14a890,Emerge Soft,100.0,Gdańsk,C/C++,senior,,,25000.0,27000.0
+e30eb12d4788a1f86c403c8f93306342,Emerge Soft,100.0,Warszawa,C/C++,senior,,,25000.0,27000.0
+26796a16dc6d2fd48a5b3d81279e273d,EPAM Systems,10000.0,Warszawa,Python,senior,22000.0,26000.0,26500.0,32000.0
+f8955ccab9f2b2466953247cb9db4571,Finture,100.0,Warszawa,Python,mid,,,21000.0,27000.0
+052156df123769cdbb39ac1c590ba274,Finture,100.0,Remote,C#,senior,,,16000.0,21000.0
+dfac0643e1d63fbb357e413cfbe6904a,Finture,100.0,Warszawa,C#,senior,,,16000.0,21000.0
+10cb6088b1065e7ca3979e0cc48bbb00,Godel Technologies Europe,1000.0,Łódź,C#,mid,8000.0,14000.0,9000.0,17000.0
+fa9a3f218db73ca1bc66b8a3f054c6a1,Godel Technologies Europe,1000.0,Warszawa,C#,mid,8000.0,14000.0,9000.0,17000.0
+57ff93d4204f5b7470e47dfaf960cad2,Godel Technologies Europe,1000.0,Gdańsk,C#,mid,8000.0,14000.0,9000.0,17000.0
+e0e68452990059b534d8d95fa387d3bd,Godel Technologies Europe,1000.0,Wrocław,C#,mid,8000.0,14000.0,9000.0,17000.0
+964cc08cef1846191d0bf9b226780f4c,Godel Technologies Europe,1000.0,Wrocław,JavaScript,expert,18000.0,22000.0,21000.0,25000.0
+47cd7335468f177c3d0ca5f16ef21aa7,Godel Technologies Europe,1000.0,Gdańsk,JavaScript,expert,18000.0,22000.0,21000.0,25000.0
+62f9642587eafc76428bc24b59c93bf8,Godel Technologies Europe,1000.0,Warszawa,JavaScript,expert,18000.0,22000.0,21000.0,25000.0
+ea03d25a9115e45e96beef8a5bc7a4c0,Godel Technologies Europe,1000.0,Łódź,JavaScript,expert,18000.0,22000.0,21000.0,25000.0
+f407ab4dc84b3e5cf99460b329e12c55,Grid Dynamics Poland,1000.0,Kraków,Java,senior,,,20000.0,28000.0
+143e3b2f0df9b1c221d8063e66a571ab,Grid Dynamics Poland,1000.0,Wrocław,Java,senior,,,20000.0,28000.0
+3c81a7c761f77a66cdd758ad3c61901f,Grid Dynamics Poland,1000.0,Gdańsk,Java,senior,,,20000.0,28000.0
+f533164462b4d5d00d5c7d6f7a6d48fe,Grid Dynamics Poland,1000.0,Warszawa,Java,senior,,,20000.0,28000.0
+81c1ac738bbc049ec170b9061c26fe30,Grid Dynamics Poland,1000.0,Kraków,Java,senior,,,22000.0,29000.0
+db18882f756b287be8058ad093dedb62,Grid Dynamics Poland,1000.0,Wrocław,Java,senior,,,22000.0,29000.0
+79ad7db78928b3f38eaa9425cde3637c,Grid Dynamics Poland,1000.0,Gdańsk,Java,senior,,,22000.0,29000.0
+c8c64b5e72650ce13bf967ca1e23e42c,Grid Dynamics Poland,1000.0,Warszawa,Java,senior,,,22000.0,29000.0
+2738ac41db6e12c7e93872786037791f,Netcompany Poland,100.0,Warszawa,Java,junior,7800.0,14000.0,8000.0,15000.0
+ea2f2b5b2fad55f76cfbaa63a11f68d1,Netcompany Poland,100.0,Warszawa,C#,junior,7800.0,14000.0,8000.0,15000.0
+4219e388128af01b98b08ee2a86eb0b5,Piwik PRO,100.0,Remote,Python,mid,15800.0,20000.0,19000.0,24000.0
+155da347525c2bc228072d0dcf03467c,Piwik PRO,100.0,Wrocław,Python,mid,15800.0,20000.0,19000.0,24000.0
+d7232cc2ce0aef5ed61fe10c06cbed76,Transition Technologies PSC,1000.0,Remote,C/C++,senior,,,20160.0,25200.0
+9b025bf7782be70904b2d7be7990074b,Transition Technologies PSC,1000.0,Łódź,C/C++,senior,,,20160.0,25200.0
+7a9d4346e95b9bdb8632f77a39e30028,Transition Technologies PSC,1000.0,Poznań,C/C++,senior,,,20160.0,25200.0
+8e5ec843784f1b3604c80be8374ea5ca,Volvo Tech Hub Poland,1000.0,Kraków,JavaScript,mid,14000.0,26000.0,,
+1fc8a9c77642464a96deed6f4a379a32,Amartus Polska Sp. z o.o.,100.0,Remote,Python,senior,19000.0,24000.0,25200.0,31500.0
+2721023921d808280694efcfe7012262,Amartus Polska Sp. z o.o.,100.0,Kraków,Python,senior,19000.0,24000.0,25200.0,31500.0
+bf9fc4f6759411d1263b6cbc3cc32854,Clurgo,100.0,Remote,JavaScript,senior,,,26880.0,31920.0
+4e3deef756757492fd7bf80a3c1139d5,Clurgo,100.0,Warszawa,JavaScript,senior,,,26880.0,31920.0
+21e84fc762a6d521c4e95b270b87039e,Clurgo,100.0,Gdańsk,JavaScript,senior,,,26880.0,31920.0
+3e70e8a1047a8711a0485624154f52b3,GetResponse,100.0,Remote,PHP,mid,10460.0,16560.0,12600.0,20580.0
+38ff02a6d37db7d85d13d4b9c4f4349a,GetResponse,100.0,Gdańsk,PHP,mid,10460.0,16560.0,12600.0,20580.0
+fec9885f095f99250c0e0b8a7f76bc61,Kontakt.io,10.0,Remote,Python,senior,,,26880.0,31920.0
+65d8bdec90fb5d89ad372da25e89bcbe,Kontakt.io,10.0,Kraków,Python,senior,,,26880.0,31920.0
+3cfbc001fadf830aab24bf36ee47c166,Northmill Bank AB,10.0,Katowice,C#,senior,17000.0,27000.0,17000.0,27000.0
+02a0845829260330ca101ba17a5e44d9,Proexe sp. z o.o.,10.0,Remote,Python,mid,,,16000.0,22000.0
+78b38f0e73316101948a4793ad3ddaaf,Proexe sp. z o.o.,10.0,Warszawa,Python,mid,,,16000.0,22000.0
+8e06f11ef671bb52df30b0afeab7c562,Qurate Retail Group Global Business Services sp. z o.o.,100.0,Remote,Python,mid,9000.0,11000.0,,
+0fbc64afcc6412eab3b2e5c3628eef77,Qurate Retail Group Global Business Services sp. z o.o.,100.0,Kraków,Python,mid,9000.0,11000.0,,
+9e697bc40ac71a9ef2dd70bc02a0d253,Shoper S.A.,100.0,Remote,PHP,senior,14000.0,16000.0,15000.0,18000.0
+9390b5649e26a740641c18e28ed7de61,Showpad,100.0,Remote,Python,senior,,,22000.0,35000.0
+6f75da733d9e2f9612e1ebdbfaea38d9,Showpad,100.0,Wrocław,Python,senior,,,22000.0,35000.0
+f9cd2bfb6a07f76d3a8a5a69e56d18b6,Solwit,100.0,Remote,Python,senior,,,22000.0,28000.0
+a42b7a993c5c36b49d03c7001c553eff,Solwit,100.0,Gdańsk,Python,senior,,,22000.0,28000.0
+47423c473d4fea8b651698ef33cab052,Adaptiq,100.0,Remote,JavaScript,senior,,,28340.0,29648.0
+ab41c8832c3a70a973117d639c11e366,Adaptiq,100.0,Warszawa,JavaScript,senior,,,28340.0,29648.0
+cdc73f64485125ef3b017667b5fc7d64,Adaptiq,100.0,Remote,JavaScript,senior,,,26160.0,28340.0
+aff2239f358b83ccf71041b8c64c5028,Adaptiq,100.0,Warszawa,JavaScript,senior,,,26160.0,28340.0
+8532fc1e64724346d1d023c013df6757,VirtusLab,100.0,Remote,Python,senior,,,21000.0,27000.0
+b33ea3bd77067c5adaa0a495a413a205,VirtusLab,100.0,Katowice,Python,senior,,,21000.0,27000.0
+a512a7178329804ef6d672808883fc53,VirtusLab,100.0,Kraków,Python,senior,,,21000.0,27000.0
+83987bcfb26e0460a778d49a44e47711,VirtusLab,100.0,Wrocław,Python,senior,,,21000.0,27000.0
+b1ca2d2a120522299ed1aa7da65c74d6,VirtusLab,100.0,Remote,C/C++,expert,,,26000.0,31000.0
+fc32eadae0601c6c56419953f1dd0bad,VirtusLab,100.0,Kraków,C/C++,expert,,,26000.0,31000.0
+5a43bc091aa90fa8b1781ec47a883934,VirtusLab,100.0,Wrocław,C/C++,expert,,,26000.0,31000.0
+2a166bc791f89c63cf9bcad9627c89f3,VirtusLab,100.0,Katowice,C/C++,expert,,,26000.0,31000.0
+e28d300ff49bd45ada9a8167066d5c4c,VirtusLab,100.0,Remote,Java,expert,,,26000.0,31000.0
+c0d73a18ae30dc578b5da6502830d49c,VirtusLab,100.0,Kraków,Java,expert,,,26000.0,31000.0
+a9475e3d00882ed7d899424b55b0862d,VirtusLab,100.0,Wrocław,Java,expert,,,26000.0,31000.0
+9d5a03f568361a40b47db79db530905b,VirtusLab,100.0,Katowice,Java,expert,,,26000.0,31000.0
+e0df9c2b2a080a280362326829fd80dc,Codete,100.0,Remote,Golang,mid,,,17640.0,21000.0
+f32ed613bd7f9588df6f48804b700542,Codete,100.0,Kraków,Golang,mid,,,17640.0,21000.0
+058885ecb00085a4dd2595bdc419d9a0,Hyland Software,1000.0,Remote,C#,mid,12000.0,19200.0,,
+1d71a8e4fb9630233e10aaf5adf5bb33,Hyland Software,1000.0,Kraków,C#,mid,12000.0,19200.0,,
+8bb8410aee43664be4abdd4ff7419471,Hyland Software,1000.0,Gdańsk,C#,mid,12000.0,19200.0,,
+564e19aea7977b3721b432924ba79059,Hyland Software,1000.0,Wrocław,C#,mid,12000.0,19200.0,,
+700cf44531c18106aaf1701b3a053bbe,GOG.com,100.0,Warszawa,Python,senior,20000.0,30000.0,20000.0,30000.0
+42dbf861c499b477aaada63bb4dc33bf,ShiftKey,100.0,Remote,PHP,expert,20000.0,23000.0,23000.0,26000.0
+480de16d6ae5c0c7894ffa6013291f32,ShiftKey,100.0,Warszawa,PHP,expert,20000.0,23000.0,23000.0,26000.0
+2ebf65b418d3728cfe9035a3e5de76b6,Keepit,100.0,Kraków,C/C++,senior,15000.0,25000.0,,
+199f3a01910b0f8c6e09fee2869d684a,Nest Bank,1000.0,Remote,Python,mid,15000.0,22000.0,15000.0,22000.0
+d9a9eec81072a4a3185eff7d8eef022e,Nest Bank,1000.0,Warszawa,Python,mid,15000.0,22000.0,15000.0,22000.0
+f1fcf9f06db4347183c88c48933976c1,Software Mansion,100.0,Kraków,JavaScript,senior,19200.0,25200.0,24000.0,31500.0
+9d09cfa3871a62ec5a3fdaaed4660010,Devire,100.0,Remote,Java,mid,15000.0,25000.0,,
+f87fbd5cb647b4ef07609883904eb0f3,Devire,100.0,Kraków,Java,mid,15000.0,25000.0,,
+a1bf888d71a7993400031f61f6c12331,Devire,100.0,Warszawa,Java,mid,15000.0,25000.0,,
+91eaaf0900e24f2a95e318f4a79948dd,Devire,100.0,Wrocław,Java,mid,15000.0,25000.0,,
+002730b780b10daa9194aebf909db521,Devire,100.0,Gdańsk,Java,mid,15000.0,25000.0,,
+b63a358df4bfb564e27794b14094dabd,Devire,100.0,Remote,Scala,senior,,,23520.0,28560.0
+fdeff532a5963f35cfbbe84a175704ed,Devire,100.0,Warszawa,Scala,senior,,,23520.0,28560.0
+8ad3f20f5cfe59412a563c55ee5b277d,Devire,100.0,Łódź,Scala,senior,,,23520.0,28560.0
+47cfab7244a35601823eb5eb1bee9ba0,Devire,100.0,Gdańsk,Scala,senior,,,23520.0,28560.0
+679d34ca070eea73dd922458eb0321cc,Devire,100.0,Warszawa,Python,senior,,,28560.0,36960.0
+cb6e6b3ee08c88acca1fd5bcb32ff090,Devire,100.0,Warszawa,Python,senior,20000.0,23000.0,22000.0,27000.0
+992c613126c9d5d5e7094690683999be,Devire,100.0,Katowice,C/C++,senior,19000.0,26000.0,19000.0,26000.0
+fcd6c3e775a0bb63b93873b05ec7655f,Devire,100.0,Kraków,C/C++,senior,19000.0,26000.0,19000.0,26000.0
+65e294e6819f769dc3c5945f25a283d3,Devire,100.0,Remote,C#,senior,25000.0,30000.0,26880.0,33600.0
+81e11b009e381b2917e319616fda98a5,Devire,100.0,Warszawa,C#,senior,25000.0,30000.0,26880.0,33600.0
+241a08ac06ff6b9bf26476e4af599929,Devire,100.0,Warszawa,JavaScript,senior,,,28560.0,33600.0
+744240153616d91d8bdddf53da9185f6,Devire,100.0,Gdańsk,Mobile,mid,,,18480.0,26880.0
+98f674473c30c1d58de98bcbd5126f44,Antal Poland,100.0,Kraków,C/C++,mid,18000.0,25000.0,18000.0,25000.0
+cc7c7b120bfaf17530339795011bbbfc,Connectis,100.0,Warszawa,Python,senior,,,26000.0,31000.0
+ab6d5e129d0647b6c0d31931ffb32f6a,Connectis,100.0,Katowice,C#,senior,,,18000.0,20500.0
+19887fc1ccb0748509cad446a3395696,Connectis,100.0,Warszawa,JavaScript,senior,,,25000.0,30000.0
+9224af07afb2b57fabb3dc186d49a349,HAYS Poland,100.0,Warszawa,Java,mid,,,21840.0,25200.0
+ef71b441da67cb858083d7630ae96f4b,Allegro,1000.0,Warszawa,Kotlin,mid,12300.0,17600.0,,
+8ed4379e0755d232e0b3e093f64e2cde,Allegro,1000.0,Poznań,Kotlin,mid,12300.0,17600.0,,
+daca15d9d04e6d12c3fd126394f0d275,Allegro,1000.0,Warszawa,Kotlin,senior,16100.0,23200.0,,
+6fbf1ada52f468a07d26b42f5e2503e8,Allegro,1000.0,Poznań,Kotlin,senior,16100.0,23200.0,,
+d3ae3724d90d440921793046f48b9a85,Allegro,1000.0,Warszawa,Python,senior,18400.0,25410.0,,
+0badeacad60f6f3027dd65cce9bbf429,Allegro,1000.0,Poznań,Python,senior,18400.0,25410.0,,
+4fbffc9398a75bcaf0ff0772e229cbaf,Allegro,1000.0,Poznań,Kotlin,mid,14200.0,19690.0,,
+2e143b3647c0094f37ebb162364b5421,Allegro,1000.0,Warszawa,C#,senior,18400.0,25410.0,,
+58b2542adc8cd65ef6be04355957fcdf,Allegro,1000.0,Warszawa,Java,senior,18400.0,25410.0,,
+6f70397d586aa0e3c37ddd0e1632590b,Spyrosoft,1000.0,Warszawa,Python,expert,19700.0,25000.0,26880.0,33600.0
+d3bede22584b229a2b0f0c7079dcc963,Spyrosoft,1000.0,Wrocław,Python,expert,19700.0,25000.0,26880.0,33600.0
+facc0e4a03eda0d9340a4575747a3433,Spyrosoft,1000.0,Łódź,Python,expert,19700.0,25000.0,26880.0,33600.0
+3e506007a176aaef9194f0785746e376,Spyrosoft,1000.0,Kraków,Python,expert,19700.0,25000.0,26880.0,33600.0
+73f7e43434e6fb4fe08b6c6e29382f6b,Spyrosoft,1000.0,Remote,C#,expert,13500.0,23400.0,16200.0,28000.0
+e3ff0ad08a45f7ada2747772b0e221b3,Spyrosoft,1000.0,Wrocław,C#,expert,13500.0,23400.0,16200.0,28000.0
+f4de56b20b44619f3f9a52085fae7139,Spyrosoft,1000.0,Kraków,C#,expert,13500.0,23400.0,16200.0,28000.0
+dc6b21925d6c975fa6f6463dc22c6140,Spyrosoft,1000.0,Łódź,C#,expert,13500.0,23400.0,16200.0,28000.0
+4cc4f3ed1323394d544e728d6e0ee344,Spyrosoft,1000.0,Kraków,C/C++,senior,13550.0,16650.0,18480.0,22680.0
+a9a3eac864c34cd31819a71fb3c88ce4,Spyrosoft,1000.0,Remote,JavaScript,mid,,,18480.0,25704.0
+a9ddc573dba74de91b99dfc1fee62ea0,Spyrosoft,1000.0,Wrocław,JavaScript,mid,,,18480.0,25704.0
+b9b643ad532288ca86a0a290632ca2a5,Spyrosoft,1000.0,Remote,PHP,senior,,,25200.0,28560.0
+d568d33e2b30955a8236a61685eb32ad,Spyrosoft,1000.0,Wrocław,PHP,senior,,,25200.0,28560.0
+80a40d9fae637389e9769f4770add743,Spyrosoft,1000.0,Remote,PHP,mid,,,16800.0,25200.0
+f31d4783133cd002bb7cef06c71aebb5,Spyrosoft,1000.0,Warszawa,PHP,mid,,,16800.0,25200.0
+ed239f2666733ec27345a7f45ca9511b,Spyrosoft,1000.0,Wrocław,PHP,mid,,,16800.0,25200.0
+c15ad034b2f5b3e571e633fb1dee8c4f,Spyrosoft,1000.0,Łódź,PHP,mid,,,16800.0,25200.0
+7a05a5824008c3255f0442b91d00f463,Spyrosoft,1000.0,Kraków,PHP,mid,,,16800.0,25200.0
+321bd022a5650e5c50ec1e78d5c09aa2,Spyrosoft,1000.0,Remote,PHP,senior,14800.0,18500.0,20160.0,25200.0
+aa5e20c38838b75b9039e570dea74f04,Spyrosoft,1000.0,Wrocław,PHP,senior,14800.0,18500.0,20160.0,25200.0
+ea6d74103016032cabd87214729a058b,Spyrosoft,1000.0,Warszawa,PHP,senior,14800.0,18500.0,20160.0,25200.0
+d4b1dbd3d28d97e69b97e4fc87b7d008,Spyrosoft,1000.0,Kraków,PHP,senior,14800.0,18500.0,20160.0,25200.0
+46f9cf70b278f31efdefe9deeba69268,Spyrosoft,1000.0,Łódź,PHP,senior,14800.0,18500.0,20160.0,25200.0
+96fd9b86211131cd1e3eebf6f65f712c,Spyrosoft,1000.0,Kraków,JavaScript,expert,17250.0,21600.0,24360.0,29400.0
+08e36a6c2faced20d85f9fd15a858a39,Spyrosoft,1000.0,Warszawa,JavaScript,expert,17250.0,21600.0,24360.0,29400.0
+9751539190bff3616bba6f10a0c64599,Spyrosoft,1000.0,Łódź,JavaScript,expert,17250.0,21600.0,24360.0,29400.0
+147a786c9c0a6c4891322e0ee4d0f7e2,Spyrosoft,1000.0,Wrocław,JavaScript,expert,17250.0,21600.0,24360.0,29400.0
+71d380722be279e4135f1908dff73d8a,Jamf,1000.0,Katowice,Java,mid,,,14000.0,20000.0
+1eb82c41ab93da1f5be5d071a836b078,Akamai Technologies,10000.0,Kraków,C/C++,mid,12000.0,24000.0,,
+e89e5ffa489735704367976807bc323b,Akamai Technologies,10000.0,Remote,Python,senior,19000.0,26000.0,,
+f924db56974c6672cd505b2b22e38bf0,Akamai Technologies,10000.0,Kraków,Python,senior,19000.0,26000.0,,
+fc920ade1f2ff8795b18fe753414bbbf,apreel,100.0,Warszawa,Java,senior,,,25200.0,30240.0
+10c468cca43e7666c02f91eb22a64e43,apreel,100.0,Warszawa,C#,senior,,,25200.0,27384.0
+5e9b74d7aa818decad01ee025c06677c,apreel,100.0,Gdańsk,C#,senior,,,25200.0,27384.0
+abe91f4dcd145ae5011471cd2260023e,apreel,100.0,Warszawa,C#,mid,,,25200.0,26880.0
+e5799d1e1be5000cc9caaf263f541bbc,apreel,100.0,Warszawa,JavaScript,senior,,,28560.0,31920.0
+b7221e62a3ee38fe9d18d614f62d4210,dotLinkers,10.0,Remote,C#,senior,20000.0,29000.0,,
+b7bba5b11e6657592bb4609110ad6a22,dotLinkers,10.0,Kraków,C#,senior,20000.0,29000.0,,
+db6caf8da1fbe4df490cae3b150a6ed1,dotLinkers,10.0,Remote,C#,senior,16000.0,20750.0,,
+d3cc8cab42f09132474b94e10a7d36a8,dotLinkers,10.0,Kraków,C#,senior,16000.0,20750.0,,
+b1ecf23e6ce22668542da0c4c7549665,Reply Polska,10000.0,Katowice,Java,junior,5000.0,9000.0,,
+ee594b556baaf47b920085d05a672fb1,Spartez Software sp. z o.o. sp.k.,10.0,Remote,JavaScript,junior,7000.0,12000.0,,
+bdb44e4c82ebc307bffa9b147020a068,Spartez Software sp. z o.o. sp.k.,10.0,Warszawa,JavaScript,junior,7000.0,12000.0,,
+089426a2f22e5cc83dfc9dfe9570c6df,Spartez Software sp. z o.o. sp.k.,10.0,Gdańsk,JavaScript,junior,7000.0,12000.0,,
+a353793ef7b2bedbe3d6d845e7d3a9d6,Spartez Software sp. z o.o. sp.k.,10.0,Remote,JavaScript,senior,18300.0,25100.0,,
+ff8b71d5a1279d7425ef4ef053e33507,Spartez Software sp. z o.o. sp.k.,10.0,Warszawa,JavaScript,senior,18300.0,25100.0,,
+672fddc73c9a81cb7509c24ea0bc9d42,Spartez Software sp. z o.o. sp.k.,10.0,Gdańsk,JavaScript,senior,18300.0,25100.0,,
+7c6bbffccf03bca2d9b5d8b1fa539a16,Spartez Software sp. z o.o. sp.k.,10.0,Kraków,JavaScript,senior,18300.0,25100.0,,
+1b8c0ce2f95b01065b50e061d2045210,Spartez Software sp. z o.o. sp.k.,10.0,Wrocław,JavaScript,senior,18300.0,25100.0,,
+0b4b5c28fa55bd12d3a56b50e53109fe,Spartez Software sp. z o.o. sp.k.,10.0,Poznań,JavaScript,senior,18300.0,25100.0,,
+ab7e45db3c3b8cd43dde802c29cf0663,Spartez Software sp. z o.o. sp.k.,10.0,Katowice,JavaScript,senior,18300.0,25100.0,,
+204c837736c3c3a5697e04d9c5f81095,Spartez Software sp. z o.o. sp.k.,10.0,Łódź,JavaScript,senior,18300.0,25100.0,,
+e1117d405dc9e8156e0e13fe07533d19,Spartez Software sp. z o.o. sp.k.,10.0,Remote,JavaScript,mid,13500.0,18000.0,,
+434567c2058e4dd3599d41cc5495f5fd,Spartez Software sp. z o.o. sp.k.,10.0,Gdańsk,JavaScript,mid,13500.0,18000.0,,
+82a0e1bfdf58ebe7ca3e24ad82b17799,Spartez Software sp. z o.o. sp.k.,10.0,Katowice,JavaScript,mid,13500.0,18000.0,,
+df64019f4d283216db22b83fdbfa3f3b,Spartez Software sp. z o.o. sp.k.,10.0,Łódź,JavaScript,mid,13500.0,18000.0,,
+f0c9b2c5e54ff9333f83e2e69966f0ed,Spartez Software sp. z o.o. sp.k.,10.0,Warszawa,JavaScript,mid,13500.0,18000.0,,
+471b67a8feca857fa8d935964f1cf601,Spartez Software sp. z o.o. sp.k.,10.0,Kraków,JavaScript,mid,13500.0,18000.0,,
+28a24e547305fb13c9a1b7acf7d7de89,Spartez Software sp. z o.o. sp.k.,10.0,Poznań,JavaScript,mid,13500.0,18000.0,,
+da4e0d76a82b898e982fe18c9ec16c42,Spartez Software sp. z o.o. sp.k.,10.0,Remote,Java,mid,13500.0,18000.0,,
+bcab8f402d4c5c79fb818ccc48890d0f,Spartez Software sp. z o.o. sp.k.,10.0,Warszawa,Java,mid,13500.0,18000.0,,
+1b7104d6d81ee0a64616fafa82708cf2,Spartez Software sp. z o.o. sp.k.,10.0,Łódź,Java,mid,13500.0,18000.0,,
+49e191a1fc4d03417c17ef7d46eb1815,Spartez Software sp. z o.o. sp.k.,10.0,Katowice,Java,mid,13500.0,18000.0,,
+d22ccfe20b3846e1ead3c145cabc82da,Spartez Software sp. z o.o. sp.k.,10.0,Gdańsk,Java,mid,13500.0,18000.0,,
+4062c828bcd9af89e22249622f802b67,Spartez Software sp. z o.o. sp.k.,10.0,Kraków,Java,mid,13500.0,18000.0,,
+7122b12a25f54cab0b0e24b795953ddb,Spartez Software sp. z o.o. sp.k.,10.0,Poznań,Java,mid,13500.0,18000.0,,
+21d1301d8aa0612f2bc250761d139be3,Spartez Software sp. z o.o. sp.k.,10.0,Remote,Java,senior,18300.0,25100.0,,
+517523520050b7b511c34763b4c064d6,Spartez Software sp. z o.o. sp.k.,10.0,Warszawa,Java,senior,18300.0,25100.0,,
+4d33abcc3488cf9e6f0aade409f9840c,Spartez Software sp. z o.o. sp.k.,10.0,Gdańsk,Java,senior,18300.0,25100.0,,
+2a3d7d9a53e2e56eb27a05c7d71e918e,Spartez Software sp. z o.o. sp.k.,10.0,Kraków,Java,senior,18300.0,25100.0,,
+998da1b9cfd63944749db3c8d04110c3,Spartez Software sp. z o.o. sp.k.,10.0,Poznań,Java,senior,18300.0,25100.0,,
+a483e3de7da1c1334bdf548af118770f,Spartez Software sp. z o.o. sp.k.,10.0,Wrocław,Java,senior,18300.0,25100.0,,
+803fdef3c357275853b4b31f745a657a,Spartez Software sp. z o.o. sp.k.,10.0,Katowice,Java,senior,18300.0,25100.0,,
+b0f47bf7c0f11b577b312ce3fdf0e072,Spartez Software sp. z o.o. sp.k.,10.0,Remote,Java,senior,18000.0,25000.0,,
+0dc5992fdbecd0aec9c50a0e4bb598fd,Spartez Software sp. z o.o. sp.k.,10.0,Gdańsk,Java,senior,18000.0,25000.0,,
+5b89483bb311ef892d4d5576ec662f57,Capco Poland Sp. z o.o.,100.0,Remote,Kotlin,senior,,,30240.0,31920.0
+a49768ca97df97bdca4610ec8a4a5482,Capco Poland Sp. z o.o.,100.0,Warszawa,Kotlin,senior,,,30240.0,31920.0
+5772a46f340e912df76ff27625763bff,Codilime,100.0,Remote,JavaScript,mid,,,16500.0,27500.0
+0d7029beb96f49d560d70df53df26152,Codilime,100.0,Warszawa,JavaScript,mid,,,16500.0,27500.0
+33fa812e22bbefd485669833cab4a486,Codilime,100.0,Remote,Python,senior,,,20500.0,25000.0
+3833b7f176b303875f08927c1b34ee29,Codilime,100.0,Warszawa,Python,senior,,,20500.0,25000.0
+ad4f4038832e237c20afbc74eeffe206,HSBC Technology Poland,1000.0,Kraków,C#,senior,20000.0,25000.0,,
+184662b301469307f21b951fe095de53,HSBC Technology Poland,1000.0,Kraków,Python,senior,25000.0,30000.0,,
+c4427e9e86072f37ac6c43601f44e49d,HSBC Technology Poland,1000.0,Kraków,Mobile,senior,28000.0,34000.0,,
+a7adaafa0d8ce5a8002ef6ce0f9e63a3,HSBC Technology Poland,1000.0,Kraków,C#,mid,20000.0,25000.0,,
+dbf930cb220aca30715d006f81747258,HSBC Technology Poland,1000.0,Kraków,Mobile,senior,25000.0,27000.0,,
+0ff96465a93a0dd05c2af940e89e76ad,HSBC Technology Poland,1000.0,Kraków,C#,senior,23000.0,28000.0,,
+d02668b225587be29e58dd5e12ac6398,Lingaro,1000.0,Remote,Python,senior,15000.0,18000.0,21840.0,25200.0
+fb6e56c71108ef84df6767ee9e9845cb,Lingaro,1000.0,Warszawa,Python,senior,15000.0,18000.0,21840.0,25200.0
+df0045c14918148d00cc380275e77920,Lingaro,1000.0,Remote,JavaScript,senior,16000.0,18000.0,21840.0,25200.0
+2175ed6ba86acb904bc82412b6c00b86,Lingaro,1000.0,Warszawa,JavaScript,senior,16000.0,18000.0,21840.0,25200.0
+0bedbc6cec941e1f068b5c5239b42d61,Lingaro,1000.0,Remote,Python,mid,8000.0,15000.0,15120.0,19320.0
+d00a7e5b804f620aaff1a89dcf9cc13e,Lingaro,1000.0,Warszawa,Python,mid,8000.0,15000.0,15120.0,19320.0
+e96516462a55902c286618f1594312e1,Lingaro,1000.0,Remote,Python,expert,,,21840.0,26880.0
+6ee91a58f38eb7eb7924846ce90dd486,Lingaro,1000.0,Warszawa,Python,expert,,,21840.0,26880.0
+0c9a73fa36d44331a6cb908601062739,Lingaro,1000.0,Remote,Python,expert,,,25200.0,33600.0
+1ad485ff0890083d1b09bf32a8d26d86,Lingaro,1000.0,Warszawa,Python,expert,,,25200.0,33600.0
+b50e3211455a477a11cba1885b400cbf,RemoDevs,10.0,Remote,PHP,junior,,,7000.0,12000.0
+49848b502895a175d49284dfc2062602,RemoDevs,10.0,Kraków,PHP,junior,,,7000.0,12000.0
+c2c1565fcfc2a4262b65a7d97a052be0,RemoDevs,10.0,Wrocław,PHP,junior,,,7000.0,12000.0
+03a38fbb42bd7eee4871600bc5086d5f,RemoDevs,10.0,Warszawa,PHP,junior,,,7000.0,12000.0
+98ae428d5cb413cd11885a123d06387e,RemoDevs,10.0,Remote,PHP,senior,,,20000.0,26500.0
+d022a0a9fdc3b2cccfd0c19193b0cd1c,RemoDevs,10.0,Warszawa,PHP,senior,,,20000.0,26500.0
+fd2b44eb8d7752d714aa6ae598d1212d,RemoDevs,10.0,Kraków,PHP,senior,,,20000.0,26500.0
+7fb52d46f92dee38f5a0b5fec4220291,RemoDevs,10.0,Gdańsk,PHP,senior,,,20000.0,26500.0
+be27085a72553112277ec587cac4f7ad,RemoDevs,10.0,Wrocław,PHP,senior,,,20000.0,26500.0
+b9de2be37448062561953fd1c3afc933,RemoDevs,10.0,Poznań,PHP,senior,,,20000.0,26500.0
+0fb06e04a46719339c6e7796fa2d602e,RemoDevs,10.0,Remote,JavaScript,senior,,,30520.0,33136.0
+530849899a152c310a2d1e81ffba7065,RemoDevs,10.0,Kraków,JavaScript,senior,,,30520.0,33136.0
+8af01dcb0c0aeb50b6d2fe921eef53c6,RemoDevs,10.0,Wrocław,JavaScript,senior,,,30520.0,33136.0
+73838a5e4577e8f35665ca11e119774b,RemoDevs,10.0,Gdańsk,JavaScript,senior,,,30520.0,33136.0
+521a91cd624a5eee7884baff178d44c7,RemoDevs,10.0,Poznań,JavaScript,senior,,,30520.0,33136.0
+b70ef26b3017f52a0f7154491996beaa,RemoDevs,10.0,Warszawa,JavaScript,senior,,,30520.0,33136.0
+2c79056f6d97dbcbc01a902adf9b677f,RemoDevs,10.0,Łódź,JavaScript,senior,,,30520.0,33136.0
+65cb040efc6c754d08586abda1232fb1,RemoDevs,10.0,Remote,PHP,senior,,,23980.0,28340.0
+bb6e4869c0bada242e06a7ed3240bfa0,RemoDevs,10.0,Kraków,PHP,senior,,,23980.0,28340.0
+d2807b5de72db7093bd789d5a72ab626,RemoDevs,10.0,Wrocław,PHP,senior,,,23980.0,28340.0
+58e6c0d2f6b547594af860bf408d265e,RemoDevs,10.0,Gdańsk,PHP,senior,,,23980.0,28340.0
+71efa264c10ca2e5ad337517974d4605,RemoDevs,10.0,Poznań,PHP,senior,,,23980.0,28340.0
+335f8ffd6963f535abe5f8a5ab823347,RemoDevs,10.0,Warszawa,PHP,senior,,,23980.0,28340.0
+f02ced97fd8fd30f4d7c9eddb950c6ef,RemoDevs,10.0,Remote,Java,expert,32000.0,34000.0,32000.0,35000.0
+2e34e613f216ddcc80e82cab5fd5e4f5,RemoDevs,10.0,Warszawa,Java,expert,32000.0,34000.0,32000.0,35000.0
+ff63dd7233a7f2a6b88362e285331ee7,RemoDevs,10.0,Kraków,Java,expert,32000.0,34000.0,32000.0,35000.0
+277fd0d0dde50e4b9c470213b433fbd2,RemoDevs,10.0,Gdańsk,Java,expert,32000.0,34000.0,32000.0,35000.0
+ad7bd8aa9ebe27692565740e2c17abb6,RemoDevs,10.0,Wrocław,Java,expert,32000.0,34000.0,32000.0,35000.0
+6293c44a765b25eaf924bb62df1ed583,RemoDevs,10.0,Remote,Golang,senior,,,20000.0,30000.0
+f0ab007098ce8e5372ac564a72af62ee,RemoDevs,10.0,Kraków,Golang,senior,,,20000.0,30000.0
+c9d3b80f09aef295f3bc52045deb6d50,RemoDevs,10.0,Wrocław,Golang,senior,,,20000.0,30000.0
+9fbd972ad4a78021afaf2fccb10c5d98,RemoDevs,10.0,Gdańsk,Golang,senior,,,20000.0,30000.0
+105c8f288d125aee291c8eac107005b4,RemoDevs,10.0,Poznań,Golang,senior,,,20000.0,30000.0
+2574c3981b5f61b4058733ba03b84740,RemoDevs,10.0,Warszawa,Golang,senior,,,20000.0,30000.0
+4198946ccadd7ffa325c4baebd52a0d6,Shiji Poland,100.0,Remote,Java,senior,16000.0,21000.0,20160.0,26880.0
+1f6a16755a4310b57408094ec22e06b8,Shiji Poland,100.0,Katowice,Java,senior,16000.0,21000.0,20160.0,26880.0
+2175bab6f41c301418ae1a8acb5dd9a1,Shiji Poland,100.0,Remote,JavaScript,mid,13000.0,15000.0,16800.0,20160.0
+163af13203d608db44ec16d5e018ac68,Shiji Poland,100.0,Katowice,JavaScript,mid,13000.0,15000.0,16800.0,20160.0
+70a7223e3fc76d92bcfe4aed488c0dda,Shiji Poland,100.0,Remote,JavaScript,senior,15000.0,20000.0,20160.0,23520.0
+4c8574c850258d05bde818259b130e79,Shiji Poland,100.0,Katowice,JavaScript,senior,15000.0,20000.0,20160.0,23520.0
+6984a22e35da4f01a65e2fb8f482477b,Sigma IT Poland,100.0,Remote,C#,senior,16000.0,19000.0,21840.0,25200.0
+b939378be4b7d884391435179ddc6733,Sigma IT Poland,100.0,Wrocław,C#,senior,16000.0,19000.0,21840.0,25200.0
+0cb7ae8a3d297765ce6683433cccee69,Sigma IT Poland,100.0,Warszawa,C#,senior,16000.0,19000.0,21840.0,25200.0
+d81587fba73d68847d2d14b457f3ed56,Sigma IT Poland,100.0,Kraków,C#,senior,16000.0,19000.0,21840.0,25200.0
+24edaa292c0d0d417b8087694a2801ad,Sigma IT Poland,100.0,Remote,JavaScript,senior,14100.0,16600.0,20160.0,23520.0
+1479c1402e3c2aedef6d7d96ba788cd1,Sigma IT Poland,100.0,Wrocław,JavaScript,senior,14100.0,16600.0,20160.0,23520.0
+218993ba9a2573cfa3a4ff2cc27975fe,Sigma IT Poland,100.0,Warszawa,JavaScript,senior,14100.0,16600.0,20160.0,23520.0
+a1a967d6308782682af433337281a4bd,Sigma IT Poland,100.0,Kraków,JavaScript,senior,14100.0,16600.0,20160.0,23520.0
+9ad5deea93899b29240755ed74657122,Sigma IT Poland,100.0,Remote,C#,senior,16800.0,18000.0,20160.0,22680.0
+de0ec68f9467fabfbfc3cea2ab7cbabd,Sigma IT Poland,100.0,Wrocław,C#,senior,16800.0,18000.0,20160.0,22680.0
+a7a99055361184835084e80d9b2eeaa2,Sigma IT Poland,100.0,Warszawa,C#,senior,16800.0,18000.0,20160.0,22680.0
+768b02f3f25282bea61e003a72574f03,Sigma IT Poland,100.0,Kraków,C#,senior,16800.0,18000.0,20160.0,22680.0
+60ce2f9d0d813a3284604c7521389c28,Sigma IT Poland,100.0,Remote,C#,senior,16000.0,19000.0,21840.0,26040.0
+c67bae4bea851e3e7f18d3da28f7c32b,Sigma IT Poland,100.0,Wrocław,C#,senior,16000.0,19000.0,21840.0,26040.0
+f93138496d37600b2853b976b3d46a8e,Sigma IT Poland,100.0,Warszawa,C#,senior,16000.0,19000.0,21840.0,26040.0
+b439491c9782b353763be5f0499b4bc4,Sigma IT Poland,100.0,Kraków,C#,senior,16000.0,19000.0,21840.0,26040.0
+f6f90e6b356fecfbb4e721dd795a9969,GetInData | Part of Xebia,100.0,Remote,Java,senior,,,26880.0,33600.0
+a275cabe388c992bc850a867b6903d03,GetInData | Part of Xebia,100.0,Warszawa,Java,senior,,,26880.0,33600.0
+2909ab1e9369b25023989a7f9e34a177,GetInData | Part of Xebia,100.0,Remote,Python,senior,,,26880.0,33600.0
+1852e14de68c4d0a989acb5792e2f0b4,GetInData | Part of Xebia,100.0,Warszawa,Python,senior,,,26880.0,33600.0
+bd76cb497f8f11dfeb0d5cc9f02fea24,GetInData | Part of Xebia,100.0,Remote,Python,senior,,,28560.0,36960.0
+f4e39661df180412ac553feb9bae9de2,GetInData | Part of Xebia,100.0,Warszawa,Python,senior,,,28560.0,36960.0
+f6b6d5d78ee63ff7914b8562631c565d,GetInData | Part of Xebia,100.0,Remote,Java,mid,,,18480.0,26880.0
+835a8cd17a1cf014962ea3bcc7c83451,GetInData | Part of Xebia,100.0,Warszawa,Java,mid,,,18480.0,26880.0
+af2de60c73b6ca0db2ce2494c18389e8,hyperexponential,100.0,Warszawa,JavaScript,senior,25000.0,31000.0,25000.0,31000.0
+f37a31b28fad83201c8eec76eedc859f,hyperexponential,100.0,Warszawa,Python,senior,27000.0,33000.0,27000.0,33000.0
+20a0216b4e4fb2aa1bc25bc894c8398f,hyperexponential,100.0,Warszawa,Python,mid,20000.0,25000.0,20000.0,25000.0
+4fc4f0b50412fd0c7c7d6711b1fee1a4,hyperexponential,100.0,Warszawa,Kotlin,mid,20000.0,25000.0,20000.0,25000.0
+0a8007ecdf6105f78fcd3f715dc60b72,Prime Engineering Poland,1000.0,Warszawa,Java,senior,,,26500.0,28500.0
+5a89e9c2d99c2f47989bed240407ba29,Prime Engineering Poland,1000.0,Katowice,JavaScript,mid,,,18000.0,21000.0
+d6ae0f68d0852bf77b2bcf9251567096,Prime Engineering Poland,1000.0,Remote,C#,mid,,,18000.0,22000.0
+98a86c0b2b57629d583307c92297e058,Prime Engineering Poland,1000.0,Warszawa,C#,mid,,,18000.0,22000.0
+90e2976304eae0e339d6e5d2c53ad916,White Label Coders,100.0,Remote,PHP,senior,,,20000.0,25000.0
+e53a1872e3c3a6aeee5f20d9e092a922,White Label Coders,100.0,Warszawa,PHP,senior,,,20000.0,25000.0
+28f8cf8590e77d94c63a5f07612f2553,White Label Coders,100.0,Wrocław,PHP,senior,,,20000.0,25000.0
+9d2e8b6eacfee066a260e45fdf7ba32f,White Label Coders,100.0,Kraków,PHP,senior,,,20000.0,25000.0
+4f5850193090061bd6170c22dad9b584,White Label Coders,100.0,Remote,PHP,junior,,,6720.0,10080.0
+4ce8256514a0eccbb0ff8146db679004,White Label Coders,100.0,Wrocław,PHP,junior,,,6720.0,10080.0
+06c19ffd9f555ca9c3bfb68ac3528ea8,White Label Coders,100.0,Kraków,PHP,junior,,,6720.0,10080.0
+1d200ac7af7090927b1dae328f5ff80e,White Label Coders,100.0,Remote,PHP,mid,,,13440.0,16800.0
+6d8a565876fc4fd875c499e585c8aa6d,White Label Coders,100.0,Remote,PHP,senior,,,13440.0,21840.0
+80700fcf88893b72ee83ed0680826684,White Label Coders,100.0,Gdańsk,PHP,senior,,,13440.0,21840.0
+c403d1f3035fd011a4ed4b9ffefda2a6,White Label Coders,100.0,Wrocław,PHP,senior,,,13440.0,21840.0
+66333405a6d836502589376c67c1ca3e,White Label Coders,100.0,Kraków,PHP,senior,,,13440.0,21840.0
+3b4fcd4d909658b876aad90ea2307b0e,White Label Coders,100.0,Warszawa,PHP,senior,,,13440.0,21840.0
+91aa95c671e7e58871b0736078f30b92,Ardigen S.A.,100.0,Kraków,Python,mid,,,13000.0,15000.0
+3a7df7248b0907420ff4febc3c11e9d8,AVSystem,100.0,Kraków,Scala,mid,,,12000.0,21000.0
+5a5fc8d24cdf24e318344e232cbd38b6,AVSystem,100.0,Warszawa,Scala,mid,,,12000.0,21000.0
+df864682d297c4858d63faa2916fe6c4,AVSystem,100.0,Wrocław,Scala,mid,,,12000.0,21000.0
+c7cc268dd9e82c3a2a6392dc8f6d146a,AVSystem,100.0,Poznań,Scala,mid,,,12000.0,21000.0
+3633fbc0140ff293befe3a802e2a14c2,AVSystem,100.0,Gdańsk,Scala,mid,,,12000.0,21000.0
+950f9c11a24e09c1933724252131e7c0,AVSystem,100.0,Kraków,Scala,senior,,,25000.0,30000.0
+acdd15815d991d79e240ca730cec31d8,AVSystem,100.0,Warszawa,Scala,senior,,,25000.0,30000.0
+89b1bea3bb3507f62da13a313a4588a5,AVSystem,100.0,Wrocław,Scala,senior,,,25000.0,30000.0
+906c60537b56a235373ce94fa118382f,AVSystem,100.0,Poznań,Scala,senior,,,25000.0,30000.0
+a76df3ae41f51f8c297e2926c0b4dd17,AVSystem,100.0,Gdańsk,Scala,senior,,,25000.0,30000.0
+e698a861ff1845eea2c3d00b83fb3749,HERE Technologies,10000.0,Kraków,Scala,senior,14000.0,20000.0,14000.0,20000.0
+db4b34f795b2ca05030fc0b68d85ba53,HERE Technologies,10000.0,Remote,Kotlin,expert,26000.0,35000.0,33600.0,42000.0
+1c87c58966d83cdcdf406aecf3965e15,HERE Technologies,10000.0,Kraków,Kotlin,expert,26000.0,35000.0,33600.0,42000.0
+dec3588b3cd8b01689d8e89eb7163c55,HERE Technologies,10000.0,Remote,JavaScript,senior,15000.0,20000.0,25200.0,33600.0
+718a6bf1853506cb3f52c21f083dfc04,HERE Technologies,10000.0,Kraków,JavaScript,senior,15000.0,20000.0,25200.0,33600.0
+937574279a9ba434159b63dab26cd80e,HERE Technologies,10000.0,Remote,JavaScript,senior,19000.0,28000.0,19000.0,28000.0
+329f047a5c8ef1d8e7852c8dcf0ea040,HERE Technologies,10000.0,Kraków,JavaScript,senior,19000.0,28000.0,19000.0,28000.0
+47ffad5fc7ca1c1435187707f1638710,Ośrodek Przetwarzania Informacji - Państwowy Instytut Badawczy,100.0,Warszawa,Java,mid,10000.0,15000.0,,
+016deb48df9157243c88d1c99896b9e1,Team Connect Sp. z o.o.,100.0,Wrocław,Java,senior,,,26880.0,31920.0
+191f81d819b5ce258536583d073890b5,Team Connect Sp. z o.o.,100.0,Warszawa,Java,senior,,,26880.0,31920.0
+b9a60befdfb0ff6a9a2e613b0d7a4261,Tooploox,100.0,Remote,Python,mid,,,13000.0,18000.0
+c425c10efa894d1740426bea020a1eaa,Tooploox,100.0,Wrocław,Python,mid,,,13000.0,18000.0
+282dbee04065e020ec1b2b17379f5a6a,Tooploox,100.0,Warszawa,Python,mid,,,13000.0,18000.0
+881bac704162740983a66467d6ca0dae,Tooploox,100.0,Remote,Python,mid,,,12000.0,15000.0
+7c0df438c11e2b56cd2ff6571813704d,Tooploox,100.0,Wrocław,Python,mid,,,12000.0,15000.0
+6b22a0235b77bf81e4f30f23313f405f,Tooploox,100.0,Warszawa,Python,mid,,,12000.0,15000.0
+f2a025f4187ffcd4402acaea579f5aef,Tooploox,100.0,Remote,Python,mid,,,16000.0,21000.0
+ca907c94cc33aa71858a0fb12338abfe,Tooploox,100.0,Wrocław,Python,mid,,,16000.0,21000.0
+8068404ca9238021f6f58d0a97afec4a,Tooploox,100.0,Warszawa,Python,mid,,,16000.0,21000.0
+c22221d5cdd1d4beee9808ac75fed86f,Bestmix Software,100.0,Wrocław,C#,mid,10000.0,17000.0,,
+f63b159a72576b59150d049eadd7a788,CTHINGS.CO,10.0,Warszawa,Python,senior,18500.0,22500.0,22000.0,25000.0
+79cdbe0c9c50823eeffd11c18ba4091f,Inter Cars S.A.,1000.0,Remote,Python,senior,,,23000.0,28000.0
+bcdaf8cbdff01da7b40a8cb8be1bfac8,Inter Cars S.A.,1000.0,Warszawa,Python,senior,,,23000.0,28000.0
+be6eb6bd64e04aac2d8660d696002b9b,Linkhouse,10.0,Katowice,JavaScript,mid,6500.0,8500.0,8000.0,10000.0
+5ed38d59e3ceeee26b6c9cc1ea127a01,NetworkedAssets Sp. z o.o.,100.0,Wrocław,Kotlin,mid,11000.0,20000.0,12000.0,22000.0
+0e9e77ee0abe58ae6052b5aec00e72ff,NetworkedAssets Sp. z o.o.,100.0,Wrocław,Kotlin,senior,20000.0,30000.0,21000.0,32000.0
+43e107754802370a0e8f77ac42600a5c,Orbus Software Sp. z o.o.,10.0,Remote,JavaScript,expert,28000.0,31500.0,,
+f74c4196c8d715b96a1db59faa4e98f9,Orbus Software Sp. z o.o.,10.0,Katowice,JavaScript,expert,28000.0,31500.0,,
+80c0fb428a86c37e222aa9efc9e29030,Orbus Software Sp. z o.o.,10.0,Remote,C#,expert,30000.0,34000.0,,
+18621d2c52b7f7aca7a737ede1b1d119,Orbus Software Sp. z o.o.,10.0,Katowice,C#,expert,30000.0,34000.0,,
+1e362746d9006455d7dccdcb49692756,Proxet,100.0,Remote,Python,senior,,,34880.0,43600.0
+7e058fbae7a9d07889a9ed1b26ea46a3,Proxet,100.0,Wrocław,Python,senior,,,34880.0,43600.0
+7a716e5df1cd6f03ef79e667c0947ddb,Stellantis,1000.0,Remote,JavaScript,senior,32000.0,32000.0,,
+08af13ccf4ef87d2c38bd61f353eb6b0,Swivl,100.0,Warszawa,JavaScript,mid,,,15260.0,21800.0
+2c8cd19152bff51a6b8b357f56a08f2a,Volvo Group,1000.0,Wrocław,Python,senior,20000.0,25000.0,,
+ad4ba59617c0879598a36f3af7240196,Volvo Group,1000.0,Wrocław,Python,expert,25000.0,29000.0,,
+5614214c2c3a8a680a866d7d1ebe2b12,Appliscale,10.0,Remote,JavaScript,expert,23000.0,28000.0,25000.0,32000.0
+a3eadecc635223417f57bb7fef6e85fa,Appliscale,10.0,Kraków,JavaScript,expert,23000.0,28000.0,25000.0,32000.0
+c87bb286d753bed5f6a99b5da65ba7df,Appliscale,10.0,Remote,JavaScript,senior,19000.0,26000.0,23000.0,30000.0
+5ccadaeb65f16cc56a76f70d23fcdce4,Appliscale,10.0,Kraków,JavaScript,senior,19000.0,26000.0,23000.0,30000.0
+f6d28f6403ec912faae8f1f618fbf37c,Blue Water Shipping,1000.0,Gdańsk,C#,junior,5000.0,10000.0,,
+cc34b8595d9b353a85b5386739ef2032,Blue Water Shipping,1000.0,Gdańsk,C#,senior,12000.0,22000.0,12000.0,22000.0
+045760487034e65e33a03956489c4417,BNP PARIBAS GROUP SERVICE CENTER,1000.0,Warszawa,Java,junior,5500.0,10500.0,,
+f250d533d1cc538e9aafed68778cde5c,Decerto,10.0,Remote,Java,mid,,,18480.0,23520.0
+2a6ceecc1b08954fa05d64adb4e9b6c8,Decerto,10.0,Warszawa,Java,mid,,,18480.0,23520.0
+0288358aace87dcb6b9467640e8ce0fc,DS Stream,100.0,Remote,Python,senior,,,20160.0,30240.0
+428b75a9c484f2633dab90579a99a67e,DS Stream,100.0,Warszawa,Python,senior,,,20160.0,30240.0
+740972589a13b4a67dd0a60ba6f3608a,"Dunning, Kruger & Associates",100.0,Wrocław,JavaScript,senior,17000.0,26000.0,21840.0,30240.0
+b31e8b0981820a8df08cbb71bdbc2894,"Dunning, Kruger & Associates",100.0,Wrocław,Java,senior,17000.0,26000.0,21840.0,30240.0
+c5469b93226d66542f992716a637c9e6,e-point SA,100.0,Warszawa,JavaScript,senior,15500.0,23000.0,18800.0,28000.0
+ffdda7908a266dd8a63ec59a65240029,Engenious,100.0,Remote,Java,senior,,,26880.0,31920.0
+2d2e2257ca8c9393010b8571255f01c1,Engenious,100.0,Kraków,Java,senior,,,26880.0,31920.0
+efea618886955833d5db1800ed26b8e6,Harvey Nash Technology,10000.0,Warszawa,C/C++,mid,18000.0,21000.0,,
+9be605f79e44c47bf62e794c055f84f2,MasterBorn,100.0,Remote,JavaScript,junior,,,9000.0,12000.0
+b39d8edf2e2cee008cfbf60684cdb8fe,MasterBorn,100.0,Wrocław,JavaScript,junior,,,9000.0,12000.0
+14e0d238ad3fe637d53805dfb361f5b0,MasterBorn,100.0,Kraków,JavaScript,junior,,,9000.0,12000.0
+908ab8c6e0ea27f120e46a4ef793ec16,MasterBorn,100.0,Remote,JavaScript,mid,,,12000.0,19000.0
+8ce4fa8a7cea247282bf3b8cae23b98d,MasterBorn,100.0,Wrocław,JavaScript,mid,,,12000.0,19000.0
+5d9c295c9411d4f1cd3cd13acc0dd2a0,MasterBorn,100.0,Poznań,JavaScript,mid,,,12000.0,19000.0
+6de49bb17c731546cdfde654f5b621c8,MasterBorn,100.0,Kraków,JavaScript,mid,,,12000.0,19000.0
+ff1d2145bdae76381ef4312f5e56ade0,MasterBorn,100.0,Gdańsk,JavaScript,mid,,,12000.0,19000.0
+1a48e6b4c8bbbabfedf6be6e52663528,MasterBorn,100.0,Warszawa,JavaScript,mid,,,12000.0,19000.0
+11ada32fd10464a7e24d8da4c2a4ad21,MasterBorn,100.0,Katowice,JavaScript,mid,,,12000.0,19000.0
+2fad040849d203a759b7b6d23f046743,Monogo Sp. z o. o.,100.0,Remote,JavaScript,senior,14500.0,18500.0,16000.0,21000.0
+95000eee29f66c5907b9dbcdc030448e,Monogo Sp. z o. o.,100.0,Warszawa,JavaScript,senior,14500.0,18500.0,16000.0,21000.0
+0f61a2139da7e52f980f9be7c76f9e2a,NOVOMATIC Technologies Poland,100.0,Kraków,C#,senior,14000.0,23000.0,,
+8cd10025e20c00d8299bcb193b9e6b73,PragmaGO.tech,10.0,Remote,PHP,mid,12000.0,17000.0,13000.0,19000.0
+8c68609d048da861d4ee4a6dda5f7105,PragmaGO.tech,10.0,Kraków,PHP,mid,12000.0,17000.0,13000.0,19000.0
+e4e2a5718b2dcf6a25059d796323a8b0,PragmaGO.tech,10.0,Katowice,PHP,mid,12000.0,17000.0,13000.0,19000.0
+8ec4f909f48509fe9bed103d8c38529c,Pragmile,100.0,Remote,Python,senior,,,23520.0,26880.0
+f712fe29b08a61269b1c67736ac77ee3,Pragmile,100.0,Warszawa,Python,senior,,,23520.0,26880.0
+0e139ce5f9dc8fbd3a3e7fd946a526df,Scaleworks,100.0,Remote,C#,mid,12500.0,15000.0,15000.0,19000.0
+0ed9a9547b37b5737184171f13297df7,Scaleworks,100.0,Kraków,C#,mid,12500.0,15000.0,15000.0,19000.0
+d49d6e558bfc9457630e38d7589d2272,Selleo,100.0,Remote,JavaScript,mid,,,10000.0,18000.0
+ecb2d0fe7409dada0fda069b7d5fac1c,Sunscrapers,10.0,Remote,Python,senior,,,27000.0,34000.0
+acd4ff33828f9b7cd29363afb09f9846,Sunscrapers,10.0,Warszawa,Python,senior,,,27000.0,34000.0
+1c37b716950433927d7103c1ca564848,Sunscrapers,10.0,Remote,Python,mid,,,20000.0,24000.0
+934d05e18895eb823e96737c2344d172,Sunscrapers,10.0,Warszawa,Python,mid,,,20000.0,24000.0
+be894a90fc08368f4669878e3403116f,Unity-t Group Sp. z o.o. Sp.k.,10.0,Kraków,PHP,mid,9000.0,15000.0,9000.0,15000.0
+3afc2d2425a0a40aa0cef0fdeb19354b,Unity-t Group Sp. z o.o. Sp.k.,10.0,Warszawa,PHP,mid,9000.0,15000.0,9000.0,15000.0
+1044a6d4c17b34ef3b7b4a9bc75e35e2,10Clouds,10.0,Remote,JavaScript,senior,15000.0,25000.0,17000.0,28000.0
+93c33a9e448dff52e42d5f988001a2c8,10Clouds,10.0,Poznań,JavaScript,senior,15000.0,25000.0,17000.0,28000.0
+8b0d9b3e9c5efab99fe0599b034973f4,10Clouds,10.0,Warszawa,JavaScript,senior,15000.0,25000.0,17000.0,28000.0
+75eb004ad127ff548ae52a1335fbcde8,Acceleroid,10.0,Remote,JavaScript,mid,,,11000.0,16000.0
+9ba6e29f5483887cc1fb46b775ff90da,Acceleroid,10.0,Kraków,JavaScript,mid,,,11000.0,16000.0
+0678e3f041319bf2de5f61ea9ec5ddb1,AirHelp,100.0,Kraków,Ruby,mid,16000.0,22500.0,18000.0,25000.0
+bd7adc9c79a5c6344e48403628aab1d7,AirHelp,100.0,Gdańsk,Ruby,mid,16000.0,22500.0,18000.0,25000.0
+2cc4bdaa8acc1129be82bc91be7f0813,Arelion,100.0,Warszawa,Java,mid,,,20160.0,25200.0
+d34dac1cd83da039292b4cfda8b82e8f,Brainly,100.0,Remote,Python,senior,26000.0,35000.0,26000.0,35000.0
+de90cf9dc74a9bf593084504411b04a0,Brainly,100.0,Wrocław,Python,senior,26000.0,35000.0,26000.0,35000.0
+71c367fce71470521ff02e597b819bb5,Brainly,100.0,Katowice,Python,senior,26000.0,35000.0,26000.0,35000.0
+30289343800bfcf56e6a2a8d4175d5bd,Brainly,100.0,Kraków,Python,senior,26000.0,35000.0,26000.0,35000.0
+59134c91aa482ef83ab9357aefd49f86,Brainly,100.0,Poznań,Python,senior,26000.0,35000.0,26000.0,35000.0
+c2a7f95882b3daced552dbe0eb530a33,Brainly,100.0,Warszawa,Python,senior,26000.0,35000.0,26000.0,35000.0
+a614875ee46c081ea1b3e0a436a10782,CodePole,10.0,Remote,PHP,senior,18750.0,22500.0,25000.0,30000.0
+e75b30d249e648eda6b832df9fba9b8f,CodePole,10.0,Warszawa,PHP,senior,18750.0,22500.0,25000.0,30000.0
+e4dc8ec23778454137848f2f3fe32b9d,CodePole,10.0,Katowice,PHP,senior,18750.0,22500.0,25000.0,30000.0
+5fe75cd632a513dbea9315a696ead592,CodePole,10.0,Wrocław,PHP,senior,18750.0,22500.0,25000.0,30000.0
+70b9428dcf9333d83ba5024c5afabe21,CodePole,10.0,Kraków,PHP,senior,18750.0,22500.0,25000.0,30000.0
+8dd812c1a8699f9f49448e50eaa153f3,CodePole,10.0,Gdańsk,PHP,senior,18750.0,22500.0,25000.0,30000.0
+024f737687f8efb6ee3d86021e1172e5,Dell Technologies,100000.0,Warszawa,C/C++,senior,22600.0,27250.0,,
+55ae42907187814a9b0c316ca053736d,Dom Maklerski BOS S.A.,100.0,Remote,JavaScript,mid,15000.0,22000.0,16000.0,26000.0
+928d419bab14fe5d4f8863fba27a62a9,Emotivo Sp z o.o.,100.0,Remote,PHP,senior,,,12000.0,15000.0
+84cd06af1920b8ad38f06b63bcb4a91e,Handsoncode Sp. z o.o.,10.0,Remote,JavaScript,senior,,,16000.0,26000.0
+ed7eba2688b0709509580cccd276e655,Handsoncode Sp. z o.o.,10.0,Gdańsk,JavaScript,senior,,,16000.0,26000.0
+4dca03ebb9f6b1a199aeaa4032d741a1,Handsoncode Sp. z o.o.,10.0,Warszawa,JavaScript,senior,,,16000.0,26000.0
+9d9398e23ad017666fe800d467bbad32,Handsoncode Sp. z o.o.,10.0,Kraków,JavaScript,senior,,,16000.0,26000.0
+86edd371926922a67c153927588e6522,Handsoncode Sp. z o.o.,10.0,Wrocław,JavaScript,senior,,,16000.0,26000.0
+033916ff5943dbe2ae562a9472d602bf,Handsoncode Sp. z o.o.,10.0,Poznań,JavaScript,senior,,,16000.0,26000.0
+66d3fd20db50356ebe168d1cd6daea23,Infolet,100.0,Remote,C/C++,expert,23000.0,25500.0,31920.0,35280.0
+3a6eeb9fe01c9c2026e0028555476e35,Infolet,100.0,Kraków,C/C++,expert,23000.0,25500.0,31920.0,35280.0
+3b78c8905d0cf20fd01cf62b4f463f44,Intetics,100.0,Remote,Java,senior,,,17440.0,19620.0
+bed62d5110e17665265b0103b587d35c,Intetics,100.0,Kraków,Java,senior,,,17440.0,19620.0
+82f3fdabdb6e45e8688f96360e038b6f,Intetics,100.0,Warszawa,Java,senior,,,17440.0,19620.0
+68cd7144d078f692f0c3d72c24db8a4f,Inwedo,10.0,Remote,Java,senior,,,16000.0,22000.0
+24fe9f27d613e3e4423203d01ecea093,Inwedo,10.0,Łódź,Java,senior,,,16000.0,22000.0
+4669180c7c9b633bc7cbd75b9c19e573,Jakdojade,10.0,Remote,Mobile,mid,8300.0,14940.0,10000.0,18000.0
+1f054e966ed4e6bb7f21db532a3908ba,Jakdojade,10.0,Poznań,Mobile,mid,8300.0,14940.0,10000.0,18000.0
+3534c56c325002729c8a42d179f3455f,Jakdojade,10.0,Łódź,Mobile,mid,8300.0,14940.0,10000.0,18000.0
+6690aa96223cbe35637b8a24e043f6a4,Jakdojade,10.0,Warszawa,Mobile,mid,8300.0,14940.0,10000.0,18000.0
+fdf55bc1741ace0fe9abb63241657d6c,Jakdojade,10.0,Wrocław,Mobile,mid,8300.0,14940.0,10000.0,18000.0
+998be5215d88070cbc1ac8379560db33,Jakdojade,10.0,Gdańsk,Mobile,mid,8300.0,14940.0,10000.0,18000.0
+7b4b563870655b421ba89ec0ce6d7520,JPEmbedded,10.0,Kraków,C/C++,mid,12000.0,17000.0,,
+5f649c609072865f9dee28f853ce265b,JPEmbedded,10.0,Katowice,C/C++,mid,12000.0,17000.0,,
+443c2fe356bcede4eca013e78aee6247,Kahoot!,100.0,Remote,Java,senior,,,26880.0,33600.0
+b8f318910412a676d772ba7044ed051a,Kahoot!,100.0,Wrocław,Java,senior,,,26880.0,33600.0
+cee7994ad821d0f3f8c00b3e5d935fe0,Linguahouse.com,10.0,Remote,JavaScript,mid,,,13000.0,18000.0
+407a179d9038556d23ccd741c5846203,Linguahouse.com,10.0,Kraków,JavaScript,mid,,,13000.0,18000.0
+691d61e722e9e90f0eccad21482efe95,Maxio,100.0,Remote,JavaScript,mid,14000.0,20000.0,14000.0,20000.0
+9e42c2295094fb654771dd73e3c7d5a2,Maxio,100.0,Kraków,JavaScript,mid,14000.0,20000.0,14000.0,20000.0
+c22d8314850a0582256ba45fbadeb5f9,MicroStrategy Poland,100.0,Warszawa,Python,junior,9500.0,12000.0,,
+135ba3c7480d0514312374b47b8c5796,Nekken Sp. z o.o.,100.0,Warszawa,Java,mid,,,10000.0,17000.0
+5810e54334a1844390e27e72450ffad3,NoA Ignite Poland,100.0,Remote,C#,senior,12500.0,19500.0,16800.0,25200.0
+fe21182b9d80546b205587930ad52daf,NoA Ignite Poland,100.0,Kraków,C#,senior,12500.0,19500.0,16800.0,25200.0
+eee3263f5da8812e4036217fac06a588,Pruftechnik Technology Sp. z o.o.,10.0,Wrocław,Java,senior,15000.0,25000.0,20160.0,30240.0
+993c9203ca81898f2bc02eea5ebb8c34,Railsware,100.0,Remote,Ruby,senior,,,17440.0,30520.0
+3458739b4f3aa9ca389385b8fad1edbd,Railsware,100.0,Kraków,Ruby,senior,,,17440.0,30520.0
+0ed43e2ac9e8a788f331d71541af8260,Railsware,100.0,Warszawa,Ruby,senior,,,17440.0,30520.0
+66e0b6fb4f88c3ee910bdc9cd3ae413a,SmartRecruiters INC,100.0,Remote,JavaScript,senior,21000.0,28000.0,24500.0,31500.0
+8efb374be994bffafce9f2c958ddd235,SmartRecruiters INC,100.0,Kraków,JavaScript,senior,21000.0,28000.0,24500.0,31500.0
+2f5ec79a4e95b24187b39ff3cbf05f90,SNI,10.0,Remote,Python,senior,,,26880.0,33600.0
+b968189788623e5abd1a9934157709ae,SNI,10.0,Wrocław,Python,senior,,,26880.0,33600.0
+44c0724b5da0b8160cbdc839e3f50f4d,Spoton.com,100.0,Kraków,Python,senior,19000.0,25000.0,22000.0,30000.0
+18aba4cfd8de0ee5852205fc06d1f226,USEO Sp. z o.o.,10.0,Wrocław,JavaScript,senior,15900.0,18500.0,19200.0,22400.0
+1d4585eb13fd28a5a818f6634815547f,Vazco,10.0,Remote,JavaScript,senior,14000.0,18300.0,17000.0,22000.0
+b64e5fb0cb9564d0edfdb9f4d921b965,Vazco,10.0,Wrocław,JavaScript,senior,14000.0,18300.0,17000.0,22000.0
+e7c07a2679798771aec2ddc5d8c14dbd,VHV Informatyka,10.0,Warszawa,Java,senior,22000.0,30000.0,,
+6de0d1701a678fbe23ed5a804a1acd7b,YND,10.0,Remote,JavaScript,junior,,,8000.0,12000.0
+0379ac6af61f7f90c6217dba600c5bf9,YND,10.0,Warszawa,JavaScript,junior,,,8000.0,12000.0
+e259a8061f571ec2774d4090e4a1b800,Sii Poland,10.0,Remote,C/C++,senior,13000.0,19000.0,16800.0,25200.0
+c0e37a58555f9d3baff58ea49a2ae6b9,Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie,,Kraków,JavaScript,mid,9000.0,14000.0,,
+3a2da5888320487b0f23259b762d037d,The Codest,10.0,Remote,Python,senior,,,20000.0,24000.0
+278be726eecea9e213d98ad06ee21570,dotLinkers - IT Recruitment Agency,10.0,Kraków,C#,mid,26000.0,26000.0,,
+347dbf64c687833aba12c79233427c3c,BetterDoc GmbH,,Remote,Ruby,senior,15400.0,26950.0,,
+2663c8c5dbbffde6e906d518d2d4ac35,Sensorberg GmbH,,Remote,Ruby,senior,23100.0,28875.0,,
+209e388e4d4b86cb892a0787feb3605f,McMakler GmbH,,Remote,JavaScript,senior,21175.0,28875.0,,
+a9e3cbc3ddbe13e5bd7bd4e6851974a5,Prime Engineering,1000.0,Remote,Java,mid,,,17000.0,22000.0
+5b6e96647a83a54087aa9c73811a7877,Prime Engineering,1000.0,Remote,Java,mid,,,26500.0,28500.0
+139fe66e346a023bb497b0ced4cbe10e,Prime Engineering,1000.0,Remote,C#,senior,,,18000.0,22000.0
+2d0ff62080abf1bd9102fe7982754c34,Develocraft,100.0,Remote,Java,mid,,,16800.0,21840.0
+57664959ea87d2ce9ef2b0194082ffaf,Prime Engineering,1000.0,Remote,C#,mid,,,15000.0,18000.0
+345c2e6f971ee3a165f887fd35d998b8,Prime Engineering,1.0,Remote,JavaScript,mid,,,18000.0,23000.0
+e6dd0485b97043935561b4457ac02a71,Devire,100.0,Remote,C#,mid,,,12000.0,17000.0
+603c0884e2b3bb223d5ab6eb37741d82,Sii Poland,10000.0,Remote,C#,senior,,,18000.0,23000.0
+8409a639fccc56e2e3a8e7156ce130f5,10up,,Remote,JavaScript,mid,,,7500.0,12500.0
+834b5175cb48595fc85705d10823ab25,Power Media,100.0,Warszawa,JavaScript,mid,14000.0,21000.0,,
+168d8d1643356451df8189a95804220a,Power Media,100.0,Warszawa,Java,mid,14000.0,21000.0,,
+046e3db518d5555e777ec8ff87b7f3d3,Relativity,1000.0,Kraków,C#,mid,12167.0,18167.0,,
+02d57d7005ae176d5a05d61799d1651e,Relativity,1000.0,Kraków,C#,expert,19333.0,29000.0,,
+4171b2f23ab36fc79d40484105a1ca0c,Relativity,1000.0,Kraków,C#,senior,15083.0,22583.0,,
+88e9dfd6131135491faf148866091eb7,ONWELO Sp. z o.o.,1.0,Remote,Java,senior,,,18900.0,21000.0
+fb6f494ed115aedb122346630cc94249,Klient Bulldogjob,,Kraków,Java,mid,9500.0,12500.0,12000.0,15000.0
+bc5d25b1128eede0e90bb4a454322c0f,Zoolatech,100.0,Warszawa,JavaScript,senior,,,15840.0,19000.0
+367a6db6a30d35ed6ad0dc6207d7c237,Amsterdam Standard,100.0,Kraków,Python,senior,,,17000.0,22000.0
+2af3d2663d9db829f88ecc22b7d00644,4soft,10.0,Remote,PHP,senior,,,14000.0,16800.0
+a08314215ae6eade37de279080843ad0,GoWork.pl,100.0,Remote,PHP,senior,,,16000.0,18500.0
+813ee20456d31f6fcc6e58f3e035d341,ZABBIX,,Remote,PHP,mid,,,12990.0,18190.0
+524fc47e2a6063942a9dd066074aeb5f,Tango,,Remote,PHP,mid,,,15000.0,22000.0
+21dbea9c91091f636fa367a633a10b37,Klient Just Join IT,,Remote,PHP,mid,10000.0,12000.0,10000.0,12000.0
+300418a19284850f3117142482598bbb,Gate-Software,10.0,Remote,PHP,senior,,,17000.0,24000.0
+d3954418968ef600f57e2a56272b6a88,Tebim,,Remote,PHP,mid,7000.0,13000.0,9000.0,16000.0
+49fac5f7b2c361358f339582b96c00c3,Boldare,100.0,Remote,PHP,mid,8400.0,13400.0,10000.0,16000.0
+b3854a19397d0e953f5b29f1c07a6a47,DevsData LLC,10.0,Remote,PHP,senior,,,15160.0,21650.0
+67cc80bd29bf4ae17ad376f276ced64c,BaseLinker,100.0,Remote,PHP,mid,,,16000.0,21000.0
+fe909dbad39e1898bc1aa9bd8dced7b9,Unity Group,100.0,Warszawa,PHP,senior,13600.0,17300.0,18500.0,23500.0
+77f4b0fe3952cdd8add604cba481fa5e,Unity Group,100.0,Remote,PHP,expert,17300.0,22300.0,23500.0,30200.0
+57ca3401ad080d9c640129b25200d6b7,Limango Polska,,Remote,PHP,mid,,,17000.0,20000.0
+7b5d39f75d010b890c4e0553286b2142,Massive Pixel Creation,,Remote,PHP,mid,9100.0,10800.0,11000.0,13000.0
+15ebb3b8f55e785cf9acf21e4a4148cc,Videoslots Ltd.,,Remote,PHP,mid,,,15160.0,17320.0
+01455b67b7ce20d5b68b143328bfad87,Centra,100.0,Remote,PHP,mid,10000.0,15150.0,12100.0,18200.0
+e39e36651383f7554b00826df93cb238,Profitroom,,Remote,PHP,expert,15300.0,19100.0,18400.0,23000.0
+dba5ef0c2dda0b440547ca21aeeec1be,Waynet,,Remote,PHP,mid,,,12000.0,17000.0
+84088da59bd52cb68b77a0781ba034d5,4 o'clock Interactive,10.0,Remote,PHP,mid,9000.0,12000.0,12000.0,14000.0
+49262d4ba6dffbce1dbe36b374a9d32d,Centra,100.0,Remote,PHP,senior,15000.0,20000.0,18000.0,24000.0
+3cbae88663cdd54042c8d49337c56c9e,DNA Technology,10.0,Remote,PHP,senior,16000.0,21000.0,21840.0,30240.0
+a9fd55a1c22e2937148091de13d944f0,TransferGo,100.0,Remote,PHP,mid,,,15000.0,20000.0
+452effb602a82e0447262a30a3eb2924,Transparent Data,,Remote,PHP,mid,,,10000.0,16000.0
+24483f8a6bc15f6f5d5710a2600ce6ef,Fujitsu Technology Solutions,,Remote,PHP,senior,12000.0,17000.0,,
+bc86338123666e18ce49bf34ba1f456d,Transparent Data,,Remote,PHP,senior,,,14000.0,18000.0
+28994426491212073ca86b94b5ef5bb7,Mindpal,10.0,Remote,PHP,mid,,,5000.0,8500.0
+b6d5a791d4405698ca85d7d414cba210,Cloudflight,1000.0,Remote,PHP,senior,13800.0,21500.0,16800.0,26040.0
+1cc6a7dda07dc7747d874da1206b3b5b,blau direkt,10.0,Remote,PHP,senior,13000.0,17000.0,16800.0,23000.0
+a14ae5c5a39d8cb7dc069ff7a0a876f3,Pretius,100.0,Remote,PHP,senior,12000.0,19500.0,15000.0,23500.0
+19879be345923ae5ea15a4c3880860c0,3e sp. komandytowa,,Remote,PHP,mid,,,8000.0,14000.0
+e700d71ec6a990bd832c341635eaecb4,Workshop Management,,Remote,PHP,mid,,,9000.0,15000.0
+f5c3ec5d4e72e765b2a30fd81b10cb87,Bytamic Solutions,100.0,Remote,PHP,senior,,,18000.0,23000.0
+276ee08dff5ab77869db8a9932898db1,TeamQuest,,Remote,PHP,senior,,,15000.0,20000.0
+9b7507bda4a2bec3e624fb5dcdc612bf,Convertis sp. z o.o.,,Remote,PHP,mid,,,9000.0,17000.0
+94d540856eb9573e04f06f8507fda6b8,VM.PL,100.0,Remote,PHP,senior,14000.0,15500.0,20160.0,21840.0
+8b1dd4d8d33ff67242fb103e46dcb1d4,Mamyito.pl,,Warszawa,PHP,senior,,,14000.0,18000.0
+cefafa44d11c0322ffa5cef7ef942938,Mamyito.pl,,Warszawa,PHP,mid,,,12000.0,16000.0
+3403fd29574a17339b11ac64410aadfc,Innovation Software,,Remote,PHP,mid,,,10000.0,15000.0
+bf1c340ccb9ddd04cdcee402cec1f1bf,Innovation Software,,Remote,PHP,junior,,,7000.0,9000.0
+a96740487d68eba19666418ba2a4dd2d,AZAGroup,100.0,Remote,PHP,senior,,,17500.0,20100.0
+a5dda879fa3a503d08c2130151a4080f,Tidio,100.0,Remote,PHP,senior,,,19000.0,28000.0
+3205305a1f86aa1d47a7030416223a8d,HAYS Poland,100.0,Remote,PHP,expert,,,16000.0,22600.0
+d8799969f0a92c243a7284e5766766bb,Relout,,Remote,JavaScript,senior,,,27000.0,32000.0
+98404d6e172ba6a4a1b259ede58f9329,THE HEART R&D LAB,,Remote,JavaScript,mid,,,13400.0,18400.0
+bdec6c7be365455a0e2f352f4c38f1a9,ITDS,100.0,Warszawa,JavaScript,mid,,,16000.0,21000.0
+a4a12db9b18f99ac1090e843156f5cc7,Speechify Inc.,,Remote,JavaScript,senior,,,20100.0,40210.0
+09d22c547a4940dd7c049e595d63dfd6,ITDS,100.0,Warszawa,JavaScript,senior,,,43310.0,45470.0
+e24b12e8af614229f7bca2bccb237079,Tango,,Remote,JavaScript,senior,24000.0,26000.0,,
+5cc2592c6800bfd8764a9c1776e40075,HERE Technologies,10000.0,Remote,JavaScript,senior,15000.0,20000.0,,
+bdd72aef58d5f762c96e8a8948cd19e1,Dataedo,10.0,Remote,JavaScript,mid,7500.0,9700.0,9000.0,12000.0
+91687318f3391c01f43bcdc209697795,Elympics,,Warszawa,JavaScript,senior,,,16000.0,19000.0
+8ac16e51b22406292b04e5b0d9d58b3e,LeanCode,,Warszawa,JavaScript,mid,,,8400.0,15120.0
+e241f34a87e790c75cec6ac04651b816,creativestyle,100.0,Remote,JavaScript,mid,,,9000.0,15000.0
+7fbeafeab059ac973fc2ede108f28a74,1dea,,Remote,JavaScript,mid,,,24360.0,26880.0
+40070263a40fef5a2590186fdabe5ca9,House of Angular,10.0,Warszawa,JavaScript,mid,,,10000.0,18000.0
+4acbfb357aefde108370a2292fe0c414,DevsData LLC,10.0,Remote,JavaScript,junior,,,8040.0,11660.0
+be5dbca06b9597f1933acb7e32ff99fe,Autentika,10.0,Remote,JavaScript,mid,,,12000.0,15000.0
+93e0d6f6b286f7d8ec064102137b266b,Mindpal,10.0,Remote,JavaScript,mid,,,9000.0,18000.0
+c3b8c303161fbe7156c763a2aed0d5e8,DevsData LLC,10.0,Remote,JavaScript,senior,,,24120.0,30150.0
+4f7dec35f7db0bdcb51024279476e330,DevsData LLC,10.0,Remote,JavaScript,senior,25120.0,28150.0,,
+b5242e5ee1a72fc717a6f1d198a56f26,ArdentCode,10.0,Remote,JavaScript,mid,,,15000.0,19000.0
+9ae0c00e0ba374a0781b3d1d5f88985e,DevsData LLC,10.0,Remote,JavaScript,senior,,,25130.0,26540.0
+2d9bd8f8264be5ff7736709ed178f0ed,Link Group,100.0,Remote,JavaScript,senior,,,20000.0,25000.0
+1ff67543d0332d099421921930f8fb25,The Stepstone Group Polska,100.0,Warszawa,JavaScript,expert,17000.0,27000.0,,
+52e03fab2d545e41a8860cd676c72111,THE HEART R&D LAB,,Remote,JavaScript,mid,,,11100.0,16300.0
+530a9959bc1a213f88389a73082a1a15,Polcode,100.0,Remote,JavaScript,mid,,,15000.0,20000.0
+10ac3f6300dd5d0dd5765709b91c1601,WorkHQ,,Remote,JavaScript,senior,28140.0,34170.0,,
+28188448157b0454389de36088016a0d,Mindpal,10.0,Remote,JavaScript,senior,,,24000.0,28500.0
+ff86490ea5cd7420214225d6f0b06675,Wingspan,,Remote,JavaScript,senior,,,28140.0,30960.0
+24d222b816062e47d1ca490c99dacbd5,blau direkt,10.0,Remote,JavaScript,senior,17000.0,21000.0,20000.0,26000.0
+8cb1cb4141cdc8a9614bfc29572ac2bc,Zowie,,Warszawa,JavaScript,senior,,,20000.0,30000.0
+e8d0ace758fcf398651ff874d455d05c,Mindpal,10.0,Remote,JavaScript,mid,,,14500.0,22500.0
+0827ebed9b7a7723f1d8270595ad2d34,Prime Engineering,1000.0,Remote,JavaScript,senior,,,17000.0,22000.0
+e178c71c296da6ce4ac552cbca92d137,USEO Sp. z o.o.,10.0,Remote,JavaScript,senior,15900.0,18500.0,19200.0,22400.0
+9579254254f91a42a864d24af54dfbb9,Miquido,100.0,Remote,JavaScript,senior,,,20550.0,26320.0
+997115c5f7b2248757cc18150f188a7d,Link Group,100.0,Remote,JavaScript,senior,,,19200.0,23680.0
+4813585762125eb6dff1b13e9f34240e,Nortal,100.0,Remote,JavaScript,senior,,,26000.0,28000.0
+dd1b1cdd5a6096b3b024b118e24a321b,creativestyle,100.0,Remote,JavaScript,senior,,,17000.0,21000.0
+b9c1dac80a53358e6c2593be3ea35457,Caterings,,Warszawa,JavaScript,senior,,,16000.0,22000.0
+db647c928e67bc08657a3bda1e9f0c41,Montrose Software,10.0,Remote,JavaScript,mid,10000.0,16000.0,13370.0,21400.0
+235b7d629b70398edc1484ffd6d66892,SILK SOFTWARE HOUSE,,Remote,JavaScript,expert,,,18000.0,24000.0
+8588d83d063bc34675ec4d6d83078b17,SoftwiseAI,,Remote,JavaScript,mid,,,14000.0,16000.0
+75b5c3d4a900617dc3a8662e5d62bc31,Cloudflight,1000.0,Remote,JavaScript,senior,20800.0,24900.0,25200.0,30240.0
+606ef11599a11270bb4a16cdb7d1e8d8,Link Group,100.0,Remote,JavaScript,senior,,,16000.0,21000.0
+213698fc431744b88e832402b6e3aa7b,DATEV,10000.0,Warszawa,JavaScript,senior,18000.0,32000.0,,
+d4a5d9fd03cd5887af88ea8f8d42dd5a,Divante Sp. z o.o.,,Remote,JavaScript,expert,20800.0,24900.0,25200.0,30240.0
+abf01088c30ddd49ebb88c94daaaa96a,Medpace,10.0,Warszawa,JavaScript,senior,22000.0,30000.0,,
+a310e16dd1591a208a1018beb10d2d0c,Ramp Network,100.0,Warszawa,JavaScript,senior,,,21000.0,28000.0
+7982036e471451f34ae9543b0114248f,DNA Technology,10.0,Remote,JavaScript,senior,16000.0,22000.0,21840.0,30240.0
+77585b1715004446f4385449feeb6734,the.good.code;,10.0,Remote,JavaScript,mid,,,14400.0,17600.0
+3a767feaa58ab6b8d6896a9cc5f57064,Droids On Roids,100.0,Remote,JavaScript,mid,,,21000.0,24000.0
+68511b10ff639fb86cc16ca1ef227c7e,Cloudflight,1000.0,Remote,JavaScript,mid,9400.0,18700.0,11400.0,22700.0
+7eda274599d921f4ca50355c4531b6db,Quickchat AI,,Warszawa,JavaScript,mid,,,14070.0,28140.0
+a349ecb76badfbc4d8ad040760678077,Appfire,1000.0,Remote,JavaScript,expert,22000.0,31000.0,,
+a745356091be062da6c25b5589afe68e,DahliaMatic Sp. z o.o.,100.0,Warszawa,JavaScript,senior,,,20000.0,30000.0
+efa441b5e79ea5ea356cef17ce666b9b,Appfire,1000.0,Remote,JavaScript,expert,25000.0,34000.0,,
+1e360f3af03a1c52bc9a94da150089eb,7N,1000.0,Remote,JavaScript,senior,,,23520.0,27720.0
+a3f5f455ed839c005865646f2af36228,commerce-ui,,Remote,JavaScript,mid,,,10000.0,16000.0
+a5c39e4bd80e058efc6172260b87925d,Codilime,100.0,Remote,JavaScript,senior,,,16500.0,27500.0
+9c969649b483cad0dd7a78f77d0a8c51,Schenker Technology Center,,Remote,JavaScript,senior,20800.0,31200.0,20800.0,31200.0
+c3998959e26a11d9569bc5ea0e93b41f,Sporty Group,,Remote,JavaScript,mid,,,15160.0,21650.0
+0ecf81b6bed12e0f2d36db8f0e74fe82,Crestt,100.0,Remote,JavaScript,mid,,,13440.0,21000.0
+dbf2e539dfdfdcc875e8459cd686579a,DevsData LLC,10.0,Remote,JavaScript,senior,,,21710.0,28140.0
+0cc8b2017570d3665b4a6d11a270d7cd,Aspire Systems Poland,100.0,Remote,JavaScript,senior,13200.0,15770.0,16000.0,19000.0
+7029afd1d3306f5f5a5ae02643d81544,Locatick,,Remote,JavaScript,senior,,,17000.0,20000.0
+c201cea2f18e0d525a33cd136ec6c236,Experis Manpower Group,1000.0,Remote,JavaScript,senior,,,26880.0,30240.0
+a73a3422cc49eae57e711fa694bc4385,ANGRY NERDS,,Remote,JavaScript,senior,,,15000.0,20000.0
+f506dc8c87b629334013970fcc6145ad,Nortal,100.0,Remote,JavaScript,senior,,,25000.0,28000.0
+af6dfe905d185cd2f921da1d67e50cb8,ITDS,100.0,Warszawa,JavaScript,senior,16000.0,18000.0,25000.0,30000.0
+d0721c894496c54f2b956df5a595c585,Centralny Ośrodek Informatyki,1000.0,Remote,JavaScript,mid,13000.0,16000.0,,
+fdda82274c968cd2cca472f845fef1fe,Superdevs,10.0,Remote,JavaScript,senior,,,25000.0,30000.0
+6f9b609c407aa816e619ea48b0397004,Sea,100.0,Remote,JavaScript,expert,,,25000.0,32000.0
+396d67f3dac269844dd56d2351be7455,CorazLepszaFirma.pl,,Remote,JavaScript,mid,,,16000.0,16000.0
+38e72da7de387e3340a0f3e80ff9d8ea,Optiveum,10.0,Warszawa,JavaScript,mid,,,18000.0,25000.0
+c76446407b588d02be06aa3a8228c0c5,Evertz,1000.0,Remote,JavaScript,mid,,,17000.0,28000.0
+55033c196939d282a78aa86aeb386bb1,Coldrun,10.0,Remote,JavaScript,senior,,,23320.0,25730.0
+c35a3e7d2a350dbc094e0217f000bd15,Jutro Medical,10.0,Warszawa,JavaScript,senior,,,16500.0,25000.0
+22da52818c5b505208df798b84dc993a,Mindpal,10.0,Remote,JavaScript,mid,,,13000.0,23000.0
+df113e7fd04d9c5b02a3d8904bd20552,Mindpal,10.0,Remote,JavaScript,expert,18000.0,26000.0,,
+e2723d5c012dca12ed736f4b32a38067,Kalepa,10.0,Remote,JavaScript,senior,,,32160.0,48250.0
+2f241e679c934b3bc04ea84eb9588ad2,Adanto Software,10.0,Remote,JavaScript,senior,,,18000.0,23000.0
+2b649a1061e66b8657aa1af0199dfd35,Syberry,100.0,Remote,JavaScript,expert,30000.0,40000.0,30000.0,40000.0
+355ece8fb76bcd20d36c7e76b8ff6429,Blue Owl,,Remote,JavaScript,mid,,,8000.0,14000.0
+70e3443a794a99717cd9514ab5d69534,Appfire,1000.0,Remote,JavaScript,senior,18360.0,25130.0,,
+3ec414bd400cb016c4303eb3220b3230,TeamQuest,,Remote,JavaScript,junior,,,8000.0,10000.0
+c4f283a3e5312aa9ccc251ca0ab66101,Connectis,100.0,Remote,JavaScript,senior,,,27000.0,32000.0
+9932c61569a5af7d9459ebac416a3713,PEOPLE TRUST SP. Z O.O.,100.0,Remote,JavaScript,mid,,,14400.0,18500.0
+7fdc049e5d1c5e262cb61a6d355840da,The Codest,10.0,Remote,JavaScript,senior,,,18000.0,23000.0
+3a26ab2584340cfaf476d3a8eb122e5a,VM.PL,100.0,Remote,JavaScript,senior,14000.0,18000.0,20160.0,25200.0
+17dfec387de379c33447ad7f430f859c,VISA,1000.0,Warszawa,JavaScript,expert,30000.0,40000.0,,
+2de00db3c6a8ad76835d67393d568722,SmartBear,1000.0,Remote,JavaScript,senior,17000.0,20000.0,21000.0,24000.0
+99c363d3e325c39822b81b5b0573cc65,Lottomerkury Sp. z o.o.,10.0,Warszawa,JavaScript,mid,10000.0,15000.0,10000.0,15000.0
+597c9feddf6ffc615b499cd60e8fb716,EndySoft,10.0,Remote,JavaScript,mid,,,23390.0,28580.0
+89c620aba7870185cd036f44ec80f14a,ITDS,100.0,Warszawa,JavaScript,senior,,,24000.0,30000.0
+ace35e7eb2f67828d69a1d93b5a53691,EndySoft,10.0,Remote,JavaScript,mid,,,23390.0,28570.0
+a3cbde43e7a2de63942a3487f7460c29,Data Lake,,Remote,JavaScript,mid,,,10050.0,20100.0
+3ca2195027751f7848a10fe45ef7f298,NASK,100.0,Warszawa,JavaScript,senior,8000.0,16000.0,,
+02ec9a8d9b827b6438dbba7a05f668a7,ArdentCode,10.0,Remote,JavaScript,senior,,,17000.0,24000.0
+9327149f37f31395a690a811c2fa59a2,Adtran Networks sp. z o.o.,,Remote,JavaScript,expert,17000.0,22000.0,,
+1d504e0ee859fe34aa6b15e94bd48683,DO OK,10.0,Remote,JavaScript,senior,,,18000.0,20000.0
+9ab09351d196f46150acc7a455ca6a7d,DO OK,10.0,Remote,JavaScript,senior,,,16800.0,21840.0
+f139a9db580711bc373794545a75647d,Adtran Networks sp. z o.o.,,Remote,JavaScript,mid,14000.0,17000.0,,
+975178373507ebe0eee6dacf4dc1cde4,Optineo,,Warszawa,JavaScript,mid,13000.0,17000.0,14000.0,17000.0
+2768ea8cdbc13d7ff2dec528e801a1ec,Centralny Ośrodek Informatyki,1000.0,Remote,JavaScript,senior,19000.0,24000.0,,
+475362e5b7fc9795b8cfcce14716064a,Boldare,100.0,Remote,JavaScript,mid,8400.0,13400.0,10000.0,16000.0
+6c37c82b3e89c73091b47c4ccaf22401,KMD Poland,1000.0,Remote,JavaScript,senior,,,21000.0,26000.0
+e2161f756d8f73fc336ed0ca165f9f05,SwingDev a hippo company,,Remote,JavaScript,senior,,,24000.0,30000.0
+15e0325831e593bdd6cfe2bd931dfd4d,AgentTrainer,,Remote,JavaScript,senior,,,25200.0,30240.0
+dbb61eaf93abac9c75e80d3e1b06de89,Luxdone,10.0,Remote,JavaScript,mid,,,20000.0,25000.0
+bfa7dd39fbe66ce9bcde926f58ab1919,Mobile Reality,10.0,Remote,JavaScript,senior,,,20000.0,25000.0
+79883b76c33976bc16dcfb86f642852d,BillTech,10.0,Remote,JavaScript,junior,,,5000.0,8000.0
+bb62164a60a950c549ccadba593bc2ef,Mindpal,10.0,Remote,Ruby,mid,,,14000.0,23000.0
+04a7c70eed009011a78684ad5a1eb8be,Search Dates,10.0,Remote,Ruby,expert,,,36000.0,45000.0
+055989610e412b8fd265686511694e3c,Siepomaga.pl,100.0,Remote,Ruby,senior,,,19000.0,25000.0
+95b8d8cc345d71ca737b0d9d78f0111e,EndySoft,10.0,Remote,Ruby,mid,,,23390.0,28580.0
+fbc642842c8abe31770d294e0a88510a,ITDS,100.0,Remote,Python,mid,15000.0,18000.0,20000.0,25000.0
+674db1f67ba043ad1c89e1232fcd8d5b,deepsense.ai,100.0,Remote,Python,expert,,,28000.0,35000.0
+ad55124902866a4cb932f5a3c000890a,deepsense.ai,100.0,Remote,Python,senior,,,22000.0,27000.0
+270bceeeabe3a0643966540bd168e23c,Affirm,1000.0,Remote,Python,expert,25790.0,32230.0,,
+a93ce2f18c07af5c2c836b25b0bde753,NASK,100.0,Warszawa,Python,senior,12000.0,21000.0,,
+dc1a5e61a1ba2ff451618ef1560f0ed2,Infermedica,100.0,Remote,Python,senior,,,22000.0,30000.0
+d4e066721116027c4c3323334f83bb20,SOLWIT SA CoC for ALTEN,,Remote,Python,expert,,,22000.0,28000.0
+cc276897bccccfa68bc84853a0709481,10Clouds,100.0,Remote,Python,senior,,,17000.0,28000.0
+aa6822faaf28923a019ab0e5d65a91c7,Mindpal,10.0,Remote,Python,mid,,,10000.0,18000.0
+eb5f65f773b0dcbdb7ea01079d44c503,OpsTalent,,Remote,Python,senior,,,34000.0,40000.0
+fdf441f32c10d11ab54e8b8aa4d36578,Reef Technologies,10.0,Remote,Python,senior,,,31920.0,49560.0
+4a3e09fc6386fb935a2818a4d7fcf331,OpsTalent,,Remote,Python,senior,,,25000.0,30000.0
+8ec310afe6220e134baa8e90b45ddd81,Mindpal,10.0,Remote,Python,mid,,,8000.0,16000.0
+66626fcde812693cb9c8fb0434e602c9,Surveily Sp. z o.o.,,Remote,Python,expert,,,20000.0,40000.0
+14fc44f31a94dd02867944cc3e13479e,Aspire Systems Poland,100.0,Remote,Python,senior,13200.0,15770.0,16000.0,19000.0
+8a856ebb37e3e5e3cc331302b0ab5324,DevsData LLC,10.0,Remote,Python,senior,,,15160.0,16020.0
+48c43e687cb1c85aeb81a0973f520698,Syberry,100.0,Remote,Python,senior,30000.0,40000.0,30000.0,40000.0
+1f3ceae5889cb3240495b6a263393d52,Intellectsoft,100.0,Remote,Python,senior,,,20100.0,24120.0
+1da51ba5627f9e28a415b995831471a0,Sigmoidal,,Remote,Python,senior,,,31000.0,37000.0
+e7d9d6c4ec48367b7fd28aa7091c2e79,1dea,,Remote,Python,senior,,,31080.0,36120.0
+44aef69dab1ff52960104195465f3342,Connectis,100.0,Remote,Python,senior,,,28000.0,33000.0
+bdcb257a82989738d527a8fa94d9d5c2,Codeclusive,1.0,Remote,Python,mid,,,13000.0,19500.0
+97bf26fc05d757ced4f75cd46409f41e,The Stepstone Group Polska,100.0,Warszawa,Python,senior,14000.0,19000.0,,
+1c936a5360490a01735964840bc7592e,Lingaro,1000.0,Remote,Python,expert,,,20000.0,27000.0
+1e9f4928db4abb7bf302193764988747,Mindpal,10.0,Remote,Python,senior,,,20000.0,23000.0
+136b3cc51742c8fc010cf4665816e4c9,Keyloop,,Remote,Python,senior,,,24000.0,30000.0
+cac5bafc73dc42defcde5f2dfa51f29a,Mindpal,10.0,Remote,Python,junior,,,7000.0,10000.0
+821e1d806d3beca62908c7e9c57e4daf,core3,,Remote,Python,senior,,,20000.0,25000.0
+583c8c4e449f68a55e7b10b625179879,GameCode,,Remote,Python,mid,,,15000.0,20000.0
+ef3044cbf25313d31fd042a948f1af88,Inspeerity,100.0,Remote,Python,senior,,,20160.0,23520.0
+c3e86e3963a3b4808088bac7102c7c27,Superdevs,10.0,Remote,Python,senior,,,25000.0,30000.0
+344e4ad67ccc5b8f0c986eeaea129d52,N-iX,1000.0,Remote,Python,expert,,,20100.0,21310.0
+03e4f9dc93ec8e6d96759f2d1eaa7783,RITS Professional Services,100.0,Remote,Python,senior,,,20000.0,23500.0
+0b6d953f747d7169c32e5c64758bd577,KSM Vision Sp. z o.o.,,Warszawa,Python,senior,16000.0,21000.0,19200.0,25300.0
+176d812dac96023199cde498a4657d01,Optiveum,10.0,Remote,Python,mid,,,18090.0,24120.0
+db9f67d00028c9594b3bc05d8086a946,InfiniteDATA,,Remote,Python,senior,,,16000.0,22500.0
+9089409d8a152343958f99361efc36d4,Order Group,10.0,Remote,Python,mid,,,12000.0,18000.0
+7079b4f9ebc99f77e618e724e6de2692,Kalepa,10.0,Remote,Python,senior,,,32160.0,48250.0
+ce065c41a728838c637b1936a9c129cd,Capco Poland,,Remote,Python,senior,,,28560.0,31920.0
+28b01419c62e9d8fddf7349978a79996,7N,1000.0,Warszawa,Python,senior,,,26880.0,38640.0
+f10f718130cd1bf5089b2102d2418fac,Atende Industries,,Warszawa,Python,mid,,,12000.0,18000.0
+3058cb6f72b269ac6a51f3f508d1e3f0,Tango,,Remote,Python,senior,,,17000.0,22000.0
+f9a03607a23a96dae8a348071b892858,emagine Polska,1000.0,Remote,Python,mid,,,23200.0,25200.0
+9a517a4e440e19f8e6f96c6fa984f6ec,DO OK,10.0,Remote,Python,senior,,,13000.0,22000.0
+335ca1cde97ab4c1c2d1ffd8bf2ae743,DO OK,10.0,Remote,Python,mid,,,13000.0,22000.0
+07087ac6594c645a6aa7cab011d5f04b,TISA Group,,Remote,Python,senior,,,22000.0,25000.0
+68cf503665c37282a28e8ba0a3dc6bdc,KRYPTON Polska,,Warszawa,Python,senior,9000.0,18000.0,,
+d54aac3c1e42bde6d0c1fbdcec334bfe,Relout,,Remote,Python,senior,,,22000.0,26000.0
+6b598e31a43b08faad862a603048fd44,ZEN.COM,100.0,Remote,Java,expert,,,26000.0,35000.0
+1a7e48224e9fd05f8e067df6dbc46772,dmTECH Polska,1000.0,Remote,Java,senior,10800.0,21000.0,15100.0,29000.0
+d77c88f1834efa3b5ba5a6a9e7ae0b70,Snowflake,1000.0,Warszawa,Java,expert,35000.0,70000.0,,
+a6ea6aea99004ebe77aaa7eb0e4308ae,PEOPLE TRUST SP. Z O.O.,100.0,Remote,Java,mid,,,21300.0,26000.0
+ce6e89c7630b646b45b2b53145f63a81,ITSG,10.0,Remote,Java,senior,,,25200.0,33000.0
+37ac3c9a1cd36ef2956f1ca03022d540,INNSOFT Sp. z o.o.,,Warszawa,Java,mid,,,7000.0,11000.0
+f94cf1d6f296e07c43246ff574fabaf7,DCV Technologies,,Warszawa,Java,expert,,,25980.0,27280.0
+9ba8e8efc62253639d9c2a3dfa8256e3,LeoVegas,1000.0,Warszawa,Java,senior,16500.0,21500.0,20000.0,26000.0
+e08216f910ee7789f4e37efbc64d2710,Primaris,100.0,Remote,Java,mid,,,10920.0,12600.0
+8fd5748e3ffdd3eec546ab41903090d9,VlogIT,10.0,Warszawa,Java,senior,,,25000.0,30000.0
+1bcc5aa8a4cdc577bc398d1149b934f2,SmartBear,1000.0,Remote,Java,mid,14000.0,17000.0,17000.0,21000.0
+f472f3e51677e338882f70ed6ee26e2b,THE HEART R&D LAB,,Remote,Java,mid,,,12400.0,17000.0
+64f564965a41dd769346718dcdf93adf,VM.PL,100.0,Remote,Java,senior,15500.0,21000.0,21840.0,30240.0
+d838b16b1ad10946e440111d6aa51916,Unity Group,100.0,Warszawa,Java,senior,15500.0,21000.0,20000.0,26900.0
+e288330532605d5704e91849d103ceea,Sii,,Remote,Java,senior,,,20000.0,27000.0
+97d48ccfd70e1b3c257014968ecbe72e,Sii,,Warszawa,Java,expert,,,25000.0,32000.0
+6d0e70cfce1ed2297604d99cd1139eb8,Capco Poland,,Remote,Java,senior,,,28560.0,31920.0
+7b7dd36e4b0c8afda0e45c7500de308c,Sii,,Warszawa,Java,senior,14000.0,18000.0,20000.0,28000.0
+a7016713fa1dd7ca9b4bb8e22b9c66b6,Prime Engineering,1000.0,Warszawa,Java,expert,,,26500.0,28500.0
+a02421e0bb40b2448764186ca912cfd3,Team Connect,,Warszawa,Java,senior,,,26500.0,32000.0
+6db21b36bc0f06af1a928ed18073a41e,Wealthon S.A.,10.0,Remote,Java,mid,,,16000.0,19000.0
+b27e7d94cc16e090b57bda54b69b4f30,AUTORUN,10.0,Remote,Java,mid,16000.0,23000.0,19200.0,26000.0
+705233e0234c893d94e1aecda393ec02,Finanteq,100.0,Remote,Java,mid,,,15000.0,21800.0
+b2c39a513938292fbee1388c0f8a33ec,Kontomatik Sp. z o.o.,,Remote,Java,junior,,,7000.0,12000.0
+ab7f4adb7254c4a72d5f436b4995f518,Eyzee S.A.,100.0,Remote,Java,mid,,,12000.0,20000.0
+9dbcac2aa6b50b2e660ade11d50e9243,Rite NRG,10.0,Remote,Java,expert,,,45000.0,50000.0
+84da82741a666461ff65a4228625d959,CLOUDFIDE,10.0,Remote,Java,expert,,,17600.0,32700.0
+a6cc259c46fce448458a1d62f0c4b40d,j-labs,100.0,Warszawa,Java,senior,,,23000.0,27000.0
+bbdb9d3dc3287d452381ee4a4576b9ff,HAYS Poland,100.0,Remote,Java,senior,,,25000.0,32000.0
+30064d2b77df75e6e2b6eff3790e0973,Grupa OLX,,Remote,Java,senior,19500.0,24500.0,,
+79d4ed1b1c15980019bb8e6ec83ccb84,1dea,,Remote,Java,senior,,,22680.0,26040.0
+b41a734ae893b3b003d9aaf36d89593b,the.good.code;,10.0,Remote,Java,senior,,,20800.0,27200.0
+b737ed0b79c743f16803ee665d2c3028,7N,1000.0,Remote,Java,senior,,,30240.0,35280.0
+2b2a682f1fe697abf00e61d7f6e1b938,Massive Pixel Creation,,Remote,Java,senior,14110.0,20750.0,17000.0,25000.0
+5ce014e16c9d26c3e890abd8383a69a9,in4ge sp. z o.o.,100.0,Remote,Java,mid,,,20600.0,26800.0
+5b997ba97b7882943a2f7b2bb0a9b5d5,The Stepstone Group Polska,100.0,Warszawa,Java,mid,14000.0,19000.0,,
+4a3e2c69601c42effc76555893620a82,DevsData LLC,10.0,Remote,Java,junior,,,6430.0,10450.0
+f124adc08c1f365952c1e1a8dba7c103,Lincor Software,10.0,Remote,Java,mid,13000.0,25000.0,13000.0,25000.0
+5951ff4c59132d6a4ed81c8fdb025474,dotLinkers,10.0,Remote,Java,senior,17000.0,21000.0,17000.0,21000.0
+5081909f8ee1f479fe4b2796d236f93f,Fujitsu,100.0,Remote,Java,expert,12000.0,14000.0,,
+fd81bc3edb675fc3372d5ef71ce57116,DevsData LLC,10.0,Remote,Java,senior,,,26540.0,33370.0
+7abdcac92f8b76093c7a9ee96773cdf9,Schenker Technology Center,,Remote,Java,senior,20800.0,31200.0,20800.0,31200.0
+540bfcd2cf8e646b0fbf393364c45780,VISA,1000.0,Warszawa,Java,senior,24000.0,32000.0,,
+85a82236c2742d9c15254284555e97fb,Qurate Retail Group,,Remote,Java,mid,18000.0,23000.0,,
+3ff63e60f6d6ab2d75c28ef6f2a44520,Consdata S.A.,100.0,Remote,Java,senior,14900.0,20590.0,19680.0,27220.0
+c0ce903465a092d4b2972dba4c8ea827,dmTECH Polska,1000.0,Remote,Java,senior,17000.0,22000.0,23500.0,30200.0
+685646cc6d9183a26c93200d79e77f52,ICM UW,,Remote,Java,senior,18000.0,24000.0,,
+fd5b911b17f0a32d553b4ad35a0cbcf2,INNSOFT Sp. z o.o.,,Warszawa,Java,junior,,,5000.0,7500.0
+05d74e9e032c4d43a48e5b026b79f0df,Centralny Ośrodek Informatyki,1000.0,Remote,Java,mid,13000.0,16000.0,,
+fa9c4c1c6189d32d9b3d43e51c5920ad,CPL Jobs,,Remote,Java,senior,,,20000.0,25000.0
+6ae0c3046514e9ddc5121348045b6df6,Superdevs,10.0,Remote,Java,senior,,,25000.0,30000.0
+288eb2dc501b802f90ef0e2b8e7644af,Atende Industries,,Warszawa,Java,mid,9000.0,14000.0,10000.0,12000.0
+f13d3d4774933e56034bc7381690c32f,edrone,100.0,Remote,Java,mid,,,18000.0,23000.0
+2a11242fb948de3933dd622c26dbf3f0,Britenet,1000.0,Warszawa,Java,mid,,,20000.0,25000.0
+1d824e674bb5c7883c0b95d37472e2e6,Deviniti,100.0,Remote,Java,senior,,,23000.0,28000.0
+d5fc57dd844f8300cf45e282cb3304ec,Unide,,Remote,Java,senior,,,20000.0,25000.0
+081f56d36014109dd5a14a58c35ff9ff,Aspire Systems Poland,100.0,Remote,Java,senior,13200.0,15770.0,16000.0,19000.0
+d9795867245de3ea1772a531ab6dd385,DevsData LLC,10.0,Remote,Java,senior,,,33770.0,37150.0
+14897cc893d27aca0c57352165152625,DAC.digital,100.0,Remote,Java,senior,,,25000.0,27500.0
+8aae004f32ecdd09d32214e62552bca9,DATEV,10000.0,Warszawa,Java,expert,28000.0,35000.0,,
+707f2b987db72226118b4c18f4e03949,HERE Technologies,10000.0,Remote,Java,senior,14000.0,20000.0,,
+89154f9a3c31fb2fa68693d462331ffb,DAC.digital,100.0,Remote,Java,senior,22000.0,25500.0,,
+6a4d54b37993c4a3dc3aae5e0fa81e58,Experis Manpower Group,1000.0,Warszawa,Java,mid,14000.0,26000.0,,
+76f01c57e1c7deb8b83a8beea311ec9e,ITLT,100.0,Remote,Java,senior,,,24220.0,24220.0
+d269c15e74bc26fdb79591c221983abf,Mindpal,10.0,Remote,Java,mid,,,10000.0,18000.0
+dd6800235c05a42f024f127cb34d7ff1,Cloudflight,1000.0,Remote,Java,expert,20800.0,24900.0,25000.0,30200.0
+32fe35847e2b0a79fd933fec8525d54c,SmartBear,1000.0,Remote,Java,senior,17000.0,20000.0,21000.0,24000.0
+77bff0c8cae2cc8df86d62731d39d44a,Bytamic Solutions,100.0,Remote,Java,senior,,,20000.0,25600.0
+8afedd35f7ee6e85df6e79ead07b81da,XTB,100.0,Remote,Java,senior,17000.0,25000.0,19000.0,28000.0
+7d8893fd8caf284297e9fa5ead4593bb,Appfire,1000.0,Remote,Java,senior,18360.0,25130.0,,
+9c9f57f754ecfcfe63f7f259b99deb2a,Connectis,100.0,Warszawa,Java,senior,,,28000.0,30000.0
+266e07726314466a09f6b559fccdf03e,The Stepstone Group Polska,100.0,Warszawa,Java,expert,22000.0,32000.0,,
+24aec38dffe4fd189bb8a977a60cf32b,Rite NRG,10.0,Remote,Java,senior,,,28000.0,36000.0
+7b711317667209166f120cce4d13befb,Pragmile,100.0,Remote,Java,expert,,,43680.0,50400.0
+f8f33956b4d6cf3f8752bd0e2932a130,Netcompany,,Warszawa,Java,mid,7800.0,14000.0,8000.0,15000.0
+665775a875e22b08c85100caa72fa286,P&P Solutions,,Warszawa,Java,senior,,,20000.0,24800.0
+f311f7584b142edda8283edacd9083b6,Experis Manpower Group,1000.0,Warszawa,Java,senior,,,25200.0,30240.0
+0f93ad79085bf1c30eb400c87ec45526,VlogIT,10.0,Warszawa,Java,senior,,,25000.0,27000.0
+2778b8d751fbca5bb953bc771203e9a9,Tukano Software House,,Remote,Java,mid,,,10000.0,17000.0
+2c2f68f0172658c56226aa80ad840221,Lottomerkury Sp. z o.o.,10.0,Warszawa,Java,mid,,,15000.0,20000.0
+572f7fd85007d4bd4fa21f66ccc30d87,Match-Trade Technologies,100.0,Warszawa,Java,mid,,,15000.0,23500.0
+8837229ebba6d7ea1149e7c78895e4bd,Nexio Management,100.0,Warszawa,Java,junior,9000.0,11000.0,13000.0,16000.0
+7be25d130f3b2d138b8c1a57333b4a69,emagine Polska,1000.0,Warszawa,Java,senior,,,23520.0,31920.0
+89c409a7a6651dbc978dc9ab12314497,Espeo Software Sp. z o.o.,,Remote,Java,mid,,,16800.0,23520.0
+bfc38be36fec78b65160ba092d381b1e,Pretius,100.0,Remote,Java,senior,16800.0,20800.0,20160.0,25200.0
+3331eb0f36eb3b000ee26f0c3a0ceb6f,ITSG,10.0,Remote,Java,senior,,,23500.0,30000.0
+7d86f28542bc3b8d836580343f5ab846,Trimetis Services,10.0,Remote,Java,mid,,,20000.0,24000.0
+a8cce2296f73be5e1eae0008b95ca9bf,Cognizant,,Remote,Java,expert,,,30000.0,40000.0
+1e0682c6a53b1fcb12480c4669c5242b,emagine Polska,1000.0,Remote,Java,senior,,,25000.0,30000.0
+45d75c0f533b9a5ab6fdc4d5c2d6e14c,Consdata S.A.,100.0,Remote,Java,mid,11300.0,15900.0,14950.0,21000.0
+dea16874c3b2fd75aaf5a9cdf2706ba6,Scalo,1000.0,Remote,Java,senior,,,20160.0,30240.0
+d2a62dd963fa35ff84f4286839021726,IIG sp. z o.o.,10.0,Remote,Java,expert,,,25000.0,30000.0
+7374b1608aba214134f93dbbb14d03cc,Link Group,100.0,Warszawa,Java,senior,,,23520.0,26880.0
+237d00f1048ec596ff90fc78468dc9c0,ITDS,100.0,Warszawa,C#,senior,,,34000.0,44000.0
+3c771828b8e2bca37ce8112254b99d1b,STX Next,1000.0,Remote,C#,mid,,,12100.0,20160.0
+b28dfd5482c99d8082876c0ab43f0096,Insys Video Technologies,10.0,Remote,C#,mid,,,12500.0,18000.0
+a9a053d2d99b71233e4d4e7b42e1e14d,Clarksons,,Remote,C#,senior,,,22000.0,27000.0
+db4eacb71b6c990d86e6f17eab8e9a97,Primaris,100.0,Warszawa,C#,senior,,,22000.0,28000.0
+b56952b68eacab11cb956f765403f05e,ITDS,100.0,Remote,C#,senior,11000.0,17000.0,16000.0,22000.0
+cd5dbfec28973cf531c3d4a0f4283c9c,Software Interactive,100.0,Remote,C#,mid,,,11500.0,20000.0
+587b466a74deb3c524df5a48ef89d6d0,7N,1000.0,Remote,C#,senior,,,22680.0,25540.0
+399361f7488269688f103e86f70c644f,Benefit Systems Intl.,,Remote,C#,senior,15000.0,20000.0,18000.0,24000.0
+726b2923862ad2d588090c35fce302e6,ITLT,100.0,Warszawa,C#,mid,,,20100.0,25200.0
+eab0e848969a9a0c693c9f842dc272da,SimCorp,,Warszawa,C#,senior,23000.0,30000.0,25000.0,31000.0
+ada11196bc57205115360f39bf604f80,Relativity,100.0,Remote,C#,mid,12160.0,18160.0,,
+5398893a2aeda1dc1c48643678a28f46,Relativity,100.0,Remote,C#,expert,19300.0,29000.0,,
+fc9cb089f0d9eacd087d5367274dbae0,THE HEART R&D LAB,,Remote,C#,mid,,,16000.0,21000.0
+c071410b4a2ef47eb4c086f1ba91105c,Inuits,10.0,Remote,C#,mid,16500.0,18000.0,20000.0,22000.0
+28d1209e008480c3b7d435557acf3a76,IN Team,100.0,Remote,C#,mid,,,16800.0,20160.0
+211e01ccdcdd4a7f14828a1d118982cd,Ultrico,10.0,Remote,C#,mid,,,20750.0,25730.0
+7f75297fb3b59cd7152dfb3d9e6bcddd,CSHARK,100.0,Remote,C#,senior,,,22000.0,27000.0
+97d5bc0c1d539a64270f31630197767d,7N,1000.0,Remote,C#,senior,,,25200.0,30240.0
+5aac168ef45629d6e4a60c9357188a00,Britenet,1000.0,Remote,C#,senior,,,21840.0,26880.0
+7e51939d8a7b12a9ae6590c31f251496,Crestt,100.0,Remote,C#,mid,,,13440.0,20160.0
+4b56e3fc8accca624f09a69531504ba8,Schenker Technology Center,,Remote,C#,senior,20800.0,31200.0,20800.0,31200.0
+c82bfb5a11cacf126b72a622b1b418eb,Schenker Technology Center,,Remote,C#,senior,20800.0,31800.0,20800.0,31800.0
+b73a4b07ccc7f48880238436c72de673,NeoGames,,Remote,C#,senior,20000.0,25000.0,,
+ecf31aece4f508dd8cbc6148f278a25a,Rentals United,100.0,Remote,C#,mid,,,9600.0,14400.0
+e3fae8f06f06774db5a39fd49cbd26fd,Allegro Pay,,Warszawa,C#,senior,18400.0,25410.0,,
+ecbd2b5d1f502a970082b6897e3dd3c9,Rentals United,100.0,Remote,C#,senior,,,9600.0,14400.0
+57ca3adebcb59b374c52c3c120c7958a,ANGRY NERDS,,Remote,C#,senior,,,15000.0,22000.0
+3a4266d238d972f3bb7ca36e9dbb4357,Speeron Polska Sp. z o.o.,10.0,Warszawa,C#,mid,12000.0,20000.0,15000.0,25000.0
+06492ad1489226e3c2a89322a13cbc5c,Mindpal,10.0,Remote,C#,mid,,,13000.0,25000.0
+36e217969deaa9c16b8236757c90ea16,VisualSoft,,Remote,C#,mid,,,16000.0,24000.0
+a403720292a88d99bc7ce925300fb2a5,KLDiscovery,1000.0,Remote,C#,mid,11000.0,16000.0,,
+a975397cb8e196b4d238602d0aac5ec2,Pragmile,100.0,Remote,C#,senior,19000.0,22000.0,25000.0,28560.0
+dd2073215a5417bccb3ef8f9002e7074,IIG sp. z o.o.,10.0,Remote,C#,senior,,,18000.0,22500.0
+dc5e935e78d5b3f30bcb0b10e62c6224,Netcompany,,Warszawa,C#,mid,7800.0,14000.0,8000.0,15000.0
+e56f4230da0e3dc144ea5fd0fc4b2f04,Medius,100.0,Warszawa,C#,mid,15000.0,21000.0,16000.0,22000.0
+9f01739b52990bb06452ff6e590513cd,Alter Solutions Polska,100.0,Warszawa,C#,mid,,,20000.0,25000.0
+5eaa1ac86fe66a47628d78b2d56a4c8a,Lottomerkury Sp. z o.o.,10.0,Warszawa,C#,mid,15000.0,20000.0,20000.0,25000.0
+918d96da69e373306fc5c438318bd1e7,NASK,100.0,Warszawa,C#,senior,12000.0,21000.0,,
+4250b5841a40ce7571f168a61664cd20,Kambu,10.0,Remote,C#,senior,,,20000.0,23500.0
+149c23c455c6471ca2e8811d4ad45bd2,ITLT,100.0,Warszawa,C#,mid,,,16000.0,21500.0
+8047e18985909c91a362851d09e367a7,Sybilla Technologies,,Remote,C#,senior,18000.0,26000.0,,
+09f408d61e3148a79240134e72d24922,BCF Software Sp. z o.o.,,Warszawa,C#,mid,,,12000.0,16000.0
+5143cb1b715cf7117e91371914e4eff6,Scalo,1000.0,Warszawa,C#,mid,,,20160.0,25200.0
+799b50348ba996cca23afa88a1d702be,Zowie,,Remote,Scala,mid,,,13000.0,20000.0
+549bc49bdb021bcc711cdb9fec5cb9eb,Zowie,,Remote,Scala,senior,,,17000.0,30000.0
+1197a52340f624abb1ae00c51aeaa88c,core3,,Remote,Scala,mid,,,10000.0,15000.0
+17a8aee70d7683210e3f84b3e656f190,Zowie,,Remote,Scala,senior,,,20000.0,30000.0
+afe6218c134e203d6644848361f47d81,Evolution,10000.0,Warszawa,Scala,senior,24000.0,33000.0,25000.0,35000.0
+cf2d254c9be11d4c1e2f9d9b617c89da,AVSystem,100.0,Remote,Scala,mid,,,12000.0,21000.0
+3e5e258ac9fb67cec39b1b78b3f2be7e,DevsData LLC,10.0,Remote,Scala,mid,16650.0,21190.0,,
+1c2dd2ab289bd651ec4cc81f06e146a5,AVSystem,100.0,Remote,Scala,senior,,,25000.0,30000.0
+a98eec8d15d166676fdf159f7a4e7bb6,Rebels Software Sp. z o.o.,10.0,Remote,C/C++,senior,,,16000.0,24000.0
+f285e5a981d8e653d841f483a602201d,Ferchau Poland,,Remote,C/C++,mid,,,16800.0,25200.0
+215430e608930c1a31562ecf0289e5b0,Montrose Software,10.0,Remote,C/C++,senior,16000.0,24000.0,21400.0,32100.0
+671f2b495c8fc0e834517995d053b154,YourCode Recruitment Group,,Remote,C/C++,senior,32480.0,46770.0,,
+dd588b0cfd52fc738cb944cbd2f9555d,ONWELO Sp. z o.o.,1000.0,Remote,C/C++,mid,,,18900.0,25200.0
+efdfccf921bb5925b2bbd3333421dc06,KRYPTON Polska,,Warszawa,C/C++,senior,10000.0,20000.0,,
+6a9a435691e8d3aa8df426e52591190c,People More P.S.A.,10.0,Remote,C/C++,mid,,,13000.0,22000.0
+5bc450608daeb82211ab27b433f14b94,Opera Software,100.0,Warszawa,C/C++,mid,19000.0,23000.0,,
+2e5b714f5c3a314df80cd415d29fb175,RITS Professional Services,100.0,Warszawa,C/C++,mid,,,15000.0,20000.0
+e2e707265017d85e6d0b98a7765d30cb,Emerge Soft,100.0,Remote,C/C++,mid,,,24000.0,27000.0
+83baac0f39ac8284579f984f31ab3629,Evertz,1000.0,Remote,C/C++,senior,,,20000.0,30000.0
+75462496f42f6bee1b39f4ef7bf5df53,Mindpal,10.0,Remote,C/C++,mid,,,14000.0,19000.0
+974c58d6efdc38cf76e35fad5b7c23cb,Nexio Management,100.0,Remote,C/C++,mid,,,14000.0,19000.0
+7cfce0b67d4ab56e0ce580723b8ea52c,Mobica,1000.0,Remote,C/C++,senior,13500.0,20000.0,17090.0,24700.0
+d37253a03b94c40eb15bf1f456e9f464,Mobica,1000.0,Remote,C/C++,expert,18000.0,24500.0,22410.0,29840.0
+212a34c295da21e32a5759cd0dae1836,EndySoft,10.0,Remote,C/C++,mid,,,5400.0,6600.0
+64990a19544f87209a584c3ad3ebb8f4,DNA Technology,10.0,Remote,Mobile,senior,16000.0,21000.0,21840.0,28560.0
+eeac79049523d986dc4ef7b7c0fee500,Tango,,Remote,Mobile,mid,,,18000.0,20000.0
+a5ddc21f379ac113adb3e3c4ca39ed77,NASK,100.0,Warszawa,Mobile,senior,12000.0,21000.0,,
+16d50b35c5ca3d7cf55c63c1a34e52c0,VISA,1000.0,Warszawa,Mobile,mid,18000.0,22000.0,,
+327a961cb2f48af8d0b1b17dd3279b62,Odrabiamy.pl,100.0,Remote,Mobile,senior,,,17000.0,22000.0
+552a67464708ef173399e485dc6152ef,1dea,,Remote,Mobile,expert,,,30240.0,33600.0
+3383bae6191d58074edd3854f37170e5,Montrose Software,10.0,Remote,Mobile,mid,10000.0,16000.0,13370.0,21400.0
+087a1ec3bdec2756759fb8a09bad9401,Mindpal,10.0,Remote,Mobile,mid,,,8000.0,16000.0
+ffe26325fbf044a727702432d103712a,Aspire Systems Poland,100.0,Remote,Mobile,senior,13200.0,15770.0,16000.0,19000.0
+cdab87db1fda36d3ee9a97a8f97458c4,THE HEART R&D LAB,,Remote,Mobile,mid,,,12260.0,16530.0
+5361b4f4936c904f2536b0f3aa212164,Harvey Nash Technology,10.0,Warszawa,Mobile,mid,12000.0,20000.0,,
+4fde9a6ff6e3fa4d6b5dc04a282fc2a7,Listonic,10.0,Remote,Mobile,mid,,,12000.0,17000.0
+1be79ed965d0ef870ed0edd0456ba5c7,DevsData LLC,10.0,Remote,Mobile,senior,27720.0,39840.0,,
+71eeacac59d35a12652521a1459c8a73,Wealthon S.A.,10.0,Remote,Mobile,mid,,,14000.0,17000.0
+37313d15039e25bd290e38e7aa8fb17d,THE HEART R&D LAB,,Remote,Mobile,mid,,,12200.0,16500.0
+bb621da73439eea6ced4e8a64d4150c5,Appex.Team,,Remote,Mobile,senior,,,26940.0,28550.0
+8731cdea6e2252f098c90ce578f95079,Mindpal,10.0,Remote,Mobile,mid,,,14500.0,22500.0
+de8afe4762172be3afe9cc57da256df0,Sporty Group,,Remote,Mobile,mid,,,15160.0,25980.0
+556c99199428c08df524b4f9042f21a4,Lite e-Commerce,10.0,Remote,Mobile,senior,,,24000.0,30000.0
+8c430a4dc8bf906f1d9af332d5647fae,AppYourself Sp. z o.o.,,Remote,Mobile,mid,13000.0,16000.0,16000.0,18000.0
+4ea990a34e63ecaa3dab7d16bc90724c,Connectis,100.0,Warszawa,Mobile,senior,,,27000.0,29000.0
+25d7319a72a0cdd83a570b61f62005a1,Quod Financial,,Remote,Mobile,senior,,,12060.0,16080.0
+504bb63983a5ad126abed8c5f80784a8,BinarApps,100.0,Remote,Mobile,mid,13300.0,20800.0,16000.0,25000.0
+d308a64f6f1f8c4109065bed1fde6e9c,BinarApps,100.0,Remote,Mobile,mid,6600.0,13300.0,8000.0,16000.0
+8f4084cf338de4ebea165add6c20bf88,Jutro Medical,10.0,Remote,Mobile,senior,,,16500.0,25000.0
+6382dfbac3b417d5ddafad0bb750d732,Integral Solutions,100.0,Warszawa,Mobile,senior,,,25980.0,30320.0
+43886233055b2274a76bbe86ef231a28,Omnilogy Sp. z o.o.,,Warszawa,Mobile,mid,10000.0,15000.0,10000.0,15000.0
+81e6b73f67f688a9810e682348746bf4,QED.ai,,Warszawa,Mobile,senior,15000.0,24000.0,17000.0,28000.0
+328a1a7ba9c9d55b013094d2c1678dc9,Limango Polska,,Remote,Golang,mid,,,17000.0,20000.0
+d33d6dabd44ebdba3fbea113555475a8,Samsara,,Remote,Golang,senior,23200.0,27200.0,32970.0,38790.0
+e3e23ae40dc28b710c02882fcdc1c526,Kruko,,Remote,Golang,mid,,,15000.0,18000.0
+169c0533feb56cd7648baef913f9aef4,DNA Technology,10.0,Remote,Golang,senior,16000.0,23000.0,21840.0,31920.0
+47d73f96fbd71998fb95e2b4b2c7af12,1dea,,Remote,Golang,mid,,,21840.0,26880.0
+b688e981ca8a620171e38e38716d4732,Team Connect,,Remote,Golang,mid,,,20000.0,23520.0
+0aea858a038e46a08f450f60d152c2b6,On The Spot Development,100.0,Warszawa,Golang,senior,,,26130.0,30150.0
+3db106e1ffc0cb9262a81e2b061b37df,Be in IT,,Remote,Golang,senior,,,26000.0,34000.0
+fbd5f01599d2d04fa1856fbd53559f01,Codilime,100.0,Remote,Golang,mid,,,12750.0,23000.0
+f35055a90325f636ac0e5fd138db9793,co.brick,10.0,Remote,Golang,senior,20000.0,27000.0,25000.0,33000.0
+772affe5cb0208ae9c6c9ead7d5a9122,EndySoft,10.0,Remote,Golang,mid,,,23390.0,28580.0
+f2099b70ed821ce068628a27ad49f0ce,Talentica,10.0,Remote,PHP,senior,,,18090.0,24120.0
+704b0dd611911df89af3b4104067d216,Unity Group,100.0,Remote,PHP,senior,13600.0,17300.0,18500.0,23500.0
+5160cc99fcb3d7df348169110ae1eec9,Emoti Group,100.0,Remote,PHP,mid,,,17320.0,21650.0
+9c4213a364504a31722b2bb631e96367,Supermetrics,,Remote,PHP,senior,18000.0,20000.0,,
+5035a0dff1e0c933392d96b29538d31c,mediawave Sp. z o.o.,,Remote,PHP,senior,16000.0,20000.0,18000.0,24000.0
+2df056eb3da81f5745cfc6e377c17dc7,Strix,100.0,Remote,PHP,senior,,,14000.0,20000.0
+024c1083eca297c893c3737f24436d7f,Schibsted,100.0,Kraków,JavaScript,senior,17000.0,20000.0,20400.0,24000.0
+bdade2aaff036191e2c15242439f98fc,ULAM LABS,100.0,Remote,JavaScript,mid,,,12000.0,15000.0
+1a0d6b1257138968e035542ea826b708,HERE Technologies,10000.0,Kraków,JavaScript,senior,15000.0,20000.0,,
+953ddee781351646ddf15545a7d72bd6,j-labs,100.0,Remote,JavaScript,senior,,,28000.0,31900.0
+2b184803c679fbacaeb69cf12749dab6,Voucherify,,Remote,JavaScript,mid,10000.0,15000.0,,
+494e7be41e6242ec7e4f4daa7a046e20,Relativity,100.0,Remote,JavaScript,mid,12160.0,18160.0,,
+7f1e83d540224bab51c93fa1fe424c35,Mangopay,,Remote,JavaScript,senior,,,25000.0,30000.0
+7a2791153d8fe45ef7f55710d959bcc1,4soft,10.0,Remote,JavaScript,mid,,,17000.0,21000.0
+121d1dc08d1095fc65532e8a2a5d6860,Relativity,100.0,Remote,JavaScript,expert,19330.0,29000.0,,
+4f983b2c245a78999b9f32f60c4aaef2,Relativity,100.0,Remote,JavaScript,expert,19300.0,29000.0,,
+b03a01da1d02b3f7c712bb809d36000e,Relativity,100.0,Remote,JavaScript,senior,15000.0,22580.0,,
+8ea110386a4bb93960ee404c86e5aef1,HSBC Service Delivery,1000.0,Kraków,JavaScript,senior,20000.0,25000.0,,
+998bcf4d22f4b6c5406f69d219763fac,Ramp Network,100.0,Remote,JavaScript,senior,,,21000.0,28000.0
+a8a71ece5c0bb17537ee19668f2a0c8f,N-iX,1000.0,Remote,JavaScript,mid,,,16480.0,18090.0
+39c205f2b44b247017460bbeb1aa1dfd,NETZSCH Instrumenty,,Kraków,JavaScript,mid,12000.0,22000.0,,
+6254503ba1c4220a7a587f3d0e1b8392,Toolkit3D,,Kraków,JavaScript,senior,,,17000.0,25000.0
+44690ce3d98fdb41b333d5fa5f426ebc,Keyloop,,Remote,JavaScript,senior,,,24000.0,30000.0
+ccde108848e2dd8b62b4af3a2857e221,IG Group,,Kraków,JavaScript,senior,22000.0,24000.0,,
+41a37cac3a928158277565ea888746c3,ClickUp,1000.0,Remote,JavaScript,senior,,,25000.0,40000.0
+7e3127efcfd2b9799559dd29bda9f8c0,Software Mansion,100.0,Kraków,JavaScript,mid,13600.0,20000.0,17000.0,25000.0
+967caa7d2cec8b07474a18110291d073,Backbase,100.0,Kraków,JavaScript,expert,19000.0,28000.0,,
+b123547f54e6e3c4554b05d489d35d6b,j-labs,100.0,Remote,JavaScript,senior,,,25600.0,30400.0
+66328ff2508e9cdaf4a91b5040bb0d7e,Code & Pepper,10.0,Remote,JavaScript,mid,13000.0,17000.0,16000.0,20000.0
+4be5db342fa6b974029f41150be1c6dd,Schibsted,100.0,Kraków,JavaScript,senior,15000.0,21000.0,18000.0,26000.0
+7e8ef2ab3c095f5a89649c43dbb63ae2,Pragmatic Coders,10.0,Kraków,JavaScript,senior,,,21000.0,26250.0
+335d53f86f48d7ccbc7af1dbc674750f,Arte Sp. z o.o.,,Remote,JavaScript,senior,,,15000.0,22000.0
+95789497400432db52b3fa70d03b0013,ULAM LABS,100.0,Remote,Python,mid,,,13000.0,16000.0
+98ca842ff1d9688b1741a266377ebd83,ULAM LABS,100.0,Remote,Python,mid,,,13000.0,17000.0
+1d452537ce0f7a07c3d878f540dc2872,Scalo,1000.0,Remote,Python,senior,,,25200.0,28560.0
+73bd67c6913c9f7a604654a91559a5f8,ITDS,100.0,Kraków,Python,senior,,,21000.0,26000.0
+b026c33ceb9d1551b5d5258b5243930a,Inuits,10.0,Remote,Python,mid,14000.0,15500.0,17000.0,18500.0
+ffc798975fe4ef17b50011163b1d8fc1,ITSG,10.0,Remote,Python,senior,,,25000.0,34000.0
+8d7b3ee301baaa61c7a7cdcd871542af,ITDS,100.0,Kraków,Python,senior,,,21000.0,25000.0
+0daaaf46178655b5baa3332ff086b350,7N,1000.0,Remote,Python,senior,,,23520.0,26040.0
+212efcf55abd18574a123ddcf76f0a1a,SpotOn,,Remote,Python,senior,19000.0,25000.0,22000.0,30000.0
+b061dd0d187aca18d953c995f0159723,Intellectsoft,100.0,Remote,Python,senior,,,20100.0,26130.0
+62008e17117e11077695c530897e3b78,ITDS,100.0,Kraków,Python,senior,,,21000.0,27300.0
+42ff038a66ede6edd0c6f0d84461736e,Caladan,,Kraków,Python,mid,10000.0,28000.0,,
+ae57c6976157d24e6f1741b2f226b057,Reply Polska,10000.0,Remote,Python,mid,9000.0,16000.0,,
+e5d8dd95f932649bf0644132ebc10857,Medius,100.0,Kraków,Python,mid,15000.0,21000.0,16000.0,22000.0
+eb2cdd149f76f7975062f205ed8d2258,Olsys Ltd.,10.0,Remote,Python,senior,,,15280.0,18090.0
+59c60b45174bb0991fd5ca74ce19d717,ITDS,100.0,Kraków,Python,mid,,,21000.0,25200.0
+07d33ec5a8d120ff144118c54428da79,Affirm,1000.0,Remote,Python,senior,22050.0,27550.0,,
+fa41d1181a40d2bdfbffa1e3e0a6eeb5,Sigma Software,1000.0,Remote,Python,senior,,,20100.0,28140.0
+498d909ecebc6c6a460a5352ffdfe729,Kancelaria Prosperitas,,Kraków,Python,junior,,,6000.0,10000.0
+76bcd758b1966b0932a0f4de1914d738,Kancelaria Prosperitas,,Kraków,Python,senior,,,15000.0,25000.0
+7ddb44094343829e745937b7e40fc1a1,N-iX,1000.0,Remote,Java,senior,,,20100.0,24120.0
+3a944d2cd62fdbed68fa4ad3dcfa2621,ITDS,100.0,Kraków,Java,mid,16000.0,19500.0,21000.0,25200.0
+3d8ca3aa8ae93ddf00a03dcf8d662d68,Unity Group,100.0,Kraków,Java,senior,15500.0,21000.0,20000.0,26900.0
+208e4ce9967898b5b39c9a228cf2977b,ITDS,100.0,Kraków,Java,senior,16000.0,17500.0,23000.0,25000.0
+da1e912070f5a44decf15cc148ef8283,Reply Polska,10000.0,Remote,Java,mid,,,18000.0,24000.0
+eff192a8b8f7713fe5469f56b1725596,Grape Up,100.0,Remote,Java,senior,22000.0,29000.0,26000.0,34200.0
+3a504349da5ab64e0a76fbd360f07461,Mangopay,,Remote,Java,expert,,,35000.0,40000.0
+1530e3f3a4c40c14ad4257e968cba516,Rite NRG,10.0,Kraków,Java,senior,,,26600.0,36500.0
+39c00447b7e59b9b82a258d423a22469,Remitly,100.0,Kraków,Java,senior,26000.0,30000.0,,
+71a1e91e9620aee737421b285b3bf5d8,Schibsted,100.0,Kraków,Java,senior,18000.0,21000.0,20000.0,26000.0
+b75b9a174ccc6e640b98b919f2d90aae,Kitopi,100.0,Kraków,Java,mid,13280.0,19920.0,16000.0,24000.0
+8697ccbb7ad309bebc3242ce8d3d523d,Backbase,100.0,Kraków,Java,senior,16000.0,24000.0,,
+f1cdd7b86c44adb691090e93713fc14e,Backbase,100.0,Kraków,Java,expert,19000.0,28000.0,,
+654f626df209a49aae88dfb9106a2dc8,SoftNet Sp. z o.o.,100.0,Kraków,Java,mid,10000.0,16000.0,,
+385c0e5f9a4825b24a3c0b29d37f80cd,Pico,,Kraków,Java,senior,22000.0,25000.0,,
+ac419d45ab2dffa7c634909c16b6872c,Kitopi,100.0,Kraków,Java,senior,19100.0,25700.0,23000.0,31000.0
+a8fdb7f8b81c42a9c5289445d49853f2,Kalamba Games Sp. z o.o.,10.0,Kraków,Java,junior,6000.0,10000.0,,
+96458c5554e89bf88618145b5514ba2a,VirtusLab,100.0,Remote,C#,senior,,,26000.0,31000.0
+a735f5f47b4c4b3413e4b970a4740ed3,Relativity,100.0,Remote,C#,senior,15000.0,22580.0,,
+25b7ac5ac027d6ea9656923d12ba83dc,SimCorp,,Remote,C#,senior,23000.0,30000.0,25000.0,31000.0
+d9a152d3159f47eae3c6d64d795ef812,Aperia,,Remote,C#,senior,,,15080.0,21790.0
+546bb9d8805d50c1263860a45593510b,NETZSCH Instrumenty,,Kraków,C#,mid,12000.0,22000.0,,
+b6368aacde98d3d404cb744332406ccc,dotLinkers,10.0,Kraków,C#,mid,15000.0,16600.0,,
+e5e63bcbd041b337400bfe993258fe05,Andea,100.0,Kraków,C#,mid,,,14000.0,23000.0
+7f41f17db2242fbbecaac2b0c911b505,dotLinkers,10.0,Kraków,C#,expert,22000.0,24000.0,,
+32dbf8a7de66784a3e65bce42b4b080c,Speeron Polska Sp. z o.o.,10.0,Kraków,C#,mid,12000.0,20000.0,15000.0,25000.0
+c0ad92c5bce505b1ca8951154d1d7295,Unikie,100.0,Remote,C#,senior,18000.0,23000.0,20000.0,26000.0
+2e35be347646b42f3c57f748925c679f,Medius,100.0,Kraków,C#,mid,15000.0,21000.0,16000.0,22000.0
+0501979a4bab333c9cd7b71ecf9b2301,Navigal Sp. z o.o.,,Kraków,C#,senior,9000.0,17000.0,9000.0,17000.0
+97909f80be00a23f3c7250d321fb0486,BCF Software Sp. z o.o.,,Kraków,C#,mid,,,12000.0,16000.0
+5427948294e76d33e9f2ab148b4e4c67,HSBC Service Delivery,1000.0,Kraków,C/C++,mid,20000.0,25000.0,,
+27ff6a8d3a2b539f740b2ecc5862df7f,NETZSCH Instrumenty,,Kraków,C/C++,mid,12000.0,22000.0,,
+ca78c7558e5f5d1c75797fe95b18fd1f,HireVision,,Kraków,C/C++,senior,18000.0,23000.0,21840.0,26880.0
+6c7e0ee7dc324b7d04ee2b33cee21e4f,HireVision,,Kraków,C/C++,senior,19000.0,25000.0,,
+a7b01bcfd9210f6e7e95d3134f8af9f5,ITLT,100.0,Kraków,C/C++,mid,14000.0,16000.0,,
+7553b0111b64b58d87d5c273ffd34a69,NOVOMATIC,,Kraków,C/C++,mid,8500.0,18000.0,,
+90f1a47fb5aebfcfefd576f7b27a26ab,Pico,,Kraków,C/C++,senior,22000.0,25000.0,,
+0749957960d38fd50d1b515c4388983d,Teyon,,Kraków,C/C++,mid,9000.0,18000.0,11000.0,22000.0
+5ec431e20dff4b065696dad97f9a254b,HSBC Service Delivery,1000.0,Kraków,C/C++,senior,23000.0,28000.0,,
+cf2705dd9fe4bf311d819e00f15fa0bc,Reply Polska,10000.0,Remote,C/C++,mid,9000.0,16000.0,,
+3c5924cdbaa04cc8b23af9604f895f82,Efento,10.0,Kraków,C/C++,mid,13000.0,16000.0,13000.0,16000.0
+adb2aa31a36aa2f196d52a1b82b15133,N-iX,1000.0,Remote,Mobile,senior,,,17370.0,22110.0
+c7cfb3cd448e9513500a3eaff53449eb,HSBC Service Delivery,1000.0,Kraków,Mobile,expert,27000.0,30000.0,,
+b56a11e1f03048661c8d3c9b1100abb2,Ciklum,100.0,Kraków,Mobile,expert,,,23690.0,29620.0
+937f2fab7783b8098c7de360611b8511,LegalZoom,100.0,Kraków,Golang,expert,25000.0,35000.0,25000.0,35000.0
+6513c581f3f5f5a9329d003c7967aa99,Xebia,1000.0,Remote,PHP,senior,10500.0,18000.0,14000.0,23000.0
+8a924f28c3d96789963a8b57b29a2109,Axl Dynamics Sp. z o.o.,,Remote,PHP,senior,11000.0,17000.0,,
+941e970e3e88bfa9220682d4ae5092d4,Sellision,,Remote,PHP,mid,,,10000.0,12000.0
+f2c209e5f1b57ce64836d36dce5b38c3,Healancy Biomedical,,Remote,PHP,senior,,,13000.0,20000.0
+9714759076670bfc5dc837fef16c99a8,MasterBorn,100.0,Remote,PHP,mid,,,9000.0,15000.0
+f9e031088b3a468a02f316322fcc68ed,Wyższa Szkoła Kształcenia Zawodowego,100.0,Wrocław,PHP,mid,12000.0,20000.0,14000.0,22000.0
+18f4754a1099ebf0a7171cc0657f0c08,DUALMEDIA,10.0,Wrocław,PHP,mid,8300.0,12000.0,10000.0,14500.0
+f1b570a6f9c3f26959f4eb976863b1ac,Atana,1.0,Wrocław,JavaScript,senior,,,21000.0,25000.0
+14c2bd504642bd98014fea7908c3c893,Xebia,1000.0,Remote,JavaScript,mid,9000.0,15000.0,11000.0,18000.0
+f074405dd81b48bbaeb4594810ad317f,Ramp Network,100.0,Wrocław,JavaScript,senior,,,21000.0,28000.0
+063901465019dbb0771bb9d67b41054a,SellIntegro,100.0,Remote,JavaScript,senior,,,16000.0,24000.0
+3a5eab76eef7b2873fcb7d6b2e408b5d,Cloudflight,1000.0,Remote,JavaScript,mid,,,10080.0,22680.0
+a28f4b82dec8e7bee0ed94be2f726a72,Kadromierz,,Wrocław,JavaScript,mid,,,10000.0,15000.0
+fdc5d0c12be9a09831fb42fda4a77ef9,4soft,10.0,Remote,JavaScript,mid,,,16000.0,19000.0
+3851b17d5c7086d9ce7d20e60ed7fc29,TapNav,,Wrocław,JavaScript,senior,15000.0,30000.0,15000.0,30000.0
+42a60a6478991c836145ee529521cb01,ESSYO,,Wrocław,JavaScript,senior,,,18000.0,24000.0
+9be93ec56eb1e8ffcdfe1ca352978c2c,Ciklum,100.0,Remote,Ruby,senior,,,23170.0,28960.0
+8d81447adf86a0568202a078eb3ddd06,CloudFerro,100.0,Wrocław,Python,senior,19000.0,25000.0,19000.0,25000.0
+306ccc8d59e6d3f35b49bf9527c88437,Volvo Group,1000.0,Wrocław,Python,expert,22000.0,29000.0,,
+99635a7c4fddcf4bf3bddb1f9e2f7105,Big Time,,Wrocław,Python,mid,10500.0,11500.0,13000.0,14000.0
+d1f28180bf8c897ad3a6c1b7484d67df,Kuehne+Nagel,100000.0,Wrocław,Java,senior,20000.0,24000.0,,
+06a5dd339e0c92f470a0803eec4e0a6a,Unity Group,100.0,Wrocław,Java,senior,15500.0,21000.0,20000.0,26900.0
+038a981042b8c46cb0228e741766ec15,Team Connect,,Wrocław,Java,senior,,,26500.0,32000.0
+90f354e3e0eb06e8d8aec5cd28eec005,Altimetrik Poland,100.0,Wrocław,Java,senior,,,22000.0,28000.0
+247cdbd2304e7cd8bdf29a25e6a6d4ff,RITS Professional Services,100.0,Wrocław,Java,mid,,,23100.0,28350.0
+c7ed9391c92b6e7435e8db0817d2309e,Cloudflight,1000.0,Remote,Java,mid,10000.0,18000.0,11700.0,21800.0
+c51f384a78cadf3b5785e05dd67fe977,Sofixit,,Wrocław,Java,mid,,,10000.0,18000.0
+ce4099ca7bedcbbfa3675a9b7757f139,P&P Solutions,,Wrocław,Java,senior,,,20000.0,24800.0
+d661741948475e2dc3c43a051c3ce28f,Convista Poland,,Wrocław,Java,mid,11000.0,16500.0,,
+2cdf12f7efe3603e5c90a35570f74420,Scalo,1000.0,Remote,Java,senior,,,24000.0,28800.0
+7094f6e5a33b30cb38a0751b7e67d12c,Channels,,Remote,Java,senior,,,18000.0,25000.0
+ed54c836d1af4df32a2d4b2ebf8ab4cd,SANDS Partners,,Wrocław,C#,mid,,,10000.0,17000.0
+5e3da2fb676f7fbde463176d3af36d11,RITS Professional Services,100.0,Wrocław,C#,senior,,,23000.0,28350.0
+6e5e34fb09fa36dd91cb9fd08e379077,Iscas,,Wrocław,C#,mid,9000.0,12000.0,9000.0,12000.0
+5981fa005a1f405cc172e1acb377c4d4,Weegree Sp. z o.o. Sp. k.,,Wrocław,C#,senior,,,8000.0,13000.0
+b1609e3a269375964fa6fa08c40bd7be,CodeTwo - HRejterzy,100.0,Remote,C#,mid,10000.0,17000.0,10000.0,17000.0
+d305fa6b5171527526d0bb9798dcf92d,STATSCORE Sp. z o.o.,100.0,Wrocław,C#,expert,20000.0,28000.0,24000.0,33600.0
+af26434c3273a1e28b9deaa31c5dbb24,omnisello,,Wrocław,C#,mid,9000.0,12000.0,10000.0,13500.0
+1f6440b0a216717584d707aff7c862ec,Speeron Polska Sp. z o.o.,10.0,Wrocław,C#,mid,12000.0,20000.0,15000.0,25000.0
+991e052532c6be44bc96794fcc3a4b78,CodeTwo - HRejterzy,100.0,Remote,C#,senior,18000.0,27000.0,18000.0,27000.0
+c9bf864d2f6f97148f2000b054936daa,Medius,100.0,Wrocław,C#,mid,15000.0,21000.0,16000.0,22000.0
+bc690c3a0b7873e96364090bf2e35a0d,Awaken Realms,10.0,Wrocław,C#,mid,,,10000.0,18000.0
+505bac27fd89bcac58ea9278de4a8228,BCF Software Sp. z o.o.,,Wrocław,C#,mid,,,12000.0,16000.0
+536f09b5294fc44d9f59d57a995d3b78,JOYNEXT,,Wrocław,C/C++,mid,7000.0,13000.0,,
+f78455204f044b1e72c3ae42089c2345,Ciklum,100.0,Remote,C/C++,senior,,,21500.0,26880.0
+861064f7afe619394d21a7cc97ae7dc3,Xebia,1000.0,Remote,Mobile,senior,12000.0,18000.0,16000.0,23000.0
+5c099a7429d6c27b5615807737c7bbf1,Ciklum,100.0,Remote,Golang,senior,,,23170.0,28960.0
+e57e58102ea92dcbb604d68172f14b6b,Ciklum,100.0,Remote,Golang,senior,,,27360.0,34200.0
+4fc20d2482bbd6ae23d1c66b6aba3b17,KALASOFT,,Poznań,PHP,mid,,,8000.0,16000.0
+4b8471feaf33b7789704c66e7fa97b96,e-MSI,,Poznań,PHP,mid,5000.0,8000.0,6020.0,10240.0
+cdc48fe6c584241ca31bd698e9dc5426,Sea,100.0,Remote,JavaScript,senior,,,22000.0,27000.0
+ffbc2f7cd82a089fdab0d183a3adf779,ESSYO,,Poznań,JavaScript,senior,,,18000.0,24000.0
+197d1c48a1c50673e5f1162e5fccefb6,Oskar Group,,Poznań,Python,senior,,,20000.0,25000.0
+69d17a4ffec71d2d2d2c4c4f5a017bef,X-ONE,,Poznań,Python,junior,,,7000.0,10000.0
+2a728a0ca73559c44fa8a00a7d507dc4,ADB Polska,100.0,Poznań,Java,senior,14000.0,20000.0,16800.0,24000.0
+f92fbad151be6aac1343383e702908b3,ADB Polska,100.0,Poznań,Java,mid,10000.0,14000.0,12000.0,16800.0
+df624fcedc3adeba939f84e448ed1a47,Dynamic Solutions,10.0,Poznań,Java,senior,,,22000.0,31000.0
+d93e846a2cd99aa2890e96b32294c026,Match-Trade Technologies,100.0,Poznań,Java,mid,,,12500.0,17000.0
+bfb65835e227cca31628f381c40675c2,Vercom S.A.,,Poznań,C#,mid,,,15000.0,17000.0
+f4de7560f38699a85c0e96e612d78c25,Speeron Polska Sp. z o.o.,10.0,Poznań,C#,mid,12000.0,20000.0,15000.0,25000.0
+b99f44230d23553a63ad45154567dd57,BCF Software Sp. z o.o.,,Poznań,C#,mid,,,12000.0,16000.0
+9d72b7c2932d7b42dd7d62c49266c220,Three Points,,Remote,Scala,mid,,,20000.0,28000.0
+0208cd6251b4c54af379fa3964be2778,Macrix Technology Group,100.0,Poznań,C/C++,senior,12000.0,20000.0,15500.0,26000.0
+5e63b8cdf07f22aed1f12a3842838121,Mobile Labs Sp. z o.o.,,Poznań,Mobile,mid,,,16000.0,20000.0
+c56c9a1193206a30f793c84ffd17166a,Harvey Nash Technology,10.0,Poznań,Golang,mid,15000.0,22000.0,,
+de43ce52682b435f0b904803fb82ad35,Simplemining.net,,Gdańsk,PHP,mid,,,8400.0,14280.0
+822ab5f2a4c8dfca6db127c65f0f722d,ITDS,100.0,Gdańsk,JavaScript,mid,,,16000.0,21000.0
+57999e0c738b6f5eb99ef13540736b35,Spotio,,Gdańsk,JavaScript,mid,,,10000.0,15000.0
+72a175de4a8e82ecdec160d90a1bd977,the.good.code;,10.0,Remote,JavaScript,senior,,,25000.0,27200.0
+047538707352438e1672b81c2b2e93e0,Dietly.pl,100.0,Remote,JavaScript,senior,,,16000.0,19000.0
+a08dcd9c5eaef11c77ea65ee64ba7ef5,travactory N.V.,,Gdańsk,JavaScript,mid,,,14000.0,20000.0
+33eeeda497e57722d1cd364cedbe5e4b,IMSET,,Gdańsk,JavaScript,mid,,,7500.0,10000.0
+a9ca06944ae14dee2ff9ae49bdf94470,Cpl Poland,100.0,Gdańsk,JavaScript,expert,20000.0,28000.0,25000.0,31000.0
+03ea8a7759131dd71a9b04e59b166e28,Software Bay,,Remote,JavaScript,junior,,,5000.0,8500.0
+cb4e6ef79c300d7759591d5f4ccaca89,Plenti,10.0,Remote,Python,senior,18000.0,21500.0,20000.0,26000.0
+bffc061827bcad047a6cf34d81d8b779,Lufthansa Systems,1000.0,Gdańsk,Java,senior,10000.0,21000.0,,
+c14af044de828596a5ff8b56494f7378,Dietly.pl,100.0,Remote,Java,mid,,,14500.0,16500.0
+8472b88e3af285bb60c1d695221e5c21,Volue Sp. z o.o.,,Gdańsk,Java,senior,,,21000.0,27000.0
+db2d56d4e2133ab1743a7c40d63839fc,Kanga,,Gdańsk,Java,expert,,,25000.0,25000.0
+1765870e264b6558b6b2bbf036408bfd,Volue Sp. z o.o.,,Gdańsk,Java,mid,,,12000.0,21000.0
+3143e85d33a5131c2d6f4e71590a846d,Cpl,,Gdańsk,Java,expert,22000.0,26000.0,25000.0,33000.0
+85d236cf0970891ef384812956ca9851,SPEEDNET,100.0,Remote,C#,senior,,,17000.0,22000.0
+775153167b5b621e7edd0f388c640cfb,Volue Sp. z o.o.,,Gdańsk,C#,expert,20000.0,26000.0,23000.0,29000.0
+e5d27ada31e598fd678378c31a47f8c3,Speeron Polska Sp. z o.o.,10.0,Gdańsk,C#,mid,12000.0,20000.0,15000.0,25000.0
+7946894f781880222afd74f1f87c050c,Medius,100.0,Gdańsk,C#,mid,15000.0,21000.0,16000.0,22000.0
+86102c201f72787c41a93f3d5b533c18,Sky Quant Sp. z o.o.,,Gdańsk,C/C++,mid,12000.0,25000.0,12000.0,25000.0
+67125667f1437df1d54e7f7c9bdc2a0f,ABARO,,Gdańsk,C/C++,senior,13000.0,22000.0,15000.0,26000.0
+5c23569919067e8bcf4bcf9997bdc2d1,Quod Financial,,Remote,C/C++,senior,,,10050.0,18090.0
+e3c6d30fb583b3517c8d0ef18d9ef444,Lufthansa Systems,1000.0,Gdańsk,Mobile,expert,15000.0,25000.0,,
+b96a5563f7a1686dcc0e5d44e5d9ff68,KUBO,100.0,Gdańsk,Mobile,senior,,,19500.0,28000.0
+38a7b7e07eca3b21966b614dadd62a49,InterLogic Danmark ApS,100.0,Gdańsk,Mobile,mid,,,15160.0,19060.0
+6ea46f81c3a7a1c058d342c510b0f0f4,Nozbe,,Remote,Mobile,mid,10390.0,12790.0,12600.0,15520.0
+2d12c17ccd53a250fecbce9b115ad02d,JohnCube Sp. z o.o.,,Remote,PHP,mid,,,12000.0,15000.0
+144adcab0e26e2e284c60baf230e551f,COIG,,Katowice,PHP,mid,6000.0,12000.0,7000.0,14000.0
+5bafd1c249d91dd37c496c7832c4c35e,Expert4you,,Remote,PHP,mid,10000.0,13000.0,12000.0,16000.0
+9a2409dbeb184303a27135416cc7ff21,Mindpal,10.0,Katowice,JavaScript,junior,,,5000.0,12000.0
+45241991782b5a3ba818d3a770e58b23,Librus,100.0,Remote,JavaScript,senior,18000.0,23000.0,19000.0,24000.0
+a6f20941a45a26bac6f183c9c450fc8c,P&P Solutions,,Katowice,JavaScript,mid,,,20000.0,24000.0
+64f353af68f3f583409c6375a0afbafd,Inventively,,Remote,JavaScript,mid,,,10000.0,15000.0
+60a80f0c3ac297104c35b6adfd238e26,Reply Polska,10000.0,Katowice,JavaScript,mid,9000.0,22000.0,,
+297fbcaecc04ee29521409bdf0d90d5a,Mindpal,10.0,Katowice,JavaScript,mid,8000.0,9000.0,10000.0,11000.0
+f7851604a6d2e25eb5744317ce96f248,Mindpal,10.0,Katowice,JavaScript,junior,5000.0,8000.0,,
+29d93c98f94a9c6ba19f58c1f49db241,Gorrion Software House,,Remote,JavaScript,mid,10800.0,14900.0,13000.0,18000.0
+9e38e4e725dca867bf0c99b64b3a57f9,Mindpal,10.0,Katowice,JavaScript,junior,,,7000.0,11000.0
+c6f0ca5d347abc303b26173d3e608eda,ESSYO,,Katowice,JavaScript,senior,,,18000.0,24000.0
+4a565f616d53e59ce169f180a0f37ebe,Mindpal,10.0,Katowice,Ruby,mid,,,11000.0,16000.0
+1bc39cbbde4905cc14f56da324570551,Reply Polska,10000.0,Katowice,Python,mid,9000.0,16000.0,,
+f234f90d7a5f8da1ba2298da9639318a,ITDS,100.0,Katowice,Python,senior,,,21000.0,26040.0
+c303a94dbb7a3988c92c043624757496,Mindpal,10.0,Katowice,Python,junior,,,5000.0,8000.0
+2687e794c6258d1e5630d6f5fb6e8cc7,ITDS,100.0,Katowice,Python,senior,,,21000.0,27300.0
+cd1c8e5104a7592f1dc95c689e59cbb0,ITDS,100.0,Katowice,Python,mid,,,21000.0,25200.0
+a8beefa2e43719acc722d131a4783b25,Team Connect,,Katowice,Java,mid,,,18500.0,22000.0
+f1750afd2781698a922f5bfe0e97640f,INFOBIP,,Katowice,Java,senior,17000.0,24000.0,,
+ba67e53011330910b757a3c965f26bd1,Zebra Technologies,,Katowice,C#,mid,9000.0,13000.0,,
+a2c17958dfb44e50de08cf1ea84388e5,Sopra Steria,1000.0,Remote,C#,expert,18000.0,22000.0,21600.0,30400.0
+363fa98693dd1947bc6bdf6c2d7f7652,Weegree Sp. z o.o. Sp. k.,,Katowice,C#,senior,,,8000.0,13000.0
+2c5be8753f9e02a9d7550fee657ff11f,dotLinkers,10.0,Katowice,C#,expert,20000.0,26000.0,,
+861dc91dcbd3043e6284e54449ed9c9d,dotLinkers,10.0,Katowice,C#,mid,15000.0,16600.0,,
+03b73d62b68332ad451ffa0040867c76,SHARPSOFT,,Remote,C#,senior,,,21000.0,29000.0
+fd994c31ad7102b7cfa5af29c3a31232,STATSCORE Sp. z o.o.,100.0,Katowice,C#,expert,20000.0,28000.0,24000.0,33600.0
+cd2fb9154c4a40aafa625475237db98d,Speeron Polska Sp. z o.o.,10.0,Katowice,C#,mid,12000.0,20000.0,15000.0,25000.0
+5dfd990ddefc0bef113515514fe530d4,ESSYO - Part of DOTOSO,,Remote,C#,mid,,,12000.0,19000.0
+895cde1490fcc3ff1bebce33372e071a,NOVOMATIC,,Katowice,C/C++,mid,8500.0,18000.0,,
+bf46e61b314424b8229b79e9a74f93db,Zebra Technologies,,Katowice,C/C++,senior,12000.0,16000.0,,
+fe60f5de6ba9526d90989ad9e1dc7792,Sopra Steria,1000.0,Remote,C/C++,expert,12000.0,18000.0,16800.0,25200.0
+5ec14c3997171fd367ef22c60b910162,Rite NRG,10.0,Katowice,Mobile,senior,,,26600.0,36500.0
+e848d025605498eb7a9e9f70d5b5a48c,Harvey Nash Technology,10.0,Katowice,Golang,mid,15000.0,22000.0,,
+46aee6ed7343eaf6e74e33c811069667,ITDS,100.0,Łódź,JavaScript,mid,,,16000.0,21000.0
+fc21d2f4425eb3bcda52c18da72b86f1,Polar Night Software,,Remote,JavaScript,mid,11500.0,20500.0,14000.0,25500.0
+03b2564388b8734548f24410928e944d,Experis Manpower Group,1000.0,Łódź,Java,senior,,,25200.0,30240.0
+e4a747d85fb90bd6b30455a12a9ecce4,Sii,,Łódź,C#,senior,,,18000.0,23000.0
+f528575dd6bcdabb8759ea9d35932791,Harvey Nash Technology,10.0,Łódź,Golang,mid,15000.0,22000.0,,
+f3413a8acfcda3633cb1f14b83c1c063,VML Enterprise Solutions,,Remote,JavaScript,mid,,,10000.0,15000.0
+4963103b528b163aa2cc645c32ed5224,VML Enterprise Solutions,,Poznań,JavaScript,mid,,,10000.0,15000.0
+6e4cc4a1a88f79b32627e39c02be1d6b,CSHARK sp. z o.o.,,Remote,C#,senior,,,21840.0,26880.0
+5673dba709641c70ea399df908e5f56d,Digital New Agency Poland sp. z o.o.,,Remote,Golang,senior,16000.0,23000.0,21840.0,31920.0
+79c6c3d5728b8c5050db4913f7349fc0,Digital New Agency Poland sp. z o.o.,,Remote,PHP,senior,16000.0,22000.0,21840.0,30240.0
+18aa1d8dd8cfcfbd0a4f7c4c8cf236c9,emagine sp. z o.o,,Gdańsk,Java,mid,,,18480.0,18480.0
+33f92d289524c3f8681309ca5aea5985,BLOCKWISE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,Python,mid,,,11000.0,16000.0
+df753e1afb002688fd51afbad53a8bf3,BLOCKWISE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,Python,senior,,,16000.0,22000.0
+769578607ba425a15719eca3a47ecc24,7N,1000.0,Remote,C#,mid,,,23520.0,27216.0
+989f9d8d7f6cc3579eb57b9e69e275ba,7N,1000.0,Łódź,C#,mid,,,23520.0,27216.0
+c7c025afba9df8a3368af3e0ece2f6a8,LOTTOMERKURY sp. z o.o.,,Warszawa,C#,mid,15000.0,20000.0,20000.0,25000.0
+02dde99ccf547ffc2b5c32495973ad99,YND TECHNOLOGIES sp. z o.o.,,Remote,JavaScript,junior,,,8000.0,12000.0
+79321bf0c80b9cd1a87f5aa7e1aa76d5,7N,1000.0,Remote,C#,senior,,,22680.0,26880.0
+c2c49994124f6e4a5065c5ddc18cb6e9,Sopra Steria Polska Sp. z o.o.,,Remote,C/C++,senior,12000.0,18000.0,16800.0,25200.0
+73d2dd4f8ce747bc4506e6a05de38822,Winged IT,100.0,Remote,JavaScript,senior,,,25200.0,29064.0
+257c8b1a2e9e585614a49bd2566668e4,Kambu,10.0,Kraków,C#,senior,,,20000.0,23500.0
+98e51d7409e02264aad90606d7d661ee,P&P Solutions Sp. z o.o.,100.0,Remote,Java,senior,,,21840.0,26040.0
+0225db536dd65a67fd847d395bcb1920,P&P Solutions Sp. z o.o.,100.0,Warszawa,Java,senior,,,21840.0,26040.0
+23c326c9e607da842e91a14f32fcd145,ASTEK Polska,1000.0,Warszawa,Java,mid,,,16800.0,23520.0
+8406ff127e7a85198aecb8b66d7770ec,MASTERBORN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,JavaScript,junior,,,9000.0,12000.0
+3865e85b7f1647cb00cfa76c1c3f8278,The Stepstone Group Polska,100.0,Warszawa,JavaScript,senior,17000.0,27000.0,,
+9115618ac8fc69a485621809566021bf,NTIATIVE sp. z o.o.,,Warszawa,Golang,expert,,,24000.0,30000.0
+0c803e501656fb2129ee0dcdde66594d,NTIATIVE sp. z o.o.,,Remote,C#,mid,20000.0,24000.0,,
+5f57cf0744b85f809d8f675b4fd8f8cc,Mindbox,100.0,Kraków,Mobile,senior,,,26000.0,29000.0
+f198d19dd52751b1947eef27edeeae57,emagine sp. z o.o,,Warszawa,C#,mid,,,25200.0,25200.0
+dd9262cd4884fc307695408b14fec4a1,EVERTZ POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,JavaScript,senior,,,17000.0,28000.0
+b8ed3ce409ffff4b4a7310767c0f0c57,Voice Contact Center Sp. z o.o.,,Remote,JavaScript,mid,,,9000.0,10750.0
+4708e9557c9c05cbecb626a759ccce4d,Cyclad,100.0,Remote,JavaScript,mid,,,21840.0,23520.0
+417f29a4db51995b1ec228759d20f9f8,BENSON CONSULTANTS SP. Z O.O.,,Warszawa,JavaScript,senior,,,17000.0,19500.0
+e2e6ca9a26785d1418a93ff3d63359bf,EVERTZ POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,C/C++,senior,,,20000.0,30000.0
+af846fb12912430868fc5e35c48fea8f,Affirm,1000.0,Remote,Python,senior,22042.0,27550.0,,
+bd416358a828b43d91f2dbddea3d8a87,Affirm,1000.0,Remote,Python,mid,18840.0,23550.0,,
+cb7fc2e7e562e0f53796e04d76dbf523,APLIKACJE KRYTYCZNE sp. z o.o.,,Remote,Java,mid,12000.0,14500.0,,
+03aa12442930cb587e49e73e10d08433,APLIKACJE KRYTYCZNE sp. z o.o.,,Warszawa,Java,mid,12000.0,14500.0,,
+b26cce48e72908bb10d955d3b6db966b,Tesco Technology,100.0,Kraków,Java,mid,16000.0,23000.0,20000.0,27000.0
+9b03b549899d1d8450951ed79021d799,4IT Solutions,10.0,Warszawa,C#,expert,25000.0,28000.0,25200.0,30240.0
+6f109f2b8f3b8e6f31d3118f789b6914,Digital Hub Warsaw at Bayer,,Warszawa,Python,mid,14000.0,23000.0,,
+614585ff3277e7a4d55d5ea8de04d3fa,Cyclad,100.0,Remote,Python,mid,17000.0,17000.0,21000.0,25200.0
+9a429bbc6d6cbd7ce58b41bac5e238b6,Droids On Roids,100.0,Wrocław,JavaScript,senior,17500.0,19900.0,21000.0,24000.0
+a00d5da7396aedb09f29edba3128366f,RAION SOFTWARE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Poznań,C#,mid,,,7000.0,12000.0
+2ef6af874f1c02116b060448bbaf761c,BRAVER IT SPÓŁKA AKCYJNA,,Remote,PHP,senior,,,24000.0,33000.0
+1dafa48bbeaf1e9deeb74835096508fe,ESET Polska sp. z o.o.,,Kraków,C/C++,mid,13000.0,16000.0,,
+76175da48f08ea92b8dc07d2191a109d,Upside Lab sp. z o.o.,,Remote,Python,senior,,,20800.0,25900.0
+4e097525700d5ce7da677d4055f33bfe,Upside Lab sp. z o.o.,,Kraków,Python,senior,,,20800.0,25900.0
+3d2f44f949cc2b3decd34f0b93a8201b,MUG Agency & Software House,,Poznań,PHP,mid,7000.0,12000.0,8500.0,14000.0
+6de3f1e2d1316d8a6b854b01162c1156,COGNITUM SERVICES S.A.,,Remote,C/C++,junior,,,11760.0,15120.0
+dd761c8b9869d39279a505a45a0acba4,Upside Lab sp. z o.o.,,Remote,Python,mid,,,10000.0,19300.0
+223724f0c7681778eed7e278c531fb02,Upside Lab sp. z o.o.,,Kraków,Python,mid,,,10000.0,19300.0
+d8dedbbee5b14d0243f52a3ec3960626,Team Connect Sp. z o.o.,100.0,Remote,Golang,mid,,,20160.0,23520.0
+d8ef3e28e9654482107e949ae62586c5,MAK IT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,Java,senior,17000.0,21000.0,20000.0,25000.0
+f7bf3f54887ad655df9fcf4152d7f2f9,MAK IT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,Java,senior,17000.0,21000.0,20000.0,25000.0
+1b0e7ad3977ac5643f3fcea214a240e9,1dea Kośnik Sp. k.,,Remote,Java,senior,,,21840.0,25200.0
+c9d9d75600d90019d872f4cfbf25aed2,NEW-INVEST IT RECRUITMENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,C#,mid,,,20000.0,28000.0
+5cb0c3ade584e99c470cb6ff12c3f137,MAGNUSO S.A.,,Remote,PHP,mid,8000.0,12000.0,10000.0,15000.0
+88eae2779c650abf4fd6efadd5543845,omnisello,,Wrocław,C#,junior,9000.0,12000.0,10000.0,13500.0
+21f7b68023ad0b6ec8cce25092beba58,ITDS Polska Sp. z o.o.,,Warszawa,Python,senior,,,14700.0,21840.0
+f88a9ed0b5ff960485044546efc746cb,ITDS Polska Sp. z o.o.,,Warszawa,Java,senior,,,16800.0,21840.0
+b38752dd4722b42fe06717c96ed20c97,CSHARK sp. z o.o.,,Remote,C#,senior,,,21800.0,27000.0
+c177a34ee2d1ae15749881e98ed295f9,4IT Solutions,10.0,Warszawa,Java,mid,,,15120.0,18480.0
+247f9d30ee5c36151c033da6b5ae8bd0,Cyclad,100.0,Remote,JavaScript,senior,,,26880.0,30240.0
+054c624f83fe0995f1380d05a3be6229,BinaryCortex LLC,,Remote,JavaScript,senior,,,25000.0,32000.0
+e81b91f314ce48fa0f8ef394e3781545,Happy Team,100.0,Remote,JavaScript,senior,,,13000.0,20000.0
+de3bfe8b8741eb0565cd4ad19a04e45a,ITDS Polska Sp. z o.o.,,Warszawa,C#,senior,,,16800.0,21840.0
+9a5a14d20e158fa0cb6e281b3a1638b9,Winged IT,100.0,Remote,Java,mid,,,20160.0,26712.0
+16b2f1f801bd447918ca185543ad5d35,Green Minds Sp. z o.o.,,Remote,Java,mid,,,26880.0,26880.0
+fc26e1215c5bbf32ba9a79b9061e4904,CUT2CODE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,PHP,mid,,,7000.0,11000.0
+f5094ccfb3053f171753e90404b0385c,CUT2CODE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Wrocław,PHP,mid,,,7000.0,11000.0
+a0b9d730b7586e8b2e1a201a5f88ba83,Revalize Busines Services,,Remote,C#,mid,9000.0,12000.0,,
+497b4aae1eb2d59b2fdc4351c7f00286,SKILLS MATTER,,Warszawa,C#,mid,,,28560.0,28560.0
+35cfb2c1e0564de836cf9501a955b001,Sellision,,Wrocław,PHP,mid,,,10000.0,12000.0
+bd771151189831a10169136b4f35fd88,Softwarely,10.0,Remote,JavaScript,senior,,,23520.0,26880.0
+87d09c42da13d1f8c6d7f69e116c92f8,Softwarely,10.0,Warszawa,JavaScript,senior,,,23520.0,26880.0
+f08a40f0ab6c83ca89a39387a0be25e4,SOMNIUS,,Remote,C/C++,senior,,,26000.0,30000.0
+f508681bddd8bc5a983fa22a65b05277,SOMNIUS,,Warszawa,C/C++,senior,,,26000.0,30000.0
+72ab77551a42e939861ae5fc5a7a84c2,BRAVER IT SPÓŁKA AKCYJNA,,Remote,PHP,senior,,,25000.0,32000.0
+b0fa87664be50e6d0f300ba97a5c1596,Prime Engineering Poland,1000.0,Remote,JavaScript,senior,,,18000.0,23000.0
+80e61293c76b03b57c0a98bbb6d03197,Prime Engineering Poland,1000.0,Remote,C#,mid,,,15000.0,18000.0
+d9b351de0c69a0cc917640f4af2b0319,Mindbox,100.0,Remote,C#,senior,,,27300.0,31500.0
+5196c0d3c354dcdadd2b9801f22de5b9,Mindbox,100.0,Warszawa,C#,senior,,,27300.0,31500.0
+dae25551fe8f35f2d9c03dbb575c87af,LITE E-COMMERCE sp. z o.o.,,Remote,Mobile,senior,,,24000.0,30000.0
+f4f8f8ad930c92436c1a83aa7b61a248,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,C#,mid,10000.0,14000.0,11000.0,16000.0
+71582b675496b0a5f7ce92e70b1246d2,7N,1000.0,Warszawa,Python,mid,,,23520.0,28560.0
+6504a6760698c953d840f0cc86a2514f,Cyclad,100.0,Remote,Python,senior,,,26880.0,30240.0
+8f2431b6dded8fb6c04a2cbf102228ac,Cyclad,100.0,Remote,Python,expert,,,21840.0,25200.0
+d6dd94200281a2d340a524810f75d6b0,emagine sp. z o.o,,Remote,Python,mid,,,25200.0,25200.0
+fbb45cfc72f56e7d3a0dee5fa6c48435,emagine sp. z o.o,,Kraków,Python,mid,,,25200.0,25200.0
+2824fae55f2b39d771e491be618d86b0,7N,1000.0,Warszawa,Java,senior,,,26880.0,30240.0
+46dd4ceb05f2032db0b9388631be049c,HTH Recruitment,,Warszawa,PHP,senior,,,15000.0,17000.0
+e7520c75c4160c9be647e330742ca21b,Scalo,1000.0,Warszawa,Java,mid,,,20160.0,23520.0
+a35a345001b2c341d5d8f6bfb7a2fd26,E NET PRODUCTION,100.0,Remote,PHP,mid,,,12000.0,18000.0
+78b9b616aa780af1355240740147a3ab,HTH Recruitment,,Warszawa,PHP,mid,,,15000.0,17000.0
+00586b45093ee149dd0f13e618709caa,emagine sp. z o.o,,Remote,C#,mid,,,21840.0,21840.0
+9a6b5f93b7b25688e61cb41f9e05a8a7,SANDS Partners,,Wrocław,C#,senior,,,12000.0,17000.0
+7234eeefcabd273aa772c36308e56b3f,ITFS sp. z o.o.,,Remote,PHP,senior,,,21840.0,23520.0
+534099ffa6fe780969ecc05ea5bef087,BCF Software Sp. z o.o.,,Remote,Python,expert,,,16800.0,20160.0
+55a0b8d543ae0deab231b412b9a948ec,ITFS sp. z o.o.,,Remote,C/C++,senior,,,25200.0,30240.0
+87c24938e5f01720fe2667dd6983279b,NTIATIVE sp. z o.o.,,Warszawa,Java,mid,,,27000.0,27000.0
+c19d23e2750e363427ed73f303250a98,Inspeerity,100.0,Remote,Python,senior,,,23520.0,30240.0
+d98b11d1efe709d9666e5a9d7844fe0d,Inspeerity,100.0,Warszawa,Python,senior,,,23520.0,30240.0
+1fb8d9909306bb73d497106ef371e9a7,Szkoła w Chmurze,100.0,Remote,Python,senior,12000.0,21000.0,14000.0,24000.0
+a73783449676249e3735c818faa98396,Szkoła w Chmurze,100.0,Warszawa,Python,senior,12000.0,21000.0,14000.0,24000.0
+ad613d67a5ea84ff3ad5bc42c2bca3aa,Macopedia,100.0,Remote,PHP,mid,,,12000.0,20000.0
+a08c7f2ea46723a1d10e72701d53368b,CODINO sp. z o.o.,,Warszawa,Java,mid,,,10000.0,17000.0
+e5ac0f97bdb755ca356b2ec0232c87a2,Wyższa Szkoła Kształcenia Zawodowego,100.0,Remote,PHP,senior,12000.0,20000.0,14000.0,22000.0
+4071d4afa60a50e4b535559b0a56f0ef,Wyższa Szkoła Kształcenia Zawodowego,100.0,Wrocław,PHP,senior,12000.0,20000.0,14000.0,22000.0
+e51a1e326c5397acd64860d0765e9d09,Wyższa Szkoła Kształcenia Zawodowego,100.0,Remote,PHP,expert,15000.0,20000.0,18000.0,24000.0
+a3e5b21069e59c3d668a4b35080301c6,eRecruiter,,Remote,C#,mid,9000.0,14000.0,9000.0,14000.0
+52681ff042226c6d7151d33590b76b45,Cyclad,100.0,Remote,Golang,senior,,,27000.0,31200.0
+6f8efd0282a205cbb85708c3d28618c7,Upside Lab sp. z o.o.,,Remote,Ruby,expert,,,20800.0,25900.0
+aac78e076c0056038e2cedc59043c0de,Upside Lab sp. z o.o.,,Remote,Ruby,senior,,,10000.0,19300.0
+c2cc8578bbfb74762799e0e4dc42486d,Upside Lab sp. z o.o.,,Kraków,Ruby,senior,,,10000.0,19300.0
+e1bd14617a33131107142d7c17be0178,EPM sp. z o.o.,,Remote,Java,mid,5000.0,10000.0,5000.0,10000.0
+c34c32b5e4233a7d1ed0745ef9b7c3be,EPM sp. z o.o.,,Kraków,Java,mid,5000.0,10000.0,5000.0,10000.0
+f7254f396cff3c223b9f1873caa01e25,IntuiVision,,Remote,C#,mid,,,6000.0,9002.0
+f4419be3141cfe12004843f0dc0608bb,IntuiVision,,Wrocław,C#,mid,,,6000.0,9002.0
+0ef4f288e000ec666ac0ea1204621a99,Blebox Sp. z o.o.,,Wrocław,JavaScript,mid,8000.0,12000.0,8000.0,12000.0
+ea8f2bf745b5ac9068eb2378884809a3,"TISPR, INC. sp. z o.o.",,Remote,JavaScript,senior,,,25000.0,28000.0
+670fe356ddbc253b313286acb23dd44b,BCF Software Sp. z o.o.,,Poznań,PHP,senior,12000.0,16000.0,16800.0,20160.0
+cb100034703928ed919119c616812e42,CODING POWERS,,Remote,Java,mid,,,8400.0,11760.0
+7e079f1e76dff64659534d84673a72a8,Scalo,1000.0,Remote,Python,senior,,,25200.0,31920.0
+3a49bdc60142042e79c03c200030e01f,P&P Solutions Sp. z o.o.,100.0,Remote,JavaScript,senior,,,20160.0,26880.0
+809de9e6ba28d91e3ef60e8b14a4d131,N7 Mobile Sp. z o.o.,10.0,Warszawa,Mobile,senior,15000.0,20000.0,16000.0,25000.0
+12f2f3ddcc494ef31c50aba0dbbe63f8,Mindbox,100.0,Remote,Java,senior,,,29400.0,34440.0
+c06e1753157cef00e893333c56d8f4d5,JellyTech,10.0,Remote,Java,expert,,,23000.0,29000.0
+eecb392fe23820f33b8341d26e42b8ed,Scalo,1000.0,Warszawa,C#,senior,,,21840.0,26880.0
+44b8a6f52c91b68c3676e11514311b36,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,JavaScript,mid,11000.0,14000.0,13200.0,16200.0
+e27594ed01f05b86f85c238d985a6cd4,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,JavaScript,senior,13400.0,15400.0,15700.0,17700.0
+a50b383ac176c5aca0163e4e501766ff,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,JavaScript,mid,18000.0,22000.0,21000.0,25000.0
+7c1ec3472d8daf37a546f95841c45ddc,SOMNIUS,,Remote,C/C++,senior,,,26000.0,32000.0
+2622ad5e65288bf47a2f1a65c6f14580,SOMNIUS,,Warszawa,C/C++,senior,,,26000.0,32000.0
+7adc27d17aff196612aa9700362aa473,Scalo,1000.0,Kraków,Kotlin,mid,,,27720.0,27720.0
+5eb437a2338003f1d9e9c886d427465c,Mindbox,100.0,Warszawa,Java,mid,,,25200.0,29400.0
+c84ba6c48012f404a7381b6eb365c70e,JellyTech,10.0,Remote,Python,senior,,,20000.0,23500.0
+b079e5426262e376616a8220b82717b1,E NET PRODUCTION,100.0,Remote,JavaScript,senior,,,10000.0,18000.0
+5d1207a11f3459fed5aa24ba8cda1bb2,1dea Kośnik Sp. k.,,Remote,Mobile,senior,,,24360.0,28560.0
+134c306824d9b20ae22aababa3d74a15,Mindbox,100.0,Kraków,Java,senior,,,27720.0,34440.0
+268f89e46df6cf6286016cb8f6af4f03,Neontri,100.0,Remote,Python,mid,,,15120.0,20160.0
+8f1b1c38e8d812ca2772cf4e4b24354a,Mindbox,100.0,Kraków,JavaScript,senior,,,27720.0,31080.0
+c11ac0cc392771439443bd2a7749e351,CARGOKING sp. z o.o.,,Warszawa,JavaScript,mid,,,10000.0,18000.0
+eebb9c15d9b63206873f42512289da2f,CARGOKING sp. z o.o.,,Warszawa,PHP,senior,,,12000.0,20000.0
+f9dde3c39aee3666f7c054a5e3817475,P&P Solutions Sp. z o.o.,100.0,Remote,C#,senior,,,23520.0,27720.0
+910e1cb5015e49556c5bbe342d45173f,INFOGAIN TECHNOLOGIES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,Java,senior,,,18000.0,26000.0
+49084c6be41ed098dca0c57998239ba2,INFOGAIN TECHNOLOGIES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Kraków,Java,senior,,,18000.0,26000.0
+b27192122e67c5d9d1cc24b443348934,SOFTWARE PARTNER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,JavaScript,mid,,,8000.0,16000.0
+3a0422563ff31dce4be177274c75a2cd,SOFTWARE PARTNER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Wrocław,JavaScript,mid,,,8000.0,16000.0
+8c3a0b796bcf2834ce73b36fd2dabad2,Scalo,1000.0,Remote,JavaScript,senior,,,25200.0,28560.0
+6db4cca3849bcf2615ecb21cb0a70a0a,EndySoft,10.0,Remote,C#,mid,,,18000.0,21000.0
+ddef3291ed34f6ae72eca61930fb677e,EndySoft,10.0,Remote,JavaScript,senior,,,19000.0,25000.0
+de1cf0e328e4d6ef28425815a212309d,EndySoft,10.0,Remote,C/C++,mid,,,10000.0,15000.0
+ec835b7994780e9219d82223ad1a6ac3,EndySoft,10.0,Remote,JavaScript,mid,,,21000.0,25000.0
+f73ec55c7aa07abfbd004559700c95b5,EndySoft,10.0,Remote,C#,mid,,,17000.0,24000.0
+d0aa7c84c2fa8e74b58571c70580ed03,best HR and PM solutions AT,,Remote,Java,senior,,,20160.0,30240.0
+111032ebc8dbe940dc751c303583ec96,j-labs,100.0,Kraków,Java,senior,,,26880.0,31920.0
+7d029c9b3ed9586bc09ae5afa1c4e8e4,HERE Technologies,10000.0,Remote,Scala,senior,15000.0,20000.0,25200.0,33600.0
+d8b37011e76367c20181119f01986471,HERE Technologies,10000.0,Kraków,Scala,senior,15000.0,20000.0,25200.0,33600.0
+49f09ada50ceb88ee9368be4985cd18f,Listonic,10.0,Łódź,Mobile,mid,,,12000.0,17000.0
+bf2326edcf4f2d5dc94851f98f720fad,1dea Kośnik Sp. k.,,Remote,Mobile,mid,,,26040.0,29400.0
+58cad347683bc06b91fd3c9ec37873c4,SPEERON POLSKA sp. z o.o.,,Gdańsk,C#,mid,12000.0,20000.0,15000.0,25000.0
+9969091bef162e34de19a36d7745f22c,Digital Hub Warsaw at Bayer,,Warszawa,JavaScript,senior,18000.0,28000.0,,
+167ad6d5ca27c741dc6845e41d2be289,Digital Hub Warsaw at Bayer,,Warszawa,JavaScript,mid,15000.0,22000.0,,
+fe9ba2b52e6c80ffce3dcb9b20179a76,Digital Hub Warsaw at Bayer,,Warszawa,Python,senior,18000.0,28000.0,,
+8525f058cdf5c378ae50a677d3a814cb,SellIntegro,100.0,Remote,C#,mid,9000.0,13000.0,11000.0,15000.0
+2f8807bc98e9a94a11d42b6fc7dea74f,ITHOUSE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,PHP,mid,,,18000.0,25000.0
+6b47106ab01a59223ff6a29138b64b78,OPTINEO GRZEGORZ MODLIBOWSKI,,Warszawa,JavaScript,mid,13000.0,17000.0,,
+c3cc1426612a9742c0893b4a39f207f0,Catalogic Software,,Warszawa,C#,mid,,,10000.0,15000.0
+31c6d7a9ec6af5c09c860927fc027d3c,Catalogic Software,,Warszawa,Java,mid,,,10000.0,20000.0
+46dbe9a9c627a59fad5be553c5590239,DS STREAM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,JavaScript,senior,16800.0,22400.0,20160.0,26880.0
+0793d88130378190cca46a97de8858b3,DS STREAM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,JavaScript,senior,16800.0,22400.0,20160.0,26880.0
+6a0b1f52f9a63ee51bcef305de607e6a,Prime Engineering Poland,1000.0,Remote,Java,mid,,,17000.0,22000.0
+b67ce450938795256a5d9ddcfd5992ae,Prime Engineering Poland,1000.0,Remote,JavaScript,mid,,,17000.0,22000.0
+67b2779cc62650a81a5c72b24126f8c1,ITDS Polska Sp. z o.o.,,Warszawa,Mobile,senior,,,16800.0,25200.0
+09249c08050f9894827c9bcb39a13076,PROGNETICS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,C#,mid,,,13440.0,20160.0
+19736be17d56c03dbaf5cdff2d29ccbd,PROGNETICS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,C#,mid,,,13440.0,20160.0
+36711e4e6da1fd4c78a1cffd030c46a5,Neontri,100.0,Warszawa,Java,senior,15500.0,22000.0,,
+5e38e7e10682ea64c2737e041a724a5d,Neontri,100.0,Remote,PHP,senior,,,18000.0,23500.0
+7ba0bd0a318d842530f0421d73cc35dd,Neontri,100.0,Warszawa,Java,mid,14000.0,20000.0,,
+5fe7eee20f8236e40c0139c59da2442e,RANDLAB SOFTWARE sp. z o.o.,,Warszawa,C#,senior,,,11760.0,17640.0
+c543f9358a44dd2571d385d3d719426b,4IT Solutions,10.0,Warszawa,C#,expert,19000.0,26000.0,18480.0,26880.0
+8f57fa52683663c199b804772a2fe137,emagine sp. z o.o,,Remote,Mobile,mid,,,26880.0,29400.0
+5ba27e01e8e1dc7711baa08c060c9d5c,Mindbox,100.0,Remote,Python,senior,,,26880.0,35280.0
+24fba83449c33585e07566df8ac7ae7e,Mindbox,100.0,Kraków,Python,senior,,,26880.0,35280.0
+87d4636f412f181081bf9e35ab767ce4,Savills Sp. z o. o.,,Remote,JavaScript,senior,,,15000.0,18000.0
+47aa481ad1371237139563c75b20ba91,Savills Sp. z o. o.,,Warszawa,JavaScript,senior,,,15000.0,18000.0
+931baec6057023c4c2916f8c35b7626a,ITFS sp. z o.o.,,Warszawa,Java,mid,,,16800.0,21000.0
+85d4853ceb067872fed4a2027207a7f8,Branchspace,10.0,Kraków,JavaScript,senior,,,18000.0,26000.0
+1c2b66f61ae9c894bd157ba8bfbc3d14,KINGIT,10.0,Remote,Python,mid,,,12500.0,21000.0
+26d12e317fcc4b7f5e806414c78ce787,ER Group,,Gdańsk,PHP,mid,13000.0,15000.0,15000.0,17000.0
+e391db7a359e6f7a827cbd6a06d0f781,Team Connect Sp. z o.o.,100.0,Poznań,Java,senior,,,26880.0,29400.0
+61edd5d46764d41b5053626379df8415,Harvey Nash Technology,10.0,Warszawa,Golang,senior,15000.0,22000.0,,
+e755533ebb01bda8a97a6c15f1c50162,UNIDE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,Java,senior,,,20000.0,25000.0
+bb200e5d26a1035cdf4c2d80b4f39dcc,BRAVER IT SPÓŁKA AKCYJNA,,Remote,JavaScript,senior,,,27000.0,36500.0
+b5179ee77f710d94997d56e549e7e210,Neontri,100.0,Kraków,PHP,mid,,,8000.0,12000.0
+532a0517422338a9a4e3c41348a1588c,Neontri,100.0,Warszawa,Java,senior,20000.0,25000.0,,
+ada038d337cb1d2a8f15195c3b838740,Neontri,100.0,Remote,Kotlin,mid,,,18000.0,24000.0
+963e70cf40a02e74758f603010ae5607,JellyTech,10.0,Remote,C#,senior,,,16000.0,20100.0
+aab5b852dd14d7b5d712732b4a707b1c,Centralne Biuro Antykorupcyjne,,Warszawa,C#,junior,6200.0,6900.0,,
+6edf9dfb0f255675e7c636a860a7b231,IFIRMA S.A.,100.0,Wrocław,Java,mid,12500.0,19000.0,15000.0,20000.0
+3740d87658ab52adcf0bdcf011856818,Strive Sp. z o.o.,,Gdańsk,PHP,senior,15000.0,22000.0,18000.0,27000.0
+e7192ebb2166b2cb14c6620bba86adcd,Limango Polska,,Remote,PHP,senior,,,16000.0,20000.0
+fa64db9fbe5d16cac6a64ba23f2420b3,SHIMI sp. z o.o.,,Warszawa,Java,senior,,,26880.0,28560.0
+9000f4e9a1b790785860e248da81f17a,DS STREAM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,Python,senior,16800.0,22400.0,20160.0,26880.0
+b075bc1f8a713816901c1845b4966541,DS STREAM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Warszawa,Python,senior,16800.0,22400.0,20160.0,26880.0
+8a449212cc1c716d28788789758cb347,TL Systems,,Remote,Java,mid,,,17000.0,22000.0
+44759270f40d11e92803872f144fb586,TL Systems,,Łódź,Java,mid,,,17000.0,22000.0
+3ee1d023644dbda7255e81287f3b9b7b,EAGER DEVELOPERS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,C#,mid,,,14400.0,19600.0
+a9a63a1c7f015fc16272b96ce82c142f,ITFS sp. z o.o.,,Remote,Mobile,senior,,,23520.0,28560.0
+219074e24c13630e550b31dc69187ffc,Totaldevs sp. z o.o.,,Warszawa,JavaScript,senior,,,12000.0,24000.0
+ec1ffa8dc71a02bfd179b84645665bc4,Ferchau Poland,,Remote,Java,senior,,,25200.0,31920.0
+1fc11c5fa6e87e79b304033ba89dbf79,Ferchau Poland,,Gdańsk,Java,senior,,,25200.0,31920.0
+763a6f0a47e4df5edc851810e23aa984,Fudo Security,10.0,Remote,Python,senior,,,21000.0,30000.0
+363d4e1ca6935f18b07a11187952d16c,Fudo Security,10.0,Warszawa,Python,senior,,,21000.0,30000.0
+81a97e012f867fdcbd6f5f62b7cc1a03,Mindbox,100.0,Warszawa,JavaScript,mid,,,21840.0,28560.0
+0d8283dc88199a56788b1bea2b494370,SILK SOFTWARE HOUSE,,Warszawa,JavaScript,senior,,,18000.0,24000.0
+432c7aff0982d5e0cf330296508dae1f,Ferchau Poland,,Remote,JavaScript,senior,,,25200.0,31920.0
+7cce6d7bead01b5532008c7cb8aceb7c,Ferchau Poland,,Gdańsk,JavaScript,senior,,,25200.0,31920.0
+1f5d608f9f412b092b8419b2cd3799e9,NTIATIVE sp. z o.o.,,Remote,Ruby,senior,,,23000.0,32000.0
+46b6bff9f912c0f4986ffd9923de13bc,emagine sp. z o.o,,Gdańsk,Java,mid,,,25200.0,28560.0
+48ebdb6ab25636511d6d3af034108453,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Gdańsk,C#,mid,10000.0,14000.0,11000.0,16000.0
+7f61a93ffe839d62b015870ead5b37f3,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Łódź,C#,mid,10000.0,14000.0,11000.0,16000.0
+fce3faab590534a567413653482c5c97,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Wrocław,C#,mid,10000.0,14000.0,11000.0,16000.0
+de91e2ee04a2777adc6b459e5c18bee5,1dea Kośnik Sp. k.,,Remote,PHP,senior,,,22680.0,26040.0
+55fab81f92099dd75a75142995f8e9b0,ING Bank Śląski,10000.0,Remote,Java,mid,15000.0,22000.0,,
+560b9c8de73629e4a5983f2bf72b7e8e,Allegro,1000.0,Poznań,Python,senior,14200.0,25410.0,,
+8d8733feca3c2d631f996c8127e62570,Allegro,1000.0,Warszawa,Python,senior,14200.0,25410.0,,
+bf75403ef1828f2dc770c7605eb403f0,Schenker Technology Center Warsaw Sp. z o.o.,,Warszawa,C#,senior,20800.0,31200.0,20800.0,31200.0
+9846439cbaab06f78b4c9593d757ac1e,Jit Team,100.0,Gdańsk,Java,mid,,,10000.0,20000.0
+043cab816d841eb493968cea07a50832,7N,1000.0,Warszawa,Python,senior,,,20160.0,26880.0
+863fe2b992932f1fb71682b04f3f7693,ITDS Polska Sp. z o.o.,,Warszawa,Python,senior,,,18900.0,23100.0
+dc9deb6d9865ccffbfba566e806f36eb,ITFS sp. z o.o.,,Remote,JavaScript,senior,,,21840.0,26880.0
+fb80f7547cf1c106c6b0df43d58d2e28,Jit Team,100.0,Remote,Python,mid,,,19000.0,27300.0
+6b0c6726139ce51aa4315d012988fd76,ITFS sp. z o.o.,,Remote,C#,mid,,,20160.0,21840.0
+6e8bf10c14d4fe4e32116b3a616ad881,Connectis,100.0,Warszawa,Python,mid,,,22000.0,28000.0
+0eba01e6a0036adac19585dfc3abba21,ITFS sp. z o.o.,,Remote,Scala,mid,,,25200.0,28560.0
+9f2ff3cb0c8940840c495e80c2fb6530,Connectis,100.0,Łódź,Mobile,senior,,,27000.0,29000.0
+f7958a92e4fc9025b59fbba556f6efac,Mindbox,100.0,Remote,Scala,senior,,,27000.0,34000.0
+17029281461d6b1b797428937cb9ed0b,APILO sp. z o.o.,,Remote,PHP,senior,14000.0,16000.0,15000.0,18000.0
+765367bbf96821df376a58ed6c1e321b,Adtran,100.0,Gdańsk,JavaScript,mid,14000.0,17000.0,,
+2fb61e71347b846e662621e1c9875df9,Adtran,100.0,Gdańsk,JavaScript,senior,17000.0,22000.0,,
+1261534325810d477416eee41c513743,Meritus Systemy Informatyczne Sp. z o.o.,,Warszawa,Python,senior,,,8000.0,12000.0
+aec6973b1a3029b39dea3e1aeb7a4663,JellyTech,10.0,Remote,Python,expert,,,18000.0,21000.0
+572c5489efb7f4e0860513f874fd3019,JellyTech,10.0,Remote,Python,senior,,,18000.0,23500.0
+9ed858fc6d25cd97809348203d7ed4bd,BRAVER IT SPÓŁKA AKCYJNA,,Remote,PHP,senior,,,27000.0,36500.0
+98b00f29e47c0a519c8843345ad04c1d,Dom Maklerski Banku Ochrony Środowiska SA,,Remote,JavaScript,senior,15000.0,22000.0,16000.0,26000.0
+50602383d65499b991372384a2e0eb8c,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Gdańsk,JavaScript,mid,11000.0,14000.0,13200.0,16200.0
+3b3232690faca93ebe0e8a9f27ae3851,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Łódź,JavaScript,mid,11000.0,14000.0,13200.0,16200.0
+509fdf45ca8d44cc75653fba09ab9053,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Wrocław,JavaScript,mid,11000.0,14000.0,13200.0,16200.0
+89209b786938516cace4d9ad5492bf78,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Gdańsk,JavaScript,senior,13400.0,15400.0,15700.0,17700.0
+51a0bc3894ac150a5d64e16880f88707,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Łódź,JavaScript,senior,13400.0,15400.0,15700.0,17700.0
+4e02aa3a60e4c8098df3ed109879515c,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Wrocław,JavaScript,senior,13400.0,15400.0,15700.0,17700.0
+a8a80a0bf30a9302410990105d0585c5,eRecruiter,,Remote,JavaScript,senior,,,15000.0,19250.0
+454ecbbe06950ae91f5d0694bbacc2b4,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Gdańsk,JavaScript,mid,18000.0,22000.0,21000.0,25000.0
+3d1c4c9dfe1ec4a849eaa4b276555abc,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Łódź,JavaScript,mid,18000.0,22000.0,21000.0,25000.0
+315e86476c8fe1f3ded67b7dc5ef517e,GODEL TECHNOLOGIES EUROPE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Wrocław,JavaScript,mid,18000.0,22000.0,21000.0,25000.0
+5b7be00f0dfc18dd532649c50fdf2eef,Wazdan Services Limited Sp. z o.o.,,Remote,JavaScript,senior,,,20000.0,25000.0
+4c12f72fbd67c324b07b3fef189e816d,Lufthansa Systems,1000.0,Gdańsk,JavaScript,mid,8000.0,16000.0,,
+20749daa7afa6743923a38dee4c76320,ARDURA Consulting,10.0,Remote,Python,senior,,,19320.0,21000.0
+66a0e9dad5169eedcff9a1b32fe3c32f,ARDURA Consulting,10.0,Remote,C/C++,mid,,,20160.0,23520.0
+b8a363ffced7fab05b91d7db1b0db2c6,TIDK sp. z o.o.,,Kraków,Python,senior,7000.0,16000.0,9000.0,19000.0
+35b1a5ba2a6d173d6e1214ecb15b6ef6,TIDK sp. z o.o.,,Poznań,Python,senior,7000.0,16000.0,9000.0,19000.0
+3fa8066adb8a6200703f07823dbaeebb,Stockpress,,Remote,PHP,senior,,,15000.0,20000.0
+8fd0cb1a5b70903ff986ae470701012c,ITFS sp. z o.o.,,Remote,JavaScript,senior,,,21840.0,25200.0
+54837d29b4a08177103b03ba926c8711,Devire,100.0,Warszawa,Java,senior,,,25200.0,31080.0
+b31f347e38c138b45c1c60dcce8ef52c,Transition Technologies–Systems Sp. z o. o.,,Remote,Python,mid,7000.0,8500.0,,
+5bf9cc793b1265a51607e1873c72830b,Jit Team,100.0,Gdańsk,JavaScript,expert,,,19000.0,26250.0
+d92495aaeb14ce822164e9cd2bebe255,Jit Team,100.0,Warszawa,JavaScript,expert,,,19000.0,26250.0
+ee5d211b84156a9139ce27faa0656cf5,Markana,,Remote,C#,mid,,,18480.0,18480.0
+3f5d91fcf74ccae6405ffc1b5b576eb3,SOFTIQ,100.0,Remote,Java,mid,10000.0,12500.0,12000.0,15000.0
+7bacfde50bcd93712754ce057cc8ee97,Tesco Technology,100.0,Kraków,Python,mid,16000.0,23000.0,20000.0,27000.0
+535b29ecad15214ca17e1cd93912dbe4,Spyrosoft,1000.0,Remote,Python,senior,13500.0,19750.0,18480.0,26880.0
+332e310ad436dc3fd1edd3adafa9a686,ETECHNOLOGIE sp. z o.o.,,Remote,PHP,mid,,,7000.0,8500.0
+3243075bc96a9171ad9cfc1b7643651a,ITFS sp. z o.o.,,Remote,C#,senior,,,25200.0,30240.0
+04b7b7ced8c4b93629e17ea683ab0e54,ITFS sp. z o.o.,,Remote,C/C++,senior,,,25200.0,33600.0
+99f76ff35b9c811b32dbd7388c5d0e6b,ITFS sp. z o.o.,,Remote,Python,senior,,,21840.0,28560.0
+b1284cbe12b559d8d158350d8cf25409,Acxiom Global Service Center Polska sp. z o. o,,Remote,JavaScript,senior,13000.0,21500.0,,
+4ea3d46740630be358b9b599d1471581,Scalo,1000.0,Warszawa,Python,mid,,,21840.0,25200.0
+9178e6b618d172771f5362357812b674,RavenDB,10.0,Remote,PHP,mid,,,11000.0,15000.0
+6e65499968861f9a56b2017a7c9f450f,ACAISOFT POLAND Sp. z o.o.,,Remote,Python,senior,20000.0,27000.0,23000.0,32000.0
+ac3f8482a5febf9da4ab03c1829b9e04,Acxiom Global Service Center Polska sp. z o. o,,Remote,Python,mid,10500.0,17000.0,,
+ce20d97139facf8bc34b0d4626afde9f,Digital Hub Warsaw at Bayer,,Warszawa,Python,expert,18000.0,28000.0,,
+8aee690520dfa95c859ae904fabe5917,VEHIS sp. z o.o.,,Remote,JavaScript,mid,11000.0,18000.0,11000.0,18000.0
+d036efcfbcbdc262a89d27ddb91b42a4,MRSOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,Remote,JavaScript,senior,6000.0,10000.0,6000.0,10000.0
+5e8ac43f2dfcb0fced1a763f9817ffa8,1dea Kośnik Sp. k.,,Remote,Golang,senior,,,23520.0,26880.0
+258042660cc3be8a3e1b35d5d6b7f862,WOLFPACK ENTERTAINMENT sp. z o.o.,,Warszawa,PHP,junior,5000.0,7000.0,,
+dc94e41c05370456696584445066dbc8,CORTIVISION sp. z o.o.,,Remote,Python,senior,,,14000.0,20000.0
+0c70bc45ded87cf8e4d9e2082ab3362e,Lufthansa Systems,1000.0,Gdańsk,JavaScript,senior,10000.0,21000.0,,
+8be2e5971f468e71683ed03dad6af245,Lufthansa Systems,1000.0,Gdańsk,Mobile,senior,10000.0,21000.0,12432.0,29400.0
+602232eb2fe6d21a8e05df3dedb39006,APLIKACJE KRYTYCZNE sp. z o.o.,,Remote,Python,mid,12500.0,19000.0,,
+2e557c3756e875aa43a6194fa3fa6f06,homfi,,Remote,PHP,senior,10000.0,15000.0,10000.0,15000.0
+6d4419a92fc5a5fcd2e5a59c6df059df,APLIKACJE KRYTYCZNE sp. z o.o.,,Remote,C#,mid,12500.0,18000.0,,
+b9a80542f7e0e7f844bce33f9472b1ae,Digital Hub Warsaw at Bayer,,Warszawa,Python,expert,25000.0,35000.0,,
+38669c63610c29eaf3f3ef1413a357c5,1dea Kośnik Sp. k.,,Remote,Mobile,senior,,,34440.0,34440.0
+236e82ed7329ab647c63605a0a244377,Lufthansa Systems,1000.0,Gdańsk,Java,mid,14000.0,21000.0,,
+9328ba11a519e434de996a69160de586,1dea Kośnik Sp. k.,,Gdańsk,C/C++,senior,30000.0,30000.0,,
+b1a60d69257a2e9574418194a1cc8652,CodeTwo,,Remote,C#,senior,18000.0,27000.0,18000.0,27000.0
+81ae9539527b034efd74391a8b947480,HOLO vectors,,Remote,Python,senior,,,14000.0,18000.0
+e88d34f89c44c9e36ee9e7ded8771efb,Suder & Suder Sp. z o.o.,,Remote,C#,senior,,,10000.0,15000.0
+fa4796f6433d7837786c4f7566086071,DIGITAL DISC sp. z o.o.,,Warszawa,Python,mid,6850.0,14185.0,5000.0,10000.0
+8302af3f36645c38737204f2942b9408,Natalia Chmiel-Downar Employment Partner,,Remote,C#,mid,,,10000.0,14000.0
+e007f4f6c19a5751495ab4eebd118125,HEADFOUND GmbH,,Remote,JavaScript,junior,6000.0,10000.0,,
+9c4dc2d3d0feb6ceac8da65b70d9b39b,SKALEO sp. z o.o.,,Remote,PHP,mid,,,6720.0,16800.0
+395c6e9b6cc40dabf0d11813bf94f57b,MATEUSZ MISIORNY BLINK SOFTWARE,,Poznań,JavaScript,mid,,,12000.0,20000.0
+09863c132d76f2de6c5d74e493ef3678,NASK,100.0,Warszawa,Mobile,expert,12000.0,21000.0,,
+80810c336b1def9d079624df421110fd,NASK,100.0,Warszawa,JavaScript,senior,10000.0,16000.0,,
+55d6d1565e1d82cd3bcff255569d7375,NASK,100.0,Warszawa,Java,senior,10000.0,16000.0,,
+df1145e6316fa9b9bb5a156f821e89c7,BALTIC SMART sp. z o.o.,,Warszawa,C#,mid,14000.0,18000.0,,
+4d67b8196d78cfa69f440e5d1ca3ab03,simplyblock GmbH,,Remote,C/C++,expert,20000.0,30000.0,25000.0,30000.0
+dda1946e523fd79afb749f09203e979d,Pitney Bowes Polska sp z o.o.,,Remote,C#,junior,12000.0,16000.0,12000.0,16000.0
