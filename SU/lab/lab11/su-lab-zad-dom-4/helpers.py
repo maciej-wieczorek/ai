@@ -33,8 +33,8 @@ class Node(object):
                     
         if self.boundary[0] is not None:
             i, split_val = self.boundary
-            self.left = Node(self.depth + 1)
-            self.right = Node(self.depth + 1)
+            self.left = Node(self.depth + 1, calculate_leaf_value=self.calculate_leaf_value)
+            self.right = Node(self.depth + 1, calculate_leaf_value=self.calculate_leaf_value)
             self.left.fit(X[X[:, i] < split_val], y[X[:, i] < split_val], last_predicted[X[:, i] < split_val],max_depth)
             self.right.fit(X[X[:, i] >= split_val], y[X[:, i] >= split_val], last_predicted[X[:, i] >= split_val],max_depth)
         else:
