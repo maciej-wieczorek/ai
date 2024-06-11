@@ -1,0 +1,11 @@
+input_features:
+    - name: image_path
+      type: image
+
+output_features:
+    - name: label
+      type: category
+
+training:
+    batch_size: 32
+    epochs: 10
