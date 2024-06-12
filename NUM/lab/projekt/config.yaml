@@ -1,11 +1,18 @@
 input_features:
     - name: image_path
       type: image
+      preprocessing:
+        height: 128
+        width: 128
+        resize_method: interpolate
+        in_memory: true
+        undersample_majority: 0.5
+      encoder: stacked_cnn
 
 output_features:
     - name: label
       type: category
 
-training:
-    batch_size: 32
+trainer:
     epochs: 10
+    

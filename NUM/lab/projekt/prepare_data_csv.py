@@ -16,5 +16,5 @@ def prepare_data_csv(data_dir, csv_path):
     df.to_csv(csv_path, index=False)
 
 csv_path = 'data.csv'
-data_dir = 'chest_xray_augmented/train'
+data_dir = 'chest_xray'
 prepare_data_csv(data_dir, csv_path)

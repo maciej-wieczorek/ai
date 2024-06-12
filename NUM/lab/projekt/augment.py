@@ -7,9 +7,10 @@ from tqdm import tqdm
 def augment_images(input_dir, output_dir, augment_count=3):
     os.makedirs(output_dir, exist_ok=True)
     seq = iaa.Sequential([
-        iaa.Fliplr(0.5),
         iaa.Affine(rotate=(-25, 25)),
-        iaa.GaussianBlur(sigma=(0.0, 3.0))
+        iaa.Fliplr(0.5),
+        iaa.GaussianBlur(sigma=(0.0, 3.0)),
+        iaa.AdditiveGaussianNoise(scale=(10, 60)),
     ])
 
     for category in ['NORMAL', 'PNEUMONIA']:
@@ -27,4 +28,4 @@ def augment_images(input_dir, output_dir, augment_count=3):
                 output_img_path = os.path.join(output_category_dir, output_img_name)
                 cv2.imwrite(output_img_path, augmented_image)
 
-augment_images('chest_xray/train', 'chest_xray_augmented/train')
+augment_images('chest_xray', 'chest_xray_augmented')
