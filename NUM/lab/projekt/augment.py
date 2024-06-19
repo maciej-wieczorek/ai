@@ -28,4 +28,4 @@ def augment_images(input_dir, output_dir, augment_count=3):
                 output_img_path = os.path.join(output_category_dir, output_img_name)
                 cv2.imwrite(output_img_path, augmented_image)
 
-augment_images('chest_xray/train', 'chest_xray_augmented/train')
+augment_images('chest_xray', 'chest_xray_augmented')
