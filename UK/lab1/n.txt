@@ -1,0 +1,8 @@
+antoni.nowinowski@doctorate.put.poznan.pl
+
+lab: tensorflow, pytorch, wprowadzenie, odtworzenie architektury
+za 4 tygodnie propozycje projektów
+
+zaliczenie: projekt badawczy dla 2-3 osób, systematycznie ze spotkaniami
+reimplementacja z artykułu
+usprawnienie: inna funkcja straty, dodatkowe informacje na wejściu

@@ -1,0 +1,4 @@
+Governance - jak zabezpieczyć dane firmy
+np. source code, numery telefonów
+data owner - decyduje o udostępnieniu danych (aol 2006)
+metryki przestają być miarą jak stają się celem

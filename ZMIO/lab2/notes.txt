@@ -1,0 +1,8 @@
+obserwacaja
+akcja
+observe_fist - na poczatku
+observe - kolejne
+przestrzeń obserwacji
+przestrzeń akcji: dwie akcje, lewo, prawo
+jakie są wymiary
+agent: zamiana obserwacji na akcję

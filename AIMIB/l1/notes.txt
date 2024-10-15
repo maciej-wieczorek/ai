@@ -1,0 +1,2 @@
+ed - evolutionary design, robotyka ewolucyjna
+reprezentacja rozwiązania
