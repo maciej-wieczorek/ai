@@ -1,0 +1,8 @@
+1.
+2.
+3. /cmd_vel
+4. sensor_msgs/msg/LaserScan
+5. string[] names, string[] prefixes
+6. average rate: 29.371
+7. True
+8.
