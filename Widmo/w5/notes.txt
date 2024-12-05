@@ -1,0 +1,5 @@
+sollers
+zarządzanie ryzykiem udzielanie kredytów
+tenant.zip
+dashboard, pluginy i dll-ki
+jak działają dllki w c#
