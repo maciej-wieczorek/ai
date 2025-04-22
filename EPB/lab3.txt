@@ -1,0 +1,4 @@
+
+
+aktywności, aktorzy, grupy, aktywność opcjonalna
+1 równoległość, 1 pętla, 1 decyzja (bramka xor)
