@@ -1,3 +1,4 @@
 UG/lab/projekt/data/
 *.pth
 venv/
+.vscode/
