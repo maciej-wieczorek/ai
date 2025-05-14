@@ -1,0 +1,18 @@
+2 analizy:
+1 - PM4P lub prom
+2 - disco
+
+Zbudować model procesu w 2 róznyć reprezentacjach w obu narzędziach
+Wywalić szum np. top 80%
+musi być poprawny
+madel ma mieć wysoki fitness i precission -> lepiej przez to robić w PM4P
+na podstawie modelu opisać model -> analiza słowna: gdzie są alternatywy, gdzie jest równoległość itp.
+Poszukać wąskie gardła i spróbować wyjaśnić ich przyczyny
+
+opisać proces z obu narzędzi
+
+będą pętle na aktywnościach długości jeden -> wyjaśnij
+czy jest periodyczność pracy -> czy niektóre badania są np. tylko rano
+
+zapisywać kroki do pliku, w PM4P robić w notebook
+raport oceniany za treść, a nie za długość
