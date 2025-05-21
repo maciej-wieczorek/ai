@@ -1,0 +1,42 @@
+min
+cocoa-mass + cocoa-butter
+subject to
+sugar + cocoa-mass + orange-prep + almonds + cocoa-butter + milk-fat + emulsifier + flavouring = 100
+- orange-prep + orange + sugar-orange + apple + pineapple + acidity-regulator + gelling-agent + stabiliser + flavouring-orange = 0
+sugar - cocoa-mass >= 0
+cocoa-mass - orange-prep >= 0
+orange-prep - almonds >= 0
+cocoa-butter - milk-fat >= 0
+milk-fat - emulsifier >= 0
+emulsifier - flavouring >= 0
+orange - sugar-orange >= 0
+sugar-orange - apple >= 0
+apple - pineapple >= 0
+pineapple - acidity-regulator >= 0
+acidity-regulator - gelling-agent >= 0
+gelling-agent - stabiliser >= 0
+stabiliser - flavouring-orange >= 0
+sugar + sugar-orange <= 42
+cocoa-butter + milk-fat + emulsifier <= 32
+gelling-agent + stabiliser <= 0.09
+cocoa-mass + cocoa-butter - 0.48 sugar - 0.48 cocoa-mass - 0.48 cocoa-butter - 0.48 milk-fat - 0.48 emulsifier - 0.48 flavouring >= 0
+3.889 sugar + 3.889 sugar-orange + 2.275 cocoa-mass + 0.47 orange + 0.521 apple + 5.85 almond + 9 cocoa-butter + 9 milk-fat + 7.84 emulsifier <= 526
+0.998 sugar + 0.998 sugar-orange + 0.0175 cocoa-mass + 0.0935 orange + 0.1040 apple + 0.048 almond + 0 cocoa-butter + 0 milk-fat + 0.05 emulsifier <= 42
+Bounds
+7 <= sugar <= 42
+7 <= cocoa-mass <= 42
+orange-prep = 7
+orange = 2.38
+1 <= sugar-orange <= 2.38
+1 <= apple <= 2.38
+1 <= pineapple <= 2.38
+0.01 <= acidity-regulator <= 0.14
+0.01 <= gelling-agent <= 0.14
+0.01 <= stabiliser <= 0.14
+0.01 <= flavouring-orange <= 0.14
+almonds = 7
+1 <= cocoa-butter <= 7
+1 <= milk-fat <= 7
+1 <= emulsifier <= 7
+0.1 <= flavouring <= 2
+End
