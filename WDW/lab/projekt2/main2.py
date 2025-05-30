@@ -70,7 +70,7 @@ def main():
         D = data
 
     # Redukcja wymiarów za pomocą klasycznego MDS
-    mds = MDS(n_components=2, dissimilarity='precomputed', random_state=42)
+    mds = MDS(n_components=2, dissimilarity='precomputed')
     points = mds.fit_transform(D)
 
     # Macierz odległości z wynikowej konfiguracji
