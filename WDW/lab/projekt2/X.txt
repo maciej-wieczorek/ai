@@ -1,0 +1,4 @@
+X aaa bbb ccc
+one 1.0 4.0 3.0
+two 2.0 4.0 2.0
+three 3.0 4.0 1.0
