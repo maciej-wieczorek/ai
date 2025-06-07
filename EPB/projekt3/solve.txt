@@ -1,0 +1,5 @@
+zimpl factory_plan.zpl
+scip
+read factory_plan.lp
+optimize
+display solution

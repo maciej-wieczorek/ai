@@ -1,67 +1,101 @@
-set PROD := {1..7};
-set MONTH := {1..6};
-set MACH := {"Grind", "VDrill", "HDrill", "Borer", "Planer"};
+set PRODUCTS := {1..7};
+set MONTHS := {1..6};
+set MACHINES := {1..5};
 
-param profit[PROD] := 10 6 8 4 11 9 3;
+param profit[PRODUCTS] := <1> 10, <2> 6, <3> 8, <4> 4, <5> 11, <6> 9, <7> 3;
 
-param time[PROD][MACH] :=
-  # PROD1 PROD2 PROD3 PROD4 PROD5 PROD6 PROD7
-     <1, "Grind"> 0.5, <2, "Grind"> 0.7, <5, "Grind"> 0.3, <6, "Grind"> 0.2, <7, "Grind"> 0.5,
-     <1, "VDrill"> 0.1, <2, "VDrill"> 0.2, <4, "VDrill"> 0.3, <6, "VDrill"> 0.6,
-     <1, "HDrill"> 0.2, <3, "HDrill"> 0.8, <7, "HDrill"> 0.6,
-     <1, "Borer"> 0.05, <2, "Borer"> 0.03, <4, "Borer"> 0.07, <5, "Borer"> 0.1, <7, "Borer"> 0.08,
-     <3, "Planer"> 0.01, <5, "Planer"> 0.05, <7, "Planer"> 0.05;
+param grinding[PRODUCTS] :=
+  <1> 0.5, <2> 0.7, <3> 0.0, <4> 0.0, <5> 0.3, <6> 0.2, <7> 0.5;
 
-param demand[PROD][MONTH] :=
-  <1,1> 500, <2,1> 1000, <3,1> 300, <4,1> 300, <5,1> 800, <6,1> 200, <7,1> 100,
-  <1,2> 600, <2,2> 500,  <3,2> 200, <5,2> 400, <6,2> 300, <7,2> 150,
-  <1,3> 300, <2,3> 600,  <5,3> 500, <6,3> 400, <7,3> 100,
-  <1,4> 200, <2,4> 300,  <3,4> 400, <4,4> 500, <5,4> 200, <7,4> 100,
-  <2,5> 100, <3,5> 500,  <4,5> 100, <5,5> 1000, <6,5> 300,
-  <1,6> 500, <2,6> 500,  <3,6> 100, <4,6> 300, <5,6> 1100, <6,6> 500, <7,6> 60;
+param vdrill[PRODUCTS] :=
+  <1> 0.1, <2> 0.2, <3> 0.0, <4> 0.3, <5> 0.0, <6> 0.6, <7> 0.0;
 
-param machine_count[MACH] := <"Grind"> 4, <"VDrill"> 2, <"HDrill"> 3, <"Borer"> 1, <"Planer"> 1;
+param hdrill[PRODUCTS] :=
+  <1> 0.2, <2> 0.0, <3> 0.8, <4> 0.0, <5> 0.0, <6> 0.0, <7> 0.6;
 
-param maintenance[MACH][MONTH] :=
-  <"Grind", 1> 1,
-  <"HDrill", 2> 2,
-  <"Borer", 3> 1,
-  <"VDrill", 4> 1,
-  <"Grind", 5> 1, <"VDrill", 5> 1,
-  <"Planer", 6> 1, <"HDrill", 6> 1;
+param milling[PRODUCTS] :=
+  <1> 0.05, <2> 0.03, <3> 0.0, <4> 0.07, <5> 0.1, <6> 0.0, <7> 0.08;
 
-param hours := 2 * 8 * 24;
+param planing[PRODUCTS] :=
+  <1> 0.0, <2> 0.0, <3> 0.01, <4> 0.0, <5> 0.05, <6> 0.0, <7> 0.05;
 
-var produce[PROD][MONTH] >= 0, integer;
-var sell[PROD][MONTH] >= 0, integer;
-var store[PROD][0..6] >= 0, <= 100, integer;
 
-# Initial and final storage
-subto initial_storage:
-  forall p in PROD:
-    store[p][0] = 0;
+param demand[MONTHS * PRODUCTS] :=
+  <1,1> 500,   <1,2> 1000, <1,3> 300, <1,4> 300, <1,5> 800, <1,6> 200, <1,7> 100,
+  <2,1> 600,   <2,2>  500, <2,3> 200, <2,4>   0, <2,5> 400, <2,6> 300, <2,7> 150,
+  <3,1> 300,   <3,2>  600, <3,3>   0, <3,4>   0, <3,5> 500, <3,6> 400, <3,7> 100,
+  <4,1> 200,   <4,2>  300, <4,3> 400, <4,4> 500, <4,5> 200, <4,6>   0, <4,7> 100,
+  <5,1>   0,   <5,2>  100, <5,3> 500, <5,4> 100, <5,5>1000, <5,6> 300, <5,7>   0,
+  <6,1> 500,   <6,2>  500, <6,3> 100, <6,4> 300, <6,5>1100, <6,6> 500, <6,7>  60;
 
-subto final_storage:
-  forall p in PROD:
-    store[p][6] = 50;
+param maint_grind[MONTHS] :=
+  <1> 1, <2> 0, <3> 0, <4> 0, <5> 1, <6> 0;
 
-# Inventory flow
+param maint_vdrill[MONTHS] :=
+  <1> 0, <2> 0, <3> 0, <4> 1, <5> 1, <6> 0;
+
+param maint_hdrill[MONTHS] :=
+  <1> 0, <2> 2, <3> 0, <4> 0, <5> 0, <6> 1;
+
+param maint_milling[MONTHS] :=
+  <1> 0, <2> 0, <3> 1, <4> 0, <5> 0, <6> 0;
+
+param maint_planing[MONTHS] :=
+  <1> 0, <2> 0, <3> 0, <4> 0, <5> 0, <6> 1;
+
+param max_stock := 100;
+param end_stock := 50;
+param storage_cost := 0.5;
+
+param hours_per_month := 2 * 8 * 24;
+
+param machine[MACHINES] := 
+  <1> 4, <2> 2, <3> 3, <4> 1, <5> 1;
+
+var produce[MONTHS * PRODUCTS] integer >= 0;
+var sell[MONTHS * PRODUCTS] integer >= 0;
+var stock[MONTHS * PRODUCTS] integer <= max_stock;
+
+maximize profit_total:
+  sum <m,p> in MONTHS * PRODUCTS: profit[p] * sell[m,p] - sum <m,p> in MONTHS * PRODUCTS: storage_cost * stock[m,p];
+
+subto inventory_balance_initial:
+  forall <p> in PRODUCTS:
+    stock[1,p] == produce[1,p] - sell[1,p];
+
 subto inventory_balance:
-  forall <p, m> in PROD * MONTH:
-    store[p][m-1] + produce[p][m] = sell[p][m] + store[p][m];
+  forall <m,p> in (MONTHS \ {1}) * PRODUCTS:
+    stock[m,p] == stock[m-1,p] + produce[m,p] - sell[m,p];
 
-# Demand limit
+subto final_stock:
+  forall <p> in PRODUCTS:
+    stock[6,p] == end_stock;
+
 subto demand_limit:
-  forall <p, m> in PROD * MONTH:
-    sell[p][m] <= demand[p][m];
+  forall <m,p> in MONTHS * PRODUCTS:
+    sell[m,p] <= demand[m,p];
 
-# Machine capacity with maintenance
-subto machine_capacity:
-  forall <mach, m> in MACH * MONTH:
-    sum<p in PROD> (if exists <p,mach> in time then produce[p][m] * time[p][mach] else 0) <=
-      (machine_count[mach] - (if exists <mach,m> in maintenance then maintenance[mach][m] else 0)) * hours;
+subto grinding_capacity:
+  forall <m> in MONTHS:
+    sum <p> in PRODUCTS:
+      grinding[p] * produce[m,p] <= (machine[1] - maint_grind[m]) * hours_per_month;
 
-# Objective function: maximize profit
-maximize total_profit:
-  sum<p in PROD, m in MONTH> (sell[p][m] * profit[p]) -
-  sum<p in PROD, m in MONTH> (store[p][m] * 0.5);
+subto vdrill_capacity:
+  forall <m> in MONTHS:
+    sum <p> in PRODUCTS:
+      vdrill[p] * produce[m,p] <= (machine[2] - maint_vdrill[m]) * hours_per_month;
+
+subto hdrill_capacity:
+  forall <m> in MONTHS:
+    sum <p> in PRODUCTS:
+      hdrill[p] * produce[m,p] <= (machine[3] - maint_hdrill[m]) * hours_per_month;
+
+subto milling_capacity:
+  forall <m> in MONTHS:
+    sum <p> in PRODUCTS:
+      milling[p] * produce[m,p] <= (machine[4] - maint_milling[m]) * hours_per_month;
+
+subto planing_capacity:
+  forall <m> in MONTHS:
+    sum <p> in PRODUCTS:
+      planing[p] * produce[m,p] <= (machine[5] - maint_planing[m]) * hours_per_month;

@@ -1,0 +1,248 @@
+zimpl	v       0	produce#1#1	"produce#1#1"
+zimpl	v       1	produce#1#2	"produce#1#2"
+zimpl	v       2	produce#1#3	"produce#1#3"
+zimpl	v       3	produce#1#4	"produce#1#4"
+zimpl	v       4	produce#1#5	"produce#1#5"
+zimpl	v       5	produce#1#6	"produce#1#6"
+zimpl	v       6	produce#1#7	"produce#1#7"
+zimpl	v       7	produce#2#1	"produce#2#1"
+zimpl	v       8	produce#2#2	"produce#2#2"
+zimpl	v       9	produce#2#3	"produce#2#3"
+zimpl	v      10	produce#2#4	"produce#2#4"
+zimpl	v      11	produce#2#5	"produce#2#5"
+zimpl	v      12	produce#2#6	"produce#2#6"
+zimpl	v      13	produce#2#7	"produce#2#7"
+zimpl	v      14	produce#3#1	"produce#3#1"
+zimpl	v      15	produce#3#2	"produce#3#2"
+zimpl	v      16	produce#3#3	"produce#3#3"
+zimpl	v      17	produce#3#4	"produce#3#4"
+zimpl	v      18	produce#3#5	"produce#3#5"
+zimpl	v      19	produce#3#6	"produce#3#6"
+zimpl	v      20	produce#3#7	"produce#3#7"
+zimpl	v      21	produce#4#1	"produce#4#1"
+zimpl	v      22	produce#4#2	"produce#4#2"
+zimpl	v      23	produce#4#3	"produce#4#3"
+zimpl	v      24	produce#4#4	"produce#4#4"
+zimpl	v      25	produce#4#5	"produce#4#5"
+zimpl	v      26	produce#4#6	"produce#4#6"
+zimpl	v      27	produce#4#7	"produce#4#7"
+zimpl	v      28	produce#5#1	"produce#5#1"
+zimpl	v      29	produce#5#2	"produce#5#2"
+zimpl	v      30	produce#5#3	"produce#5#3"
+zimpl	v      31	produce#5#4	"produce#5#4"
+zimpl	v      32	produce#5#5	"produce#5#5"
+zimpl	v      33	produce#5#6	"produce#5#6"
+zimpl	v      34	produce#5#7	"produce#5#7"
+zimpl	v      35	produce#6#1	"produce#6#1"
+zimpl	v      36	produce#6#2	"produce#6#2"
+zimpl	v      37	produce#6#3	"produce#6#3"
+zimpl	v      38	produce#6#4	"produce#6#4"
+zimpl	v      39	produce#6#5	"produce#6#5"
+zimpl	v      40	produce#6#6	"produce#6#6"
+zimpl	v      41	produce#6#7	"produce#6#7"
+zimpl	v      42	sell#1#1   	"sell#1#1"
+zimpl	v      43	sell#1#2   	"sell#1#2"
+zimpl	v      44	sell#1#3   	"sell#1#3"
+zimpl	v      45	sell#1#4   	"sell#1#4"
+zimpl	v      46	sell#1#5   	"sell#1#5"
+zimpl	v      47	sell#1#6   	"sell#1#6"
+zimpl	v      48	sell#1#7   	"sell#1#7"
+zimpl	v      49	sell#2#1   	"sell#2#1"
+zimpl	v      50	sell#2#2   	"sell#2#2"
+zimpl	v      51	sell#2#3   	"sell#2#3"
+zimpl	v      52	sell#2#4   	"sell#2#4"
+zimpl	v      53	sell#2#5   	"sell#2#5"
+zimpl	v      54	sell#2#6   	"sell#2#6"
+zimpl	v      55	sell#2#7   	"sell#2#7"
+zimpl	v      56	sell#3#1   	"sell#3#1"
+zimpl	v      57	sell#3#2   	"sell#3#2"
+zimpl	v      58	sell#3#3   	"sell#3#3"
+zimpl	v      59	sell#3#4   	"sell#3#4"
+zimpl	v      60	sell#3#5   	"sell#3#5"
+zimpl	v      61	sell#3#6   	"sell#3#6"
+zimpl	v      62	sell#3#7   	"sell#3#7"
+zimpl	v      63	sell#4#1   	"sell#4#1"
+zimpl	v      64	sell#4#2   	"sell#4#2"
+zimpl	v      65	sell#4#3   	"sell#4#3"
+zimpl	v      66	sell#4#4   	"sell#4#4"
+zimpl	v      67	sell#4#5   	"sell#4#5"
+zimpl	v      68	sell#4#6   	"sell#4#6"
+zimpl	v      69	sell#4#7   	"sell#4#7"
+zimpl	v      70	sell#5#1   	"sell#5#1"
+zimpl	v      71	sell#5#2   	"sell#5#2"
+zimpl	v      72	sell#5#3   	"sell#5#3"
+zimpl	v      73	sell#5#4   	"sell#5#4"
+zimpl	v      74	sell#5#5   	"sell#5#5"
+zimpl	v      75	sell#5#6   	"sell#5#6"
+zimpl	v      76	sell#5#7   	"sell#5#7"
+zimpl	v      77	sell#6#1   	"sell#6#1"
+zimpl	v      78	sell#6#2   	"sell#6#2"
+zimpl	v      79	sell#6#3   	"sell#6#3"
+zimpl	v      80	sell#6#4   	"sell#6#4"
+zimpl	v      81	sell#6#5   	"sell#6#5"
+zimpl	v      82	sell#6#6   	"sell#6#6"
+zimpl	v      83	sell#6#7   	"sell#6#7"
+zimpl	v      84	stock#1#1  	"stock#1#1"
+zimpl	v      85	stock#1#2  	"stock#1#2"
+zimpl	v      86	stock#1#3  	"stock#1#3"
+zimpl	v      87	stock#1#4  	"stock#1#4"
+zimpl	v      88	stock#1#5  	"stock#1#5"
+zimpl	v      89	stock#1#6  	"stock#1#6"
+zimpl	v      90	stock#1#7  	"stock#1#7"
+zimpl	v      91	stock#2#1  	"stock#2#1"
+zimpl	v      92	stock#2#2  	"stock#2#2"
+zimpl	v      93	stock#2#3  	"stock#2#3"
+zimpl	v      94	stock#2#4  	"stock#2#4"
+zimpl	v      95	stock#2#5  	"stock#2#5"
+zimpl	v      96	stock#2#6  	"stock#2#6"
+zimpl	v      97	stock#2#7  	"stock#2#7"
+zimpl	v      98	stock#3#1  	"stock#3#1"
+zimpl	v      99	stock#3#2  	"stock#3#2"
+zimpl	v     100	stock#3#3  	"stock#3#3"
+zimpl	v     101	stock#3#4  	"stock#3#4"
+zimpl	v     102	stock#3#5  	"stock#3#5"
+zimpl	v     103	stock#3#6  	"stock#3#6"
+zimpl	v     104	stock#3#7  	"stock#3#7"
+zimpl	v     105	stock#4#1  	"stock#4#1"
+zimpl	v     106	stock#4#2  	"stock#4#2"
+zimpl	v     107	stock#4#3  	"stock#4#3"
+zimpl	v     108	stock#4#4  	"stock#4#4"
+zimpl	v     109	stock#4#5  	"stock#4#5"
+zimpl	v     110	stock#4#6  	"stock#4#6"
+zimpl	v     111	stock#4#7  	"stock#4#7"
+zimpl	v     112	stock#5#1  	"stock#5#1"
+zimpl	v     113	stock#5#2  	"stock#5#2"
+zimpl	v     114	stock#5#3  	"stock#5#3"
+zimpl	v     115	stock#5#4  	"stock#5#4"
+zimpl	v     116	stock#5#5  	"stock#5#5"
+zimpl	v     117	stock#5#6  	"stock#5#6"
+zimpl	v     118	stock#5#7  	"stock#5#7"
+zimpl	v     119	stock#6#1  	"stock#6#1"
+zimpl	v     120	stock#6#2  	"stock#6#2"
+zimpl	v     121	stock#6#3  	"stock#6#3"
+zimpl	v     122	stock#6#4  	"stock#6#4"
+zimpl	v     123	stock#6#5  	"stock#6#5"
+zimpl	v     124	stock#6#6  	"stock#6#6"
+zimpl	v     125	stock#6#7  	"stock#6#7"
+zimpl	c       0	inventory@0	"inventory_balance_initial_1"	0.0000000000000000e+00
+zimpl	c       1	inventory@1	"inventory_balance_initial_2"	0.0000000000000000e+00
+zimpl	c       2	inventory@2	"inventory_balance_initial_3"	0.0000000000000000e+00
+zimpl	c       3	inventory@3	"inventory_balance_initial_4"	0.0000000000000000e+00
+zimpl	c       4	inventory@4	"inventory_balance_initial_5"	0.0000000000000000e+00
+zimpl	c       5	inventory@5	"inventory_balance_initial_6"	0.0000000000000000e+00
+zimpl	c       6	inventory@6	"inventory_balance_initial_7"	0.0000000000000000e+00
+zimpl	c       7	inventory@7	"inventory_balance_1"	0.0000000000000000e+00
+zimpl	c       8	inventory@8	"inventory_balance_2"	0.0000000000000000e+00
+zimpl	c       9	inventory@9	"inventory_balance_3"	0.0000000000000000e+00
+zimpl	c      10	inventory@a	"inventory_balance_4"	0.0000000000000000e+00
+zimpl	c      11	inventory@b	"inventory_balance_5"	0.0000000000000000e+00
+zimpl	c      12	inventory@c	"inventory_balance_6"	0.0000000000000000e+00
+zimpl	c      13	inventory@d	"inventory_balance_7"	0.0000000000000000e+00
+zimpl	c      14	inventory@e	"inventory_balance_8"	0.0000000000000000e+00
+zimpl	c      15	inventory@f	"inventory_balance_9"	0.0000000000000000e+00
+zimpl	c      16	inventor@10	"inventory_balance_10"	0.0000000000000000e+00
+zimpl	c      17	inventor@11	"inventory_balance_11"	0.0000000000000000e+00
+zimpl	c      18	inventor@12	"inventory_balance_12"	0.0000000000000000e+00
+zimpl	c      19	inventor@13	"inventory_balance_13"	0.0000000000000000e+00
+zimpl	c      20	inventor@14	"inventory_balance_14"	0.0000000000000000e+00
+zimpl	c      21	inventor@15	"inventory_balance_15"	0.0000000000000000e+00
+zimpl	c      22	inventor@16	"inventory_balance_16"	0.0000000000000000e+00
+zimpl	c      23	inventor@17	"inventory_balance_17"	0.0000000000000000e+00
+zimpl	c      24	inventor@18	"inventory_balance_18"	0.0000000000000000e+00
+zimpl	c      25	inventor@19	"inventory_balance_19"	0.0000000000000000e+00
+zimpl	c      26	inventor@1a	"inventory_balance_20"	0.0000000000000000e+00
+zimpl	c      27	inventor@1b	"inventory_balance_21"	0.0000000000000000e+00
+zimpl	c      28	inventor@1c	"inventory_balance_22"	0.0000000000000000e+00
+zimpl	c      29	inventor@1d	"inventory_balance_23"	0.0000000000000000e+00
+zimpl	c      30	inventor@1e	"inventory_balance_24"	0.0000000000000000e+00
+zimpl	c      31	inventor@1f	"inventory_balance_25"	0.0000000000000000e+00
+zimpl	c      32	inventor@20	"inventory_balance_26"	0.0000000000000000e+00
+zimpl	c      33	inventor@21	"inventory_balance_27"	0.0000000000000000e+00
+zimpl	c      34	inventor@22	"inventory_balance_28"	0.0000000000000000e+00
+zimpl	c      35	inventor@23	"inventory_balance_29"	0.0000000000000000e+00
+zimpl	c      36	inventor@24	"inventory_balance_30"	0.0000000000000000e+00
+zimpl	c      37	inventor@25	"inventory_balance_31"	0.0000000000000000e+00
+zimpl	c      38	inventor@26	"inventory_balance_32"	0.0000000000000000e+00
+zimpl	c      39	inventor@27	"inventory_balance_33"	0.0000000000000000e+00
+zimpl	c      40	inventor@28	"inventory_balance_34"	0.0000000000000000e+00
+zimpl	c      41	inventor@29	"inventory_balance_35"	0.0000000000000000e+00
+zimpl	c      42	final_st@2a	"final_stock_1"	0.0000000000000000e+00
+zimpl	c      43	final_st@2b	"final_stock_2"	0.0000000000000000e+00
+zimpl	c      44	final_st@2c	"final_stock_3"	0.0000000000000000e+00
+zimpl	c      45	final_st@2d	"final_stock_4"	0.0000000000000000e+00
+zimpl	c      46	final_st@2e	"final_stock_5"	0.0000000000000000e+00
+zimpl	c      47	final_st@2f	"final_stock_6"	0.0000000000000000e+00
+zimpl	c      48	final_st@30	"final_stock_7"	0.0000000000000000e+00
+zimpl	c      49	demand_l@31	"demand_limit_1"	0.0000000000000000e+00
+zimpl	c      50	demand_l@32	"demand_limit_2"	0.0000000000000000e+00
+zimpl	c      51	demand_l@33	"demand_limit_3"	0.0000000000000000e+00
+zimpl	c      52	demand_l@34	"demand_limit_4"	0.0000000000000000e+00
+zimpl	c      53	demand_l@35	"demand_limit_5"	0.0000000000000000e+00
+zimpl	c      54	demand_l@36	"demand_limit_6"	0.0000000000000000e+00
+zimpl	c      55	demand_l@37	"demand_limit_7"	0.0000000000000000e+00
+zimpl	c      56	demand_l@38	"demand_limit_8"	0.0000000000000000e+00
+zimpl	c      57	demand_l@39	"demand_limit_9"	0.0000000000000000e+00
+zimpl	c      58	demand_l@3a	"demand_limit_10"	0.0000000000000000e+00
+zimpl	c      59	demand_l@3b	"demand_limit_11"	0.0000000000000000e+00
+zimpl	c      60	demand_l@3c	"demand_limit_12"	0.0000000000000000e+00
+zimpl	c      61	demand_l@3d	"demand_limit_13"	0.0000000000000000e+00
+zimpl	c      62	demand_l@3e	"demand_limit_14"	0.0000000000000000e+00
+zimpl	c      63	demand_l@3f	"demand_limit_15"	0.0000000000000000e+00
+zimpl	c      64	demand_l@40	"demand_limit_16"	0.0000000000000000e+00
+zimpl	c      65	demand_l@41	"demand_limit_17"	0.0000000000000000e+00
+zimpl	c      66	demand_l@42	"demand_limit_18"	0.0000000000000000e+00
+zimpl	c      67	demand_l@43	"demand_limit_19"	0.0000000000000000e+00
+zimpl	c      68	demand_l@44	"demand_limit_20"	0.0000000000000000e+00
+zimpl	c      69	demand_l@45	"demand_limit_21"	0.0000000000000000e+00
+zimpl	c      70	demand_l@46	"demand_limit_22"	0.0000000000000000e+00
+zimpl	c      71	demand_l@47	"demand_limit_23"	0.0000000000000000e+00
+zimpl	c      72	demand_l@48	"demand_limit_24"	0.0000000000000000e+00
+zimpl	c      73	demand_l@49	"demand_limit_25"	0.0000000000000000e+00
+zimpl	c      74	demand_l@4a	"demand_limit_26"	0.0000000000000000e+00
+zimpl	c      75	demand_l@4b	"demand_limit_27"	0.0000000000000000e+00
+zimpl	c      76	demand_l@4c	"demand_limit_28"	0.0000000000000000e+00
+zimpl	c      77	demand_l@4d	"demand_limit_29"	0.0000000000000000e+00
+zimpl	c      78	demand_l@4e	"demand_limit_30"	0.0000000000000000e+00
+zimpl	c      79	demand_l@4f	"demand_limit_31"	0.0000000000000000e+00
+zimpl	c      80	demand_l@50	"demand_limit_32"	0.0000000000000000e+00
+zimpl	c      81	demand_l@51	"demand_limit_33"	0.0000000000000000e+00
+zimpl	c      82	demand_l@52	"demand_limit_34"	0.0000000000000000e+00
+zimpl	c      83	demand_l@53	"demand_limit_35"	0.0000000000000000e+00
+zimpl	c      84	demand_l@54	"demand_limit_36"	0.0000000000000000e+00
+zimpl	c      85	demand_l@55	"demand_limit_37"	0.0000000000000000e+00
+zimpl	c      86	demand_l@56	"demand_limit_38"	0.0000000000000000e+00
+zimpl	c      87	demand_l@57	"demand_limit_39"	0.0000000000000000e+00
+zimpl	c      88	demand_l@58	"demand_limit_40"	0.0000000000000000e+00
+zimpl	c      89	demand_l@59	"demand_limit_41"	0.0000000000000000e+00
+zimpl	c      90	demand_l@5a	"demand_limit_42"	0.0000000000000000e+00
+zimpl	c      91	grinding@5b	"grinding_capacity_1"	0.0000000000000000e+00
+zimpl	c      92	grinding@5c	"grinding_capacity_2"	0.0000000000000000e+00
+zimpl	c      93	grinding@5d	"grinding_capacity_3"	0.0000000000000000e+00
+zimpl	c      94	grinding@5e	"grinding_capacity_4"	0.0000000000000000e+00
+zimpl	c      95	grinding@5f	"grinding_capacity_5"	0.0000000000000000e+00
+zimpl	c      96	grinding@60	"grinding_capacity_6"	0.0000000000000000e+00
+zimpl	c      97	vdrill_c@61	"vdrill_capacity_1"	0.0000000000000000e+00
+zimpl	c      98	vdrill_c@62	"vdrill_capacity_2"	0.0000000000000000e+00
+zimpl	c      99	vdrill_c@63	"vdrill_capacity_3"	0.0000000000000000e+00
+zimpl	c     100	vdrill_c@64	"vdrill_capacity_4"	0.0000000000000000e+00
+zimpl	c     101	vdrill_c@65	"vdrill_capacity_5"	0.0000000000000000e+00
+zimpl	c     102	vdrill_c@66	"vdrill_capacity_6"	0.0000000000000000e+00
+zimpl	c     103	hdrill_c@67	"hdrill_capacity_1"	0.0000000000000000e+00
+zimpl	c     104	hdrill_c@68	"hdrill_capacity_2"	0.0000000000000000e+00
+zimpl	c     105	hdrill_c@69	"hdrill_capacity_3"	0.0000000000000000e+00
+zimpl	c     106	hdrill_c@6a	"hdrill_capacity_4"	0.0000000000000000e+00
+zimpl	c     107	hdrill_c@6b	"hdrill_capacity_5"	0.0000000000000000e+00
+zimpl	c     108	hdrill_c@6c	"hdrill_capacity_6"	0.0000000000000000e+00
+zimpl	c     109	milling_@6d	"milling_capacity_1"	0.0000000000000000e+00
+zimpl	c     110	milling_@6e	"milling_capacity_2"	0.0000000000000000e+00
+zimpl	c     111	milling_@6f	"milling_capacity_3"	0.0000000000000000e+00
+zimpl	c     112	milling_@70	"milling_capacity_4"	0.0000000000000000e+00
+zimpl	c     113	milling_@71	"milling_capacity_5"	0.0000000000000000e+00
+zimpl	c     114	milling_@72	"milling_capacity_6"	0.0000000000000000e+00
+zimpl	c     115	planing_@73	"planing_capacity_1"	0.0000000000000000e+00
+zimpl	c     116	planing_@74	"planing_capacity_2"	0.0000000000000000e+00
+zimpl	c     117	planing_@75	"planing_capacity_3"	0.0000000000000000e+00
+zimpl	c     118	planing_@76	"planing_capacity_4"	0.0000000000000000e+00
+zimpl	c     119	planing_@77	"planing_capacity_5"	0.0000000000000000e+00
+zimpl	c     120	planing_@78	"planing_capacity_6"	0.0000000000000000e+00
+zimpl	o       0	profit_to@0	"profit_total"
